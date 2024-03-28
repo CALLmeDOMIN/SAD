@@ -1,0 +1,1796 @@
+"Company","Specific_Bean_Origin_or_Bar_Name","REF","Review_Date","Cocoa_Percentage","Company_Location","Rating","Broad_Bean_Origin","is_bitter"
+"A. Morin","Agua Grande",1876,2016,63,"France",3.75,"Sao Tome",FALSE
+"A. Morin","Kpime",1676,2015,70,"France",2.75,"Togo",FALSE
+"A. Morin","Atsane",1676,2015,70,"France",3,"Togo",FALSE
+"A. Morin","Akata",1680,2015,70,"France",3.5,"Togo",FALSE
+"A. Morin","Quilla",1704,2015,70,"France",3.5,"Peru",FALSE
+"A. Morin","Carenero",1315,2014,70,"France",2.75,"Venezuela",FALSE
+"A. Morin","Cuba",1315,2014,70,"France",3.5,"Cuba",FALSE
+"A. Morin","Sur del Lago",1315,2014,70,"France",3.5,"Venezuela",FALSE
+"A. Morin","Puerto Cabello",1319,2014,70,"France",3.75,"Venezuela",FALSE
+"A. Morin","Pablino",1319,2014,70,"France",4,"Peru",FALSE
+"A. Morin","Panama",1011,2013,70,"France",2.75,"Panama",FALSE
+"A. Morin","Madagascar",1011,2013,70,"France",3,"Madagascar",FALSE
+"A. Morin","Brazil",1011,2013,70,"France",3.25,"Brazil",FALSE
+"A. Morin","Equateur",1011,2013,70,"France",3.75,"Ecuador",FALSE
+"A. Morin","Colombie",1015,2013,70,"France",2.75,"Colombia",FALSE
+"A. Morin","Birmanie",1015,2013,70,"France",3,"Burma",FALSE
+"A. Morin","Papua New Guinea",1015,2013,70,"France",3.25,"Papua New Guinea",FALSE
+"A. Morin","Chuao",1015,2013,70,"France",4,"Venezuela",FALSE
+"A. Morin","Piura",1019,2013,70,"France",3.25,"Peru",FALSE
+"A. Morin","Chanchamayo Province",1019,2013,70,"France",3.5,"Peru",FALSE
+"A. Morin","Chanchamayo Province",1019,2013,63,"France",4,"Peru",FALSE
+"A. Morin","Bolivia",797,2012,70,"France",3.5,"Bolivia",FALSE
+"A. Morin","Peru",797,2012,63,"France",3.75,"Peru",FALSE
+"Acalli","Chulucanas, El Platanal",1462,2015,70,"U.S.A.",3.75,"Peru",FALSE
+"Acalli","Tumbes, Norandino",1470,2015,70,"U.S.A.",3.75,"Peru",FALSE
+"Adi","Vanua Levu",705,2011,60,"Fiji",2.75,"Fiji",FALSE
+"Adi","Vanua Levu, Toto-A",705,2011,80,"Fiji",3.25,"Fiji",TRUE
+"Adi","Vanua Levu",705,2011,88,"Fiji",3.5,"Fiji",TRUE
+"Adi","Vanua Levu, Ami-Ami-CA",705,2011,72,"Fiji",3.5,"Fiji",TRUE
+"Aequare (Gianduja)","Los Rios, Quevedo, Arriba",370,2009,55,"Ecuador",2.75,"Ecuador",FALSE
+"Aequare (Gianduja)","Los Rios, Quevedo, Arriba",370,2009,70,"Ecuador",3,"Ecuador",FALSE
+"Ah Cacao","Tabasco",316,2009,70,"Mexico",3,"Mexico",FALSE
+"Akesson's (Pralus)","Bali (west), Sukrama Family, Melaya area",636,2011,75,"Switzerland",3.75,"Indonesia",TRUE
+"Akesson's (Pralus)","Madagascar, Ambolikapiky P.",502,2010,75,"Switzerland",2.75,"Madagascar",TRUE
+"Akesson's (Pralus)","Monte Alegre, D. Badero",508,2010,75,"Switzerland",2.75,"Brazil",TRUE
+"Alain Ducasse","Trinite",1215,2014,65,"France",2.75,"Trinidad",FALSE
+"Alain Ducasse","Vietnam",1215,2014,75,"France",2.75,"Vietnam",TRUE
+"Alain Ducasse","Madagascar",1215,2014,75,"France",3,"Madagascar",TRUE
+"Alain Ducasse","Chuao",1061,2013,75,"France",2.5,"Venezuela",TRUE
+"Alain Ducasse","Piura, Perou",1173,2013,75,"France",2.5,"Peru",TRUE
+"Alexandre","Winak Coop, Napo",1944,2017,70,"Netherlands",3.5,"Ecuador",FALSE
+"Alexandre","La Dalia, Matagalpa",1944,2017,70,"Netherlands",3.5,"Nicaragua",FALSE
+"Alexandre","Tien Giang",1944,2017,70,"Netherlands",3.5,"Vietnam",FALSE
+"Alexandre","Makwale Village, Kyela",1944,2017,70,"Netherlands",3.5,"Tanzania",FALSE
+"Altus aka Cao Artisan","Momotombo",1728,2016,60,"U.S.A.",2.75,"Nicaragua",FALSE
+"Altus aka Cao Artisan","Acopagro",1728,2016,60,"U.S.A.",3,"Peru",FALSE
+"Altus aka Cao Artisan","CIAAB Coop",1732,2016,60,"U.S.A.",2.5,"Bolivia",FALSE
+"Altus aka Cao Artisan","Villa Andina",1732,2016,60,"U.S.A.",2.5,"Peru",FALSE
+"Altus aka Cao Artisan","Gruppo Salinas",1732,2016,60,"U.S.A.",2.75,"Ecuador",FALSE
+"Altus aka Cao Artisan","Sur del Lago",1125,2013,60,"U.S.A.",2.5,"Venezuela",FALSE
+"Altus aka Cao Artisan","Conacado",1125,2013,60,"U.S.A.",3,"Dominican Republic",FALSE
+"Altus aka Cao Artisan","Bolivia",1129,2013,80,"U.S.A.",3.25,"Bolivia",TRUE
+"Altus aka Cao Artisan","Bolivia",1133,2013,60,"U.S.A.",3,"Bolivia",FALSE
+"Altus aka Cao Artisan","Peru",1133,2013,60,"U.S.A.",3.25,"Peru",FALSE
+"Amano","Morobe",725,2011,70,"U.S.A.",4,"Papua New Guinea",FALSE
+"Amano","Dos Rios",470,2010,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Amano","Guayas",470,2010,70,"U.S.A.",4,"Ecuador",FALSE
+"Amano","Chuao",544,2010,70,"U.S.A.",3,"Venezuela",FALSE
+"Amano","Montanya",363,2009,70,"U.S.A.",3,"Venezuela",FALSE
+"Amano","Bali, Jembrana",304,2008,70,"U.S.A.",2.75,"Indonesia",FALSE
+"Amano","Madagascar",129,2007,70,"U.S.A.",3.5,"Madagascar",FALSE
+"Amano","Cuyagua",147,2007,70,"U.S.A.",3,"Venezuela",FALSE
+"Amano","Ocumare",175,2007,70,"U.S.A.",3.75,"Venezuela",FALSE
+"Amatller (Simon Coll)","Ghana",322,2009,70,"Spain",3,"Ghana",FALSE
+"Amatller (Simon Coll)","Ecuador",327,2009,70,"Spain",2.75,"Ecuador",FALSE
+"Amatller (Simon Coll)","Ecuador",464,2009,85,"Spain",2.75,"Ecuador",TRUE
+"Amatller (Simon Coll)","Ghana",464,2009,85,"Spain",3,"Ghana",TRUE
+"Amazona","LamasdelChanka, San Martin, Oro Verde coop",1145,2013,72,"Peru",3.25,"Peru",TRUE
+"Amazona","Bellavista Gran Pajeten, San Martin",1145,2013,73,"Peru",3.5,"Peru",TRUE
+"Ambrosia","Belize",1494,2015,64,"Canada",3,"Belize",FALSE
+"Ambrosia","Madagascar",1494,2015,66,"Canada",3.25,"Madagascar",FALSE
+"Ambrosia","Dominican Republic",1498,2015,75,"Canada",3.25,"Dominican Republic",TRUE
+"Ambrosia","Papua New Guinea",1498,2015,63,"Canada",3.25,"Papua New Guinea",FALSE
+"Ambrosia","Venezuela",1498,2015,70,"Canada",3.25,"Venezuela",FALSE
+"Ambrosia","Peru",1498,2015,68,"Canada",3.5,"Peru",FALSE
+"Amedei","Piura, Blanco de Criollo",979,2012,70,"Italy",3.75,"Peru",FALSE
+"Amedei","Porcelana",111,2007,70,"Italy",4,"Venezuela",FALSE
+"Amedei","Nine",111,2007,75,"Italy",4," ",TRUE
+"Amedei","Chuao",111,2007,70,"Italy",5,"Venezuela",FALSE
+"Amedei","Ecuador",123,2007,70,"Italy",3,"Ecuador",FALSE
+"Amedei","Jamaica",123,2007,70,"Italy",3,"Jamaica",FALSE
+"Amedei","Grenada",123,2007,70,"Italy",3.5,"Grenada",FALSE
+"Amedei","Venezuela",123,2007,70,"Italy",3.75,"Venezuela",FALSE
+"Amedei","Madagascar",123,2007,70,"Italy",4,"Madagascar",FALSE
+"Amedei","Trinidad",129,2007,70,"Italy",3.5,"Trinidad",FALSE
+"Amedei","Toscano Black",170,2007,63,"Italy",3.5," ",FALSE
+"Amedei","Toscano Black",40,2006,70,"Italy",5," ",FALSE
+"Amedei","Toscano Black",75,2006,66,"Italy",4," ",FALSE
+"AMMA","Catongo",1065,2013,75,"Brazil",3.25,"Brazil",TRUE
+"AMMA","Monte Alegre, 3 diff. plantations",572,2010,85,"Brazil",2.75,"Brazil",TRUE
+"AMMA","Monte Alegre, 3 diff. plantations",572,2010,50,"Brazil",3.75,"Brazil",FALSE
+"AMMA","Monte Alegre, 3 diff. plantations",572,2010,75,"Brazil",3.75,"Brazil",TRUE
+"AMMA","Monte Alegre, 3 diff. plantations",572,2010,60,"Brazil",4,"Brazil",FALSE
+"Anahata","Elvesia",1259,2014,75,"U.S.A.",3,"Dominican Republic",TRUE
+"Animas","Alto Beni",1852,2016,75,"U.S.A.",3.5,"Bolivia",TRUE
+"Ara","Madagascar",1375,2014,75,"France",3,"Madagascar",TRUE
+"Ara","Chiapas",1379,2014,72,"France",2.5,"Mexico",TRUE
+"Ara","Equateur",1379,2014,75,"France",2.75,"Ecuador",TRUE
+"Ara","Trincheras",1379,2014,75,"France",3,"Venezuela",TRUE
+"Arete","San Juan",1724,2016,70,"U.S.A.",3.5,"Trinidad",FALSE
+"Arete","Kokoa Kamili",1724,2016,70,"U.S.A.",3.75,"Tanzania",FALSE
+"Arete","Tien Giang",1900,2016,73,"U.S.A.",3.5,"Vietnam",TRUE
+"Arete","Hacienda Victoria",1904,2016,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Arete","Costa Esmeraldas",1904,2016,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Arete","Lachua",1904,2016,70,"U.S.A.",3.5,"Guatemala",FALSE
+"Arete","Rugoso",1904,2016,70,"U.S.A.",3.75,"Nicaragua",FALSE
+"Arete","La Masica, FHIA",1908,2016,70,"U.S.A.",3.5,"Honduras",FALSE
+"Arete","Coto Brus, Terciopelo",1908,2016,70,"U.S.A.",4,"Costa Rica",FALSE
+"Arete","Phantom",1924,2016,70,"U.S.A.",4,"Peru",FALSE
+"Arete","Elvesia",1928,2016,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Arete","Matasawalevu",1928,2016,70,"U.S.A.",3.25,"Fiji",FALSE
+"Arete","Lam Dong",1928,2016,73,"U.S.A.",3.25,"Vietnam",TRUE
+"Arete","Fazenda Camboa",1534,2015,70,"U.S.A.",3.5,"Brazil",FALSE
+"Arete","Nacional",1534,2015,68,"U.S.A.",3.5,"Peru",FALSE
+"Arete","Puerto Quito, heirloom",1534,2015,70,"U.S.A.",3.75,"Ecuador",FALSE
+"Arete","Oko Caribe",1598,2015,70,"U.S.A.",3.5,"Domincan Republic",FALSE
+"Arete","Maya Mountain",1598,2015,70,"U.S.A.",3.75,"Belize",FALSE
+"Arete","Chuno",1598,2015,70,"U.S.A.",4,"Nicaragua",FALSE
+"Arete","Fazenda Camboa",1602,2015,75,"U.S.A.",2.75,"Brazil",TRUE
+"Arete","Guatemala",1602,2015,70,"U.S.A.",3.25,"Guatemala",FALSE
+"Arete","Camino Verde",1602,2015,75,"U.S.A.",3.5,"Ecuador",TRUE
+"Artisan du Chocolat","Trinidad, Heritage, Limited ed.",1193,2013,72,"U.K.",3.25,"Trinidad",TRUE
+"Artisan du Chocolat","Colombia, Casa Luker",947,2012,72,"U.K.",3.75,"Colombia",TRUE
+"Artisan du Chocolat","Haiti",729,2011,72,"U.K.",4,"Haiti",TRUE
+"Artisan du Chocolat","Panama",745,2011,72,"U.K.",2.75,"Panama",TRUE
+"Artisan du Chocolat","Venezuela",486,2010,100,"U.K.",1.75,"Venezuela",TRUE
+"Artisan du Chocolat","Jamaica",531,2010,72,"U.K.",3.75,"Jamaica",TRUE
+"Artisan du Chocolat","Costa Rica",600,2010,72,"U.K.",3.25,"Costa Rica",TRUE
+"Artisan du Chocolat","Ba Ria Vung Tau Province",600,2010,72,"U.K.",3.25,"Vietnam",TRUE
+"Artisan du Chocolat","Bali",600,2010,72,"U.K.",3.5,"Indonesia",TRUE
+"Artisan du Chocolat","Ocumare, Venezuela",355,2009,75,"U.K.",2.5,"Venezuela",TRUE
+"Artisan du Chocolat","Java",355,2009,72,"U.K.",2.75,"Indonesia",TRUE
+"Artisan du Chocolat","Brazil Rio Doce",363,2009,72,"U.K.",1.75,"Brazil",TRUE
+"Artisan du Chocolat","Madagascar",363,2009,80,"U.K.",3,"Madagascar",TRUE
+"Artisan du Chocolat","Peru",363,2009,75,"U.K.",3,"Peru",TRUE
+"Artisan du Chocolat","Dominican Republic",363,2009,72,"U.K.",3.25,"Dominican Republic",TRUE
+"Artisan du Chocolat","Congo",300,2008,72,"U.K.",3.75,"Congo",TRUE
+"Artisan du Chocolat (Casa Luker)","Orinoqua Region, Arauca",1181,2013,72,"U.K.",2.75,"Colombia",TRUE
+"Askinosie","Mababa",1780,2016,68,"U.S.A.",3.75,"Tanzania",FALSE
+"Askinosie","Tenende, Uwate",647,2011,72,"U.S.A.",3.75,"Tanzania",TRUE
+"Askinosie","Cortes",661,2011,70,"U.S.A.",3.75,"Honduras",FALSE
+"Askinosie","Davao",331,2009,77,"U.S.A.",3.75,"Philippines",TRUE
+"Askinosie","Xoconusco",141,2007,75,"U.S.A.",2.5,"Mexico",TRUE
+"Askinosie","San Jose del Tambo",175,2007,70,"U.S.A.",3,"Ecuador",FALSE
+"Bahen & Co.","Houseblend",1474,2015,80,"Australia",3.25," ",TRUE
+"Bahen & Co.","Papua New Guinea",1474,2015,70,"Australia",3.5,"Papua New Guinea",FALSE
+"Bahen & Co.","Sambirano",995,2012,70,"Australia",3,"Madagascar",FALSE
+"Bahen & Co.","Bahia",999,2012,70,"Australia",2.5,"Brazil",FALSE
+"Bahen & Co.","Houseblend",999,2012,70,"Australia",2.5," ",FALSE
+"Bakau","Bambamarca, 2015",1454,2015,70,"Peru",2.75,"Peru",FALSE
+"Bakau","Huallabamba, 2015",1454,2015,70,"Peru",3.5,"Peru",FALSE
+"Bar Au Chocolat","Bahia",1554,2015,70,"U.S.A.",3.5,"Brazil",FALSE
+"Bar Au Chocolat","Maranon Canyon",1295,2014,70,"U.S.A.",4,"Peru",FALSE
+"Bar Au Chocolat","Duarte Province",983,2012,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Bar Au Chocolat","Chiapas",983,2012,70,"U.S.A.",3.5,"Mexico",FALSE
+"Bar Au Chocolat","Sambirano",983,2012,70,"U.S.A.",3.75,"Madagascar",FALSE
+"Baravelli's","single estate",955,2012,80,"Wales",2.75,"Costa Rica",TRUE
+"Batch","Dominican Republic, Batch 3",1840,2016,65,"U.S.A.",3.5,"Domincan Republic",FALSE
+"Batch","Brazil",1868,2016,70,"U.S.A.",3.75,"Brazil",FALSE
+"Batch","Ecuador",1880,2016,65,"U.S.A.",3.25,"Ecuador",FALSE
+"Beau Cacao","Asajaya E, NW Borneo, b. #132/4500",1948,2017,73,"U.K.",3,"Malaysia",TRUE
+"Beau Cacao","Serian E., NW Borneo, b. #134/3800",1948,2017,72,"U.K.",3.25,"Malaysia",TRUE
+"Beehive","Brazil, Batch 20316",1784,2016,80,"U.S.A.",2.75,"Brazil",TRUE
+"Beehive","Dominican Republic, Batch 31616",1784,2016,70,"U.S.A.",2.75,"Domincan Republic",FALSE
+"Beehive","Ecuador, Batch 31516",1784,2016,70,"U.S.A.",2.75,"Ecuador",FALSE
+"Beehive","Ecuador",1788,2016,90,"U.S.A.",2.75,"Ecuador",TRUE
+"Belcolade","Costa Rica",586,2010,64,"Belgium",2.75,"Costa Rica",FALSE
+"Belcolade","Papua New Guinea",586,2010,64,"Belgium",2.75,"Papua New Guinea",FALSE
+"Belcolade","Peru",586,2010,64,"Belgium",2.75,"Peru",FALSE
+"Belcolade","Ecuador",586,2010,71,"Belgium",3.5,"Ecuador",TRUE
+"Bellflower","Kakao Kamili, Kilombero Valley",1800,2016,70,"U.S.A.",3.5,"Tanzania",FALSE
+"Bellflower","Alto Beni, Palos Blanco",1804,2016,70,"U.S.A.",3.25,"Bolivia",FALSE
+"Bellflower","Oko Caribe, Duarte P.",1864,2016,70,"U.S.A.",3.5,"Domincan Republic",FALSE
+"Belyzium","Belize south, low fermentation",1768,2016,83,"Germany",2.75,"Belize",TRUE
+"Belyzium","Belize south",1768,2016,78,"Germany",3,"Belize",TRUE
+"Belyzium","Belize south",1768,2016,83,"Germany",3.5,"Belize",TRUE
+"Benoit Nihant","Baracoa",1141,2013,74,"Belgium",3.5,"Cuba",TRUE
+"Benoit Nihant","Chuao",1141,2013,74,"Belgium",3.5,"Venezuela",TRUE
+"Benoit Nihant","Cuyagua Village",1141,2013,74,"Belgium",3.5,"Venezuela",TRUE
+"Benoit Nihant","Rio Peripa H.",1141,2013,73,"Belgium",4,"Ecuador",TRUE
+"Benoit Nihant","Bali, Sukrama Bros. Farm, Melaya, 62hr C",757,2011,72,"Belgium",4,"Indonesia",TRUE
+"Benoit Nihant","Somia Plantation, Sambirano, 70hr C",773,2011,72,"Belgium",3.75,"Madagascar",TRUE
+"Bernachon","Nature",797,2012,55,"France",2.75," ",FALSE
+"Beschle (Felchlin)","Madagascar",636,2011,64,"Switzerland",3,"Madagascar",FALSE
+"Beschle (Felchlin)","Maracaibo",636,2011,88,"Switzerland",3,"Venezuela",TRUE
+"Beschle (Felchlin)","Indigena Amazonia, Grand Cru, Quizas",636,2011,72,"Switzerland",3.5,"Venezuela",TRUE
+"Beschle (Felchlin)","Ecuador",636,2011,72,"Switzerland",4,"Ecuador",TRUE
+"Beschle (Felchlin)","Carenero S., Barlovento, Grand Cru",508,2010,70,"Switzerland",3.25,"Venezuela",FALSE
+"Beschle (Felchlin)","Porcelana, Premier Cru, Quizas No. 1",508,2010,74,"Switzerland",3.25,"Venezuela",TRUE
+"Beschle (Felchlin)","Java, Grand Cru",508,2010,64,"Switzerland",3.5,"Indonesia",FALSE
+"Beschle (Felchlin)","Ocumare, Premier Cru, Quizas No. 2",508,2010,72,"Switzerland",3.5,"Venezuela",TRUE
+"Bisou","Nicaragua, American style",1482,2015,76,"U.S.A.",2.5,"Nicaragua",TRUE
+"Bisou","San Andres, American style",1486,2015,76,"U.S.A.",2.5,"Costa Rica",TRUE
+"Bisou","San Andres, silk",1486,2015,78,"U.S.A.",2.5,"Costa Rica",TRUE
+"Bisou","Belize",1486,2015,86,"U.S.A.",3.25,"Belize",TRUE
+"Bittersweet Origins","Ghana",963,2012,72,"U.S.A.",3.5,"Ghana",TRUE
+"Bittersweet Origins","Bali, Singaraja",478,2010,75,"U.S.A.",3.25,"Indonesia",TRUE
+"Bittersweet Origins","2009 Hapa Nibby",502,2010,70,"U.S.A.",3.75,"Dominican Rep., Bali",FALSE
+"Bittersweet Origins","Bali, Singaraja",558,2010,65,"U.S.A.",2.75,"Indonesia",FALSE
+"Bittersweet Origins","Sambirano, 2009",565,2010,70,"U.S.A.",3,"Madagascar",FALSE
+"Bittersweet Origins","Ocumare, prototype",565,2010,78,"U.S.A.",3,"Venezuela",TRUE
+"Bittersweet Origins","Puerto Plata",414,2009,75,"U.S.A.",3,"Dominican Republic",TRUE
+"Bittersweet Origins","Puerto Plata",414,2009,65,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Bittersweet Origins","Sambirano",423,2009,75,"U.S.A.",3.25,"Madagascar",TRUE
+"Bittersweet Origins","Sambirano",431,2009,65,"U.S.A.",3.5,"Madagascar",FALSE
+"Bittersweet Origins","Sambirano",233,2008,71,"U.S.A.",3,"Madagascar",TRUE
+"Bittersweet Origins","Bocas del Toro",233,2008,75,"U.S.A.",3.5,"Panama",TRUE
+"Bittersweet Origins","Puerto Plata",233,2008,68,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Bittersweet Origins","Ankasa",256,2008,70,"U.S.A.",3,"Ghana",FALSE
+"Black Mountain","La Red",256,2008,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Black Mountain","Carenero Superior",256,2008,70,"U.S.A.",2.75,"Venezuela",FALSE
+"Black Mountain","Matiguas",256,2008,70,"U.S.A.",3,"Nicaragua",FALSE
+"Black River (A. Morin)","Blue Mountain Region",1331,2014,70,"U.K.",2.75,"Jamaica",FALSE
+"Blanxart","Congo, Grand Cru",1046,2013,82,"Spain",3.5,"Congo",TRUE
+"Blanxart","Organic Dark",322,2009,72,"Spain",2.75," ",TRUE
+"Blue Bandana","Akesson's E., Sambirano V.",1740,2016,82,"U.S.A.",3.5,"Madagascar",TRUE
+"Blue Bandana","Lachua",1752,2016,75,"U.S.A.",2.75,"Guatemala",TRUE
+"Blue Bandana","Kokoa Kamili",1752,2016,75,"U.S.A.",3.5,"Tanzania",TRUE
+"Blue Bandana","Zorzal Reserva",1756,2016,75,"U.S.A.",3,"Dominican Republic",TRUE
+"Blue Bandana","Guatemala",911,2012,70,"U.S.A.",3.5,"Guatemala",FALSE
+"Blue Bandana","Madagascar",911,2012,70,"U.S.A.",3.75,"Madagascar",FALSE
+"Bonnat","Selva Maya",1912,2016,75,"France",3.5,"Mexico",TRUE
+"Bonnat","Kaori",1339,2014,75,"France",4,"Brazil",TRUE
+"Bonnat","Los Colorados, Santo Domingo, Equateur",1418,2014,75,"France",3.25,"Dominican Republic",TRUE
+"Bonnat","Surfin",1418,2014,65,"France",3.75,"Venez,Africa,Brasil,Peru,Mex",FALSE
+"Bonnat","Maragnam",1038,2013,75,"France",3.5,"Brazil",TRUE
+"Bonnat","Gabon",1042,2013,75,"France",3.25,"Gabon",TRUE
+"Bonnat","Cuba",629,2011,75,"France",3.5,"Cuba",TRUE
+"Bonnat","Cusco, Cacao Cusco",629,2011,75,"France",3.5,"Peru",TRUE
+"Bonnat","Piura Blanco",629,2011,75,"France",3.5,"Peru",TRUE
+"Bonnat","Libanio",629,2011,75,"France",3.75,"Brazil",TRUE
+"Bonnat","Haiti",629,2011,75,"France",4,"Haiti",TRUE
+"Bonnat","Madagascar, 100% criollo",629,2011,75,"France",4,"Madagascar",TRUE
+"Bonnat","Juliana",672,2011,75,"France",3.5,"Brazil",TRUE
+"Bonnat","Jamaique",761,2011,75,"France",3.25,"Jamaica",TRUE
+"Bonnat","Ivory Coast",331,2009,75,"France",3,"Ivory Coast",TRUE
+"Bonnat","Porcelana, Apotequil",336,2009,75,"France",2.75,"Peru",TRUE
+"Bonnat","Porcelana, Tabasco, Marfil de Blanco",336,2009,75,"France",3,"Mexico",TRUE
+"Bonnat","Xoconusco, cacao Real",395,2009,75,"France",3,"Mexico",TRUE
+"Bonnat","Porcelana, Venezuela",199,2008,75,"France",4,"Venezuela",TRUE
+"Bonnat","Equateur",123,2007,75,"France",2.5,"Ecuador",TRUE
+"Bonnat","Trinite",24,2006,75,"France",3.75,"Carribean",TRUE
+"Bonnat","Ocumare, Puerto Cabello",32,2006,75,"France",4,"Venezuela",TRUE
+"Bonnat","Maracaibo, El Rosario",48,2006,75,"France",4,"Venezuela",TRUE
+"Bonnat","Madagascar",75,2006,75,"France",4,"Madagascar",TRUE
+"Bonnat","One Hundred",81,2006,100,"France",1.5," ",TRUE
+"Bonnat","Ceylan",81,2006,75,"France",3,"Sri Lanka",TRUE
+"Bonnat","Chuao",81,2006,75,"France",4,"Venezuela",TRUE
+"Bouga Cacao (Tulicorp)","El Oro, Hacienda de Oro",316,2009,77,"Ecuador",3.25,"Ecuador",TRUE
+"Bouga Cacao (Tulicorp)","El Oro, Hacienda de Oro",341,2009,100,"Ecuador",1.5,"Ecuador",TRUE
+"Bowler Man","Maya Mountain",1267,2014,70,"U.S.A.",2.75,"Belize",FALSE
+"Bowler Man","Conacado",1271,2014,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Brasstown aka It's Chocolate","Guasare, Zulia Prov.",1868,2016,70,"U.S.A.",3.5,"Venezuela",FALSE
+"Brasstown aka It's Chocolate","O'payo, Waslala",1868,2016,70,"U.S.A.",3.75,"Nicaragua",FALSE
+"Brasstown aka It's Chocolate","Conacado",1462,2015,68,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Brasstown aka It's Chocolate","Maya Mountain",1255,2014,70,"U.S.A.",3.75,"Belize",FALSE
+"Brasstown aka It's Chocolate","Chuao",1355,2014,70,"U.S.A.",4,"Venezuela",FALSE
+"Brasstown aka It's Chocolate","Cooproagro",1125,2013,72,"U.S.A.",3,"Dominican Republic",TRUE
+"Brasstown aka It's Chocolate","Camino Verde, Guayas",1125,2013,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Brasstown aka It's Chocolate","Ghana",1129,2013,75,"U.S.A.",3.5,"Ghana",TRUE
+"Brasstown aka It's Chocolate","Chuao, Mantuano blend",1129,2013,85,"U.S.A.",3.5,"Venezuela",TRUE
+"Brazen","Elvesia P.",1514,2015,60,"U.S.A.",3,"Dominican Republic",FALSE
+"Brazen","Elvesia P.",1514,2015,80,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Brazen","Alta Verapaz, 2014",1514,2015,70,"U.S.A.",3.5,"Guatemala",FALSE
+"Brazen","Ambolikapiky P.",1518,2015,80,"U.S.A.",2.75,"Madagascar",TRUE
+"Brazen","Maya Mountain",1518,2015,80,"U.S.A.",3.25,"Belize",TRUE
+"Brazen","Ambolikapkly P.",1518,2015,60,"U.S.A.",3.25,"Madagascar",FALSE
+"Breeze Mill","Jamaica",1149,2013,70,"U.S.A.",3,"Jamaica",FALSE
+"Bright","Somia Plantation",1231,2014,72,"Australia",3,"Madagascar",TRUE
+"Bright","Marabel Farms",1231,2014,70,"Australia",3.5,"Dominican Republic",FALSE
+"Bright","Camino Verde, Balao, Guayas",1231,2014,72,"Australia",3.5,"Ecuador",TRUE
+"Bright","Gran Couva",1235,2014,68,"Australia",2.75,"Trinidad",FALSE
+"Britarev","Ecuador",1638,2015,70,"Russia",3.25,"Ecuador",FALSE
+"Bronx Grrl Chocolate","Dominican Republic",1181,2013,68,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Burnt Fork Bend","Trinidad",1299,2014,72,"U.S.A.",3.25,"Trinidad",TRUE
+"Burnt Fork Bend","Mindo",1299,2014,72,"U.S.A.",3.5,"Ecuador",TRUE
+"Burnt Fork Bend","Belize",1303,2014,72,"U.S.A.",3.25,"Belize",TRUE
+"Burnt Fork Bend","Blend",1303,2014,72,"U.S.A.",3.25," ",TRUE
+"Burnt Fork Bend","Ecuador, Bob Bar",1323,2014,60,"U.S.A.",2.5,"Ecuador",FALSE
+"Cacao Arabuco","Puerto Rico",1606,2015,70,"Puerto Rico",2.5,"Puerto Rico",FALSE
+"Cacao Atlanta","Tumbes",1215,2014,75,"U.S.A.",2.5,"Peru",TRUE
+"Cacao Atlanta","Dominican Republic, ""Love Bar""",502,2010,75,"U.S.A.",2.5,"Dominican Republic",TRUE
+"Cacao Atlanta","Dominican Republic w/ nibs",502,2010,75,"U.S.A.",2.75,"Dominican Republic",TRUE
+"Cacao Atlanta","Patanemo",600,2010,75,"U.S.A.",2.25,"Venezuela",TRUE
+"Cacao Barry","Grand 'Anse",1716,2016,65,"France",3.5,"Haiti",FALSE
+"Cacao Barry","Santo Domingo",586,2010,70,"France",3,"Dominican Republic",FALSE
+"Cacao Barry","Tanzania",300,2008,75,"France",2,"Tanzania",TRUE
+"Cacao Barry","Venezuela",141,2007,72,"France",2,"Venezuela",TRUE
+"Cacao Barry","Mexico",147,2007,66,"France",3,"Mexico",FALSE
+"Cacao de Origen","Chuao",1688,2015,77,"Venezuela",3.5,"Venezuela",TRUE
+"Cacao de Origen","Rio Caribe",1692,2015,75,"Venezuela",3.25,"Venezuela",TRUE
+"Cacao de Origen","Agua Fria; Sucre region",1391,2014,75,"Venezuela",2.5,"Venezuela",TRUE
+"Cacao de Origen","Macuare; Miranda; Chloe formula",1391,2014,74,"Venezuela",3.25,"Venezuela",TRUE
+"Cacao de Origen","Chuao, Aragua region",1391,2014,75,"Venezuela",3.5,"Venezuela",TRUE
+"Cacao de Origen","Chuao, Aragua region",1395,2014,70,"Venezuela",3.75,"Venezuela",FALSE
+"Cacao de Origin","Hacienda la Trinidad",1668,2015,74,"Venezuela",3.25,"Venezuela",TRUE
+"Cacao Hunters","Macondo",1816,2016,71,"Colombia",3.75,"Colombia",TRUE
+"Cacao Hunters","Perla Negra",1816,2016,74,"Colombia",3.75,"Colombia",TRUE
+"Cacao Hunters","Arhuacos",1662,2015,72,"Colombia",3.75,"Colombia",TRUE
+"Cacao Hunters","Sierra Nevada",1430,2014,64,"Colombia",3.5,"Colombia",FALSE
+"Cacao Hunters","Tumaco",1430,2014,70,"Colombia",3.5,"Colombia",FALSE
+"Cacao Hunters","Boyaca, Aprocampa Coop, Pauna",1434,2014,69,"Colombia",2.75,"Colombia",FALSE
+"Cacao Hunters","Arauca",1434,2014,70,"Colombia",3.25,"Colombia",FALSE
+"Cacao Market","Jutiapa, lot 050916D",1860,2016,70,"U.S.A.",3.5,"Honduras",FALSE
+"Cacao Prieto","Criollo, Dominican Republic",991,2012,72,"U.S.A.",3.75,"Dominican Republic",TRUE
+"Cacao Prieto","Dominican Republicm, rustic",641,2011,72,"U.S.A.",3,"Dominican Republic",TRUE
+"Cacao Prieto","Dominican Republic",641,2011,66,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Cacao Prieto","Dominican Republic, rustic",647,2011,65,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Cacao Sampaka","Mahali, Kasai",1908,2016,70,"Spain",3.5,"Congo",FALSE
+"Cacao Sampaka","Madagascar",508,2010,71,"Spain",3.5,"Madagascar",TRUE
+"Cacao Sampaka","Ecuador",523,2010,71,"Spain",3.75,"Ecuador",TRUE
+"Cacao Sampaka","Papua",523,2010,71,"Spain",4,"Papua New Guinea",TRUE
+"Cacao Sampaka","Grenada",537,2010,71,"Spain",3.25,"Grenada",TRUE
+"Cacao Sampaka","Venezuela",537,2010,71,"Spain",3.5,"Venezuela",TRUE
+"Cacao Sampaka","Venezuela",537,2010,77,"Spain",3.5,"Venezuela",TRUE
+"Cacao Sampaka","Porcelana, Tabasco, La Joya",336,2009,70,"Spain",4,"Mexico",FALSE
+"Cacao Sampaka","Xoconusco, Chiapas",346,2009,70,"Spain",4,"Mexico",FALSE
+"Cacao Store","Madagascar",1684,2015,70,"Japan",3,"Madagascar",FALSE
+"Cacao Store","Peru",1684,2015,70,"Japan",3.25,"Peru",FALSE
+"Cacao Store","Vietnam",1684,2015,70,"Japan",3.5,"Vietnam",FALSE
+"Cacaosuyo (Theobroma Inversiones)","Piura",1173,2013,70,"Peru",3.25,"Peru",FALSE
+"Cacaoyere (Ecuatoriana)","Amazonia",237,2008,63,"Ecuador",3.5,"Ecuador",FALSE
+"Cacaoyere (Ecuatoriana)","Esmeraldas",237,2008,71,"Ecuador",3.5,"Ecuador",TRUE
+"Cacaoyere (Ecuatoriana)","Bolivar",245,2008,82,"Ecuador",2.5,"Ecuador",TRUE
+"Cacaoyere (Ecuatoriana)","Pichincha",259,2008,91,"Ecuador",1.5,"Ecuador",TRUE
+"Callebaut","Grenade",296,2008,60,"Belgium",2.75,"Grenada",FALSE
+"Callebaut","Baking",141,2007,70,"Belgium",1,"Ecuador",FALSE
+"C-Amaro","Cuba",1442,2014,75,"Italy",2.5,"Cuba",TRUE
+"C-Amaro","Dominican Republic",1442,2014,72,"Italy",3,"Dominican Republic",TRUE
+"C-Amaro","Lago di Como, Blu",1442,2014,70,"Italy",3.5," ",FALSE
+"C-Amaro","Ecuador",1185,2013,100,"Italy",3.5,"Ecuador",TRUE
+"C-Amaro","Venezuela",809,2012,80,"Italy",3,"Venezuela",TRUE
+"C-Amaro","Sao Tome",749,2011,78,"Italy",2.25,"Sao Tome",TRUE
+"C-Amaro","Trinidad",765,2011,70,"Italy",2.5,"Trinidad",FALSE
+"Cao","Porcelana",1804,2016,75,"U.S.A.",2.5,"Venezuela",TRUE
+"Cao","Tanzania",1804,2016,73,"U.S.A.",2.75,"Tanzania",TRUE
+"Cao","Porcelana, Batch 5163",1804,2016,70,"U.S.A.",3,"Venezuela",FALSE
+"Cao","Bolivia",1808,2016,75,"U.S.A.",3,"Bolivia",TRUE
+"Cao","Brazil",1808,2016,70,"U.S.A.",3.25,"Brazil",FALSE
+"Caoni (Tulicorp)","Esmeraldas",237,2008,77,"Ecuador",2,"Ecuador",TRUE
+"Caoni (Tulicorp)","Manabi",237,2008,77,"Ecuador",2.5,"Ecuador",TRUE
+"Caoni (Tulicorp)","Los Rios",245,2008,77,"Ecuador",2.75,"Ecuador",TRUE
+"Caoni (Tulicorp)","Manabi",266,2008,55,"Ecuador",3,"Ecuador",FALSE
+"Caoni (Tulicorp)","Los Rios",269,2008,55,"Ecuador",3.25,"Ecuador",FALSE
+"Caoni (Tulicorp)","Esmeraldas",269,2008,55,"Ecuador",3.5,"Ecuador",FALSE
+"Captain Pembleton","Saidor Estate, Madang P.",1263,2014,70,"New Zealand",3.5,"Papua New Guinea",FALSE
+"Captain Pembleton","Kulili Estate",1263,2014,70,"New Zealand",3.75,"Papua New Guinea",FALSE
+"Caribeans","Antigua, Special Reserve",1582,2015,72,"Costa Rica",3.5,"Guatemala",TRUE
+"Caribeans","Talamanca, Raul-Kekoldo community",1586,2015,72,"Costa Rica",3.25,"Costa Rica",TRUE
+"Caribeans","Anselmo Paraiso Estate",1586,2015,72,"Costa Rica",3.5,"Costa Rica",TRUE
+"Caribeans","Costa Rica",841,2012,72,"Costa Rica",3,"Costa Rica",TRUE
+"Caribeans","Costa Rica",845,2012,80,"Costa Rica",2.75,"Costa Rica",TRUE
+"Carlotta Chocolat","Arauca",1884,2016,65,"Colombia",3,"Colombia",FALSE
+"Carlotta Chocolat","Tumaco",1888,2016,65,"Colombia",3.25,"Colombia",FALSE
+"Carlotta Chocolat","Cordoba",1888,2016,65,"Colombia",3.25,"Colombia",FALSE
+"Carlotta Chocolat","Huila",1888,2016,65,"Colombia",3.5,"Colombia",FALSE
+"Carlotta Chocolat","Cesar",1888,2016,65,"Colombia",3.5,"Colombia",FALSE
+"Castronovo","Maya Mtn, Batch 454, Heirloom",1724,2016,72,"U.S.A.",4,"Belize",TRUE
+"Castronovo","the lost city, gracias a dias, batch 362",1570,2015,72,"U.S.A.",3.5,"Honduras",TRUE
+"Castronovo","Duarte, Batch 360",1570,2015,70,"U.S.A.",3.75,"Domincan Republic",FALSE
+"Castronovo","Piaroa, Amazonas, Batch 350",1574,2015,72,"U.S.A.",3.5,"Venezuela",TRUE
+"Castronovo","Sierra Nevada",1347,2014,72,"U.S.A.",3.5,"Colombia",TRUE
+"Castronovo","Arauca",1371,2014,76,"U.S.A.",3.5,"Colombia",TRUE
+"Castronovo","Elvesia P.",1407,2014,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Castronovo","Bolivia",1101,2013,70,"U.S.A.",3,"Bolivia",FALSE
+"Castronovo","Conacado",1101,2013,73,"U.S.A.",3.5,"Dominican Republic",TRUE
+"Castronovo","San Martin",1105,2013,70,"U.S.A.",2.5,"Peru",FALSE
+"Castronovo","Guaniamo, Amazonas",1105,2013,70,"U.S.A.",3.25,"Venezuela",FALSE
+"Castronovo","Nicaragua",1109,2013,72,"U.S.A.",3.25,"Nicaragua",TRUE
+"Castronovo","Tumbes",1153,2013,70,"U.S.A.",2.75,"Peru",FALSE
+"Castronovo","Guaniamo",1153,2013,72,"U.S.A.",3,"Venezuela",TRUE
+"Cello","Ecuador",1247,2014,70,"U.S.A.",2.5,"Ecuador",FALSE
+"Cello","Peru",1247,2014,70,"U.S.A.",2.75,"Peru",FALSE
+"Cello","Venezuela",1251,2014,70,"U.S.A.",2.75,"Venezuela",FALSE
+"Cello","Bolivia",1251,2014,70,"U.S.A.",3,"Bolivia",FALSE
+"Cemoi","Equateur",404,2009,72,"France",2.75,"Ecuador",TRUE
+"Chaleur B","Uganda",1426,2014,70,"Canada",2.75,"Uganda",FALSE
+"Charm School","Maya Mtn",1900,2016,70,"U.S.A.",3.25,"Belize",FALSE
+"Chchukululu (Tulicorp)","Arriba",486,2010,55,"Ecuador",2.75,"Ecuador",FALSE
+"Chchukululu (Tulicorp)","Los Rios",252,2008,75,"Ecuador",3,"Ecuador",TRUE
+"Chequessett","la Amistad",1235,2014,70,"U.S.A.",3.5,"Costa Rica",FALSE
+"Chloe Chocolat","Blend No. 1",672,2011,70,"France",3.5," ",FALSE
+"Chocablog","Ecuador",1454,2015,70,"U.K.",3.25,"Ecuador",FALSE
+"Choco Del Sol","Maya Mountain w/ nibs",1407,2014,75,"Germany",3,"Belize",TRUE
+"Choco Del Sol","Maya Mountain",1407,2014,82,"Germany",3.25,"Belize",TRUE
+"Choco Dong","Mekong Delta, early 2014 Harvest",1696,2015,70,"South Korea",2.75,"Vietnam",FALSE
+"Choco Dong","Tawau, Oct. 2015 Harvest",1696,2015,70,"South Korea",3.5,"Malaysia",FALSE
+"Chocolarder","Peru",1482,2015,65,"U.K.",2.5,"Peru",FALSE
+"Chocolarder","Peru + nibs",1482,2015,65,"U.K.",2.75,"Peru",FALSE
+"Chocolarder","Dominican Republic",1514,2015,80,"U.K.",2.5,"Dominican Republic",TRUE
+"Chocola'te","Madagascar",647,2011,70,"U.S.A.",3.75,"Madagascar",FALSE
+"Chocola'te","Venezuela",647,2011,68,"U.S.A.",3.75,"Venezuela",FALSE
+"Chocolate Alchemist-Philly","Tumbes, ""Zarumilla""",1772,2016,90,"U.S.A.",2.5,"Peru",TRUE
+"Chocolate Alchemist-Philly","Philly Blend, 5 plantations",1772,2016,80,"U.S.A.",2.5," ",TRUE
+"Chocolate Con Amor","Wild Bolivian",1760,2016,70,"U.S.A.",2.5,"Bolivia",FALSE
+"Chocolate Con Amor","Uganda",1760,2016,70,"U.S.A.",2.75,"Uganda",FALSE
+"Chocolate Con Amor","Dominican Republic",1764,2016,60,"U.S.A.",3,"Dominican Republic",FALSE
+"Chocolate Con Amor","Dominican Republic",1764,2016,75,"U.S.A.",3,"Dominican Republic",TRUE
+"Chocolate Con Amor","Ocumare",1764,2016,80,"U.S.A.",3,"Venezuela",TRUE
+"Chocolate Con Amor","Ecuador",1764,2016,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Chocolate Con Amor","Nicaragua",1768,2016,80,"U.S.A.",2.75,"Nicaragua",TRUE
+"Chocolate Conspiracy","Peru",1259,2014,74,"U.S.A.",2.75,"Peru",TRUE
+"Chocolate Makers","Tres Hombres",1530,2015,75,"Amsterdam",3.25,"Dominican Republic",TRUE
+"Chocolate Makers","Congo, Gorilla bar",1530,2015,68,"Amsterdam",3.5,"Congo",FALSE
+"Chocolate Makers","Peru, Awagum bar",1530,2015,80,"Amsterdam",3.75,"Peru",TRUE
+"Chocolate Tree, The","Maranon",1582,2015,69,"Scotland",3.75,"Peru",FALSE
+"Chocolate Tree, The","Carenero Superior",1582,2015,80,"Scotland",3.75,"Venezuela",TRUE
+"Chocolate Tree, The","Peru",1121,2013,70,"Scotland",3.75,"Peru",FALSE
+"Chocolate Tree, The","Ecuador",919,2012,82,"Scotland",2.5,"Ecuador",TRUE
+"Chocolate Tree, The","Peru",919,2012,68,"Scotland",2.75,"Peru",FALSE
+"Chocolate Tree, The","Madagascar",919,2012,72,"Scotland",3.25,"Madagascar",TRUE
+"Chocolats Privilege","Xoconusco",1219,2014,70,"Canada",2.5,"Mexico",FALSE
+"ChocoReko","Patanemo",1454,2015,77,"Japan",3,"Venezuela",TRUE
+"Chocosol","Chiapas, Lacandon Jungle, Oaxacom Mtn",682,2011,65,"Canada",3.25,"Mexico",FALSE
+"Chocovic","Xoconusco",478,2010,71,"Spain",3.25,"Mexico",TRUE
+"Chocovic","Sambirano",478,2010,71,"Spain",3.5,"Madagascar",TRUE
+"Chocovic","Kendari",439,2009,60,"Spain",3.25," ",FALSE
+"Chocovic","Tarakan",439,2009,75,"Spain",3.25," ",TRUE
+"Chocovic","Ocumare",209,2008,71,"Spain",3.5,"Venezuela",TRUE
+"Chocovic","Bolivar, Guaranda",117,2007,71,"Spain",2.5,"Ecuador",TRUE
+"Chocovic","Guyave",117,2007,71,"Spain",2.5,"Grenada",TRUE
+"Chocovic","Maragda",117,2007,70,"Spain",3," ",FALSE
+"Chocovivo","Tabasco",1522,2015,65,"U.S.A.",2.5,"Mexico",FALSE
+"Chocovivo","Tabasco",1522,2015,75,"U.S.A.",2.5,"Mexico",TRUE
+"Choklat","Ocumare",377,2009,80,"Canada",2.5,"Venezuela",TRUE
+"Choklat","Porcelana, Tabasco",377,2009,70,"Canada",2.75,"Mexico",FALSE
+"Choklat","Brazilian",377,2009,70,"Canada",3,"Brazil",FALSE
+"Choklat","Brazilian",377,2009,80,"Canada",3,"Brazil",TRUE
+"Choklat","Ocumare",377,2009,70,"Canada",3,"Venezuela",FALSE
+"Chokolat Elot (Girard)","Guadeloupe",1149,2013,42,"Martinique",2.75,"Martinique",FALSE
+"Choocsol","Chiapas, Lacandon Jungle, Oaxacom Mtn",1832,2016,75,"Canada",3.25,"Mexico",TRUE
+"Christopher Morel (Felchlin)","Maranon Canyon, Fortunato No. 4",666,2011,68,"Canada",3.75,"Peru",FALSE
+"Chuao Chocolatier","Choroni",445,2009,61,"U.S.A.",3,"Venezuela",FALSE
+"Chuao Chocolatier (Pralus)","Chuao",486,2010,77,"U.S.A.",2.75,"Venezuela",TRUE
+"Claudio Corallo","Terreiro Velho P.",470,2010,73.5,"Sao Tome",3.75,"Sao Tome & Principe",TRUE
+"Claudio Corallo","Terreiro Velho P. w/ sugar crystals",209,2008,80,"Sao Tome",3,"Sao Tome & Principe",TRUE
+"Claudio Corallo","Terreiro Velho P.",227,2008,75,"Sao Tome",4,"Sao Tome & Principe",TRUE
+"Claudio Corallo","Principe",252,2008,100,"Sao Tome",1,"Sao Tome & Principe",TRUE
+"Cloudforest","Camino Verde P., Balao, Guayas, 2014",1486,2015,73,"U.S.A.",3.5,"Ecuador",TRUE
+"Coleman & Davis","Sambirano",1646,2015,75,"U.S.A.",3,"Madagascar",TRUE
+"Compania de Chocolate (Salgado)","Sur del Lago",579,2010,70,"Argentina",3.25,"Venezuela",FALSE
+"Compania de Chocolate (Salgado)","Carenero Superior",292,2008,80,"Argentina",2.75,"Venezuela",TRUE
+"Compania de Chocolate (Salgado)","Moxos",292,2008,72,"Argentina",3.25,"Bolivia",TRUE
+"Compania de Chocolate (Salgado)","Ocumare",292,2008,70,"Argentina",3.75,"Venezuela",FALSE
+"Compania de Chocolate (Salgado)","Esmeraldas",296,2008,88,"Argentina",2.75,"Ecuador",TRUE
+"Condor","Camino Verde",1630,2015,76,"U.S.A.",3.5,"Ecuador",TRUE
+"Confluence","Tien Giang, 2015, batch 10-2-16",1916,2016,78,"U.S.A.",2.75,"Vietnam",TRUE
+"Coppeneur","Ecuador, Puristique",1169,2013,65,"Germany",3.25,"Ecuador",FALSE
+"Coppeneur","Ghana Puristique",813,2012,85,"Germany",3.5,"Ghana",TRUE
+"Coppeneur","Ecuador Puristique",817,2012,100,"Germany",1.5,"Ecuador",TRUE
+"Coppeneur","Uba Budo",821,2012,72,"Germany",3.75,"Sao Tome & Principe",TRUE
+"Coppeneur","Madagascar",959,2012,70,"Germany",3.5,"Madagascar",FALSE
+"Coppeneur","Grenada",470,2010,72,"Germany",3.25,"Grenada",TRUE
+"Coppeneur","Chuao",478,2010,70,"Germany",3,"Venezuela",FALSE
+"Coppeneur","Los Rios, H. Iara",558,2010,72,"Germany",2.5,"Ecuador",TRUE
+"Coppeneur","Trinidad",558,2010,72,"Germany",3,"Trinidad",TRUE
+"Coppeneur","Jamaica",558,2010,72,"Germany",3.25,"Jamaica",TRUE
+"Coppeneur","Ocumare 61",558,2010,72,"Germany",3.25,"Venezuela",TRUE
+"Coppeneur","Porcelana, Apotequil",341,2009,72,"Germany",3,"Peru",TRUE
+"Coppeneur","Porcelana, Apotequil",445,2009,62,"Germany",3.25,"Peru",FALSE
+"Coppeneur","Chuao 100hr",451,2009,70,"Germany",3.5,"Venezuela",FALSE
+"Coppeneur","Chuao 70hr",451,2009,70,"Germany",3.75,"Venezuela",FALSE
+"Coppeneur","Porcelana, Tabasco, Mexico",220,2008,72,"Germany",3,"Mexico",TRUE
+"Coppeneur","Porcelana, Venezuela",220,2008,72,"Germany",3,"Venezuela",TRUE
+"Coppeneur","Sambirano, Menava P.",196,2007,72,"Germany",3,"Madagascar",TRUE
+"Cote d' Or (Kraft)","Sensations Intense",48,2006,70,"Belgium",1," ",FALSE
+"Cravve","New Ireland",1283,2014,70,"Australia",2.5,"Papua New Guinea",FALSE
+"Cravve","Vanuatu, batch 2410",1335,2014,83,"Australia",2.75,"Vanuatu",TRUE
+"Cravve","Tanzania, batch a1",971,2012,75,"Australia",3.25,"Tanzania",TRUE
+"Cravve","Bahia, batch a1213",975,2012,65,"Australia",3.25,"Brazil",FALSE
+"Cravve","Namau Village, N. Taileva P., batch a2812",975,2012,67,"Australia",3.25,"Fiji",FALSE
+"Cravve","Vanuatu",975,2012,64,"Australia",3.25,"Vanuatu",FALSE
+"Cravve","Djual Island",975,2012,75,"Australia",3.5,"Papua New Guinea",TRUE
+"Creo","""heirloom"", Arriba Nacional",1736,2016,85,"U.S.A.",3.25,"Ecuador",TRUE
+"Creo","""heirloom"", Arriba Nacional",1736,2016,73,"U.S.A.",3.75,"Ecuador",TRUE
+"Daintree","Goodman Estate",1654,2015,70,"Australia",2.75,"Australia",FALSE
+"Daintree","Daintree Estates, N. Queensland",785,2011,70,"Australia",3.25,"Australia",FALSE
+"Dalloway","Dominican Republic, batch 7",1928,2017,72,"U.S.A.",2.75,"Dominican Republic",TRUE
+"Damson","Robson Estate",1610,2015,70,"U.K.",3,"Trinidad",FALSE
+"Damson","Los Rios",1610,2015,70,"U.K.",3.5,"Ecuador",FALSE
+"Damson","Crayfish Bay aka Non Pariel Estate",1666,2015,70,"U.K.",2.25,"Grenada",FALSE
+"Damson","O'Payo",1666,2015,70,"U.K.",2.75,"Nicaragua",FALSE
+"Dandelion","Zorzal Reserva, 2015 H., Kerchner",1816,2016,70,"U.S.A.",3.75," ",FALSE
+"Dandelion","Maya Mtn., Break Bar- Snark",1446,2015,70,"U.S.A.",3,"Belize",FALSE
+"Dandelion","Maya Mountain",1219,2014,70,"U.S.A.",3.5,"Belize",FALSE
+"Dandelion","Camino Verde P., Balao, Guayas, 2013",1295,2014,70,"U.S.A.",3.5,"Ecuador",FALSE
+"Dandelion","Buto",1303,2014,70,"U.S.A.",2.75,"Liberia",FALSE
+"Dandelion","San Francisco de Macoris, Cibao region",1387,2014,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Dandelion","Cumboto, farmer Jose Lugo",1026,2013,70,"U.S.A.",2.75,"Venezuela",FALSE
+"Dandelion","Patanemo",1026,2013,70,"U.S.A.",3.25,"Venezuela",FALSE
+"Dandelion","Mantuano, 2012",1085,2013,70,"U.S.A.",3.5,"Venezuela",FALSE
+"Dandelion","Papua New Guinea",1153,2013,70,"U.S.A.",3.5,"Papua New Guinea",FALSE
+"Dandelion","Upala",805,2012,70,"U.S.A.",3,"Costa Rica",FALSE
+"Dandelion","Colombian",805,2012,70,"U.S.A.",3.25,"Colombia",FALSE
+"Dandelion","Elvesia, 2011",915,2012,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Dandelion","Dominican Republic",654,2011,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Dandelion","Madagascar",654,2011,70,"U.S.A.",3.25,"Madagascar",FALSE
+"Dandelion","Tanzania",654,2011,70,"U.S.A.",3.25,"Tanzania",FALSE
+"Danta","Los Ujuxtes",1223,2014,82,"Guatemala",3.25,"Guatemala",TRUE
+"Danta","Chuao",987,2012,75,"Guatemala",3,"Venezuela",TRUE
+"Danta","Los Ujuxtes",987,2012,70,"Guatemala",3.75,"Guatemala",FALSE
+"Danta","Sambirano",987,2012,70,"Guatemala",3.75,"Madagascar",FALSE
+"Danta","Las Acacias E.",987,2012,70,"Guatemala",4,"Guatemala",FALSE
+"Danta","Oscuro, Finca Chimelb",991,2012,70,"Guatemala",3.25,"Guatemala",FALSE
+"Danta","Los Ujuxtes",661,2011,60,"Guatemala",3.5,"Guatemala",FALSE
+"Danta","Las Acacias E.",423,2009,75,"Guatemala",3,"Guatemala",TRUE
+"Danta","Las Acacias E.",423,2009,60,"Guatemala",3.25,"Guatemala",FALSE
+"DAR","Venezuela, batch 122",1920,2016,72,"U.S.A.",2.75,"Venezuela",TRUE
+"DAR","Vietnam",1920,2016,72,"U.S.A.",3,"Vietnam",TRUE
+"DAR","DUO, batch 002",1920,2016,70,"U.S.A.",3.25,"Ecuador, Costa Rica",FALSE
+"Dark Forest","Bolivia",1708,2016,75,"U.S.A.",3.25,"Bolivia",TRUE
+"Dark Forest","Madagascar",1550,2015,70,"U.S.A.",3,"Madagascar",FALSE
+"Dark Forest","Ocumare",1550,2015,70,"U.S.A.",3.25,"Venezuela",FALSE
+"Dark Forest","Tanzania",1554,2015,70,"U.S.A.",3,"Tanzania",FALSE
+"Dark Forest","Ecuador",1554,2015,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Davis","Ghana",1093,2013,70,"U.S.A.",2.5,"Ghana",FALSE
+"Davis","Rainforest",1093,2013,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Davis","Venezuela",1093,2013,70,"U.S.A.",2.75,"Venezuela",FALSE
+"Davis","West Africa",907,2012,58,"U.S.A.",3.25,"West Africa",FALSE
+"De Mendes","Nativo, Varzea",1462,2015,72,"Brazil",3.5,"Brazil",TRUE
+"De Mendes","Selvagem, Jari",1462,2015,65,"Brazil",3.5,"Brazil",FALSE
+"De Villiers","Bundibugyo District",1832,2016,70,"South Africa",2.5,"Uganda",FALSE
+"De Villiers","Sambirano Valley, batch 2477",1832,2016,70,"South Africa",3,"Madagascar",FALSE
+"Dean and Deluca (Belcolade)","Madagascar",170,2007,66,"U.S.A.",2.5,"Madagascar",FALSE
+"Dean and Deluca (Belcolade)","Costa Rica",175,2007,64,"U.S.A.",3,"Costa Rica",FALSE
+"Dean and Deluca (Belcolade)","Ecuador",175,2007,71,"U.S.A.",3,"Ecuador",TRUE
+"Dean and Deluca (Belcolade)","Ghana",175,2007,60,"U.S.A.",3,"Ghana",FALSE
+"Dean and Deluca (Belcolade)","Papua New Guinea",180,2007,64,"U.S.A.",3,"Papua New Guinea",FALSE
+"Dean and Deluca (Belcolade)","Peru",180,2007,64,"U.S.A.",3,"Peru",FALSE
+"Debauve & Gallais (Michel Cluizel)","Papua New Guinea",423,2009,64,"France",3,"Papua New Guinea",FALSE
+"Debauve & Gallais (Michel Cluizel)","Venezuela",263,2008,66,"France",3.75,"Venezuela",FALSE
+"Desbarres","Kilombero, batch 41",1916,2016,72,"Canada",2.5,"Tanzania",TRUE
+"DeVries","Bolivian",241,2008,80,"U.S.A.",2.75,"Bolivia",TRUE
+"DeVries","Costa Rica",166,2007,77,"U.S.A.",3.5,"Costa Rica",TRUE
+"DeVries","Dominican Republic",166,2007,77,"U.S.A.",3.5,"Dominican Republic",TRUE
+"Dick Taylor","Lanquin Estate",1952,2017,70,"U.S.A.",3.75,"Guatemala",FALSE
+"Dick Taylor","Tien Giang",1864,2016,78,"U.S.A.",3.5,"Vietnam",TRUE
+"Dick Taylor","Alto Beni, Wild Harvest, Limited Ed.",1634,2015,70,"U.S.A.",3.75,"Bolivia",FALSE
+"Dick Taylor","Elvesia",1235,2014,74,"U.S.A.",3.5,"Dominican Republic",TRUE
+"Dick Taylor","Ecuador, Choc. Garage Exclusive",1034,2013,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Dick Taylor","Camino Verde",1193,2013,76,"U.S.A.",3.5,"Ecuador",TRUE
+"Dick Taylor","Bolivia",895,2012,75,"U.S.A.",2.75,"Bolivia",TRUE
+"Dick Taylor","Belize",955,2012,72,"U.S.A.",2.75,"Belize",TRUE
+"Dick Taylor","Sambirano",661,2011,80,"U.S.A.",2.75,"Madagascar",TRUE
+"Dick Taylor","Sambirano",661,2011,72,"U.S.A.",3,"Madagascar",TRUE
+"Dick Taylor","Mantuano",682,2011,75,"U.S.A.",2.75,"Venezuela",TRUE
+"Dick Taylor","La Red",769,2011,74,"U.S.A.",3,"Dominican Republic",TRUE
+"Dick Taylor","Ecuador",769,2011,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Doble & Bignall","Puerto Cabello",1688,2015,85,"U.K.",3,"Venezuela",TRUE
+"Doble & Bignall","Panama, Raven",1371,2014,72,"U.K.",3.25,"Panama",TRUE
+"Doble & Bignall","Puerto Cabello, Mantuano",1371,2014,72,"U.K.",3.25,"Venezuela",TRUE
+"Doble & Bignall","Johe",1407,2014,72,"U.K.",3.5,"Nicaragua",TRUE
+"Dole (Guittard)","O'ahu, N. Shore, Waialua Estate",311,2009,70,"U.S.A.",3.75,"Hawaii",FALSE
+"Dolfin (Belcolade)","Africa",304,2008,88,"Belgium",3,"West Africa",TRUE
+"Dolfin (Belcolade)","Noir",63,2006,70,"Belgium",1.5," ",FALSE
+"Domori","Hacienda Victoria",1672,2015,70,"Italy",3.75,"Ecuador",FALSE
+"Domori","Ocumare 77",1672,2015,70,"Italy",3.75,"Venezuela",FALSE
+"Domori","IL100, H. San Jose",1109,2013,100,"Italy",3,"Venezuela",TRUE
+"Domori","Morogoro",863,2012,70,"Italy",3.5,"Tanzania",FALSE
+"Domori","Guasare",863,2012,70,"Italy",3.75,"Venezuela",FALSE
+"Domori","Canoabo, Hacienda San Jose",693,2011,70,"Italy",3.5,"Venezuela",FALSE
+"Domori","Chuao, Hacienda San Jose",470,2010,70,"Italy",3,"Venezuela",FALSE
+"Domori","Carupano, H. San Jose",227,2008,70,"Italy",3,"Venezuela",FALSE
+"Domori","Teyuna",272,2008,70,"Italy",3,"Colombia",FALSE
+"Domori","Blend No. 1",272,2008,78,"Italy",3.5," ",TRUE
+"Domori","Ilblend",272,2008,70,"Italy",3.75," ",FALSE
+"Domori","Porcelana",111,2007,70,"Italy",4,"Venezuela",FALSE
+"Domori","Ocumare 61, Puertomar",129,2007,75,"Italy",3.25,"Venezuela",TRUE
+"Domori","Granella",135,2007,60,"Italy",3.25,"Venezuela",FALSE
+"Domori","Madagascar",135,2007,70,"Italy",3.5,"Madagascar",FALSE
+"Domori","Madagared",192,2007,70,"Italy",3.5,"Madagascar",FALSE
+"Domori","Java, Javablond",192,2007,70,"Italy",3.75,"Indonesia",FALSE
+"Domori","Ecuador",192,2007,70,"Italy",4,"Ecuador",FALSE
+"Domori","Ocumare 67, Puertofino",192,2007,70,"Italy",4,"Venezuela",FALSE
+"Domori","Sur del Lago Classificado",87,2006,70,"Italy",3,"Venezuela",FALSE
+"Domori","Apurimac",87,2006,70,"Italy",3.25,"Peru",FALSE
+"Domori","Carenero Superior",87,2006,70,"Italy",3.5,"Venezuela",FALSE
+"Dormouse","Non Pariel Estate",1880,2016,75,"U.K.",2.75,"Grenada",TRUE
+"Dormouse","Rio Caribe, Batch 7",1672,2015,70,"U.K.",2.5,"Venezuela",FALSE
+"Dormouse","Colombia, Batch 9",1676,2015,80,"U.K.",2.75,"Colombia",TRUE
+"Dormouse","Madagascar, Batch 8",1676,2015,77,"U.K.",2.75,"Madagascar",TRUE
+"Duffy's","Rio Dulce, Xoco",1662,2015,70,"U.K.",4,"Guatemala",FALSE
+"Duffy's","Chuno, Xoco",1331,2014,70,"U.K.",3.5,"Nicaragua",FALSE
+"Duffy's","Rico Rugoso, Xoco",1331,2014,76,"U.K.",3.75,"Nicaragua",TRUE
+"Duffy's","Ocumare",923,2012,72,"U.K.",3.75,"Venezuela",TRUE
+"Duffy's","Indio Rojo, Xoco",623,2011,72,"U.K.",3.75,"Honduras",TRUE
+"Duffy's","Dominican Republic",661,2011,65,"U.K.",3.5,"Dominican Republic",FALSE
+"Duffy's","Bocas del Toro, Tierra Oscura",697,2011,72,"U.K.",3,"Panama",TRUE
+"Duffy's","Nicaliso, Xoco",697,2011,71,"U.K.",3.25,"Nicaragua",TRUE
+"Duffy's","Ocumare",765,2011,71,"U.K.",3.5,"Venezuela",TRUE
+"Duffy's","Panama",516,2010,70,"U.K.",3.5,"Panama",FALSE
+"Duffy's","Corazon del Ecuador, Calceta beans",516,2010,72,"U.K.",3.75,"Ecuador",TRUE
+"Duffy's","Star of Ecuador",523,2010,70,"U.K.",2.5,"Ecuador",FALSE
+"Duffy's","Star of Peru",523,2010,70,"U.K.",3.75,"Peru",FALSE
+"Dulcinea","Dominican Republic",1506,2015,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Durand","Madagascar",841,2012,82,"France",2.75,"Madagascar",TRUE
+"Durci","Maranon, Joya Rara",1626,2015,70,"U.S.A.",3.5,"Peru",FALSE
+"Durci","Rio Caribe, Tepui Treasure",1626,2015,70,"U.S.A.",3.5,"Venezuela",FALSE
+"Durci","Taino Secret",1630,2015,70,"U.S.A.",3.25,"Domincan Republic",FALSE
+"Durci","Carenero, Empyrean Sabor",1630,2015,70,"U.S.A.",3.25,"Venezuela",FALSE
+"Durci","Corona Arriba",1630,2015,70,"U.S.A.",4,"Ecuador",FALSE
+"East Van Roasters","Peru",1343,2014,70,"Canada",3.25,"Peru",FALSE
+"East Van Roasters","Madagascar",1343,2014,70,"Canada",3.5,"Madagascar",FALSE
+"East Van Roasters","Dominican Republic",1343,2014,70,"Canada",3.75,"Dominican Republic",FALSE
+"Eau de Rose","Tumaco",1812,2016,70,"Canada",3.25,"Colombia",FALSE
+"Eau de Rose","Arauca",1812,2016,70,"Canada",3.25,"Colombia",FALSE
+"Eclat (Felchlin)","Maranon, Good & Evil, w/ nibs",919,2012,72,"U.S.A.",2.75,"Peru",TRUE
+"Edelmond","Porcelana",1876,2016,68,"Germany",3,"Venezuela",FALSE
+"El Ceibo","Alto Beni, Covendo Region",709,2011,75,"Bolivia",3.75,"Bolivia",TRUE
+"El Ceibo","Alto Beni",252,2008,71,"Bolivia",2.75,"Bolivia",TRUE
+"El Rey","San Joaquin",1662,2015,70,"Venezuela",3.75,"Venezuela",FALSE
+"El Rey","Rio Caribe, Cariaco",439,2009,60.5,"Venezuela",2.75,"Venezuela",FALSE
+"El Rey","Rio Caribe, Macuro",439,2009,70,"Venezuela",3,"Venezuela",FALSE
+"El Rey","Carenero Superior, Apamate",206,2008,74,"Venezuela",2.5,"Venezuela",TRUE
+"El Rey","Carenero Superior, Bucare",206,2008,58,"Venezuela",2.5,"Venezuela",FALSE
+"El Rey","Carenero Superior, Mijao",206,2008,61,"Venezuela",3,"Venezuela",FALSE
+"El Rey","Carenero Superior, Gran Saman",32,2006,70,"Venezuela",2.75,"Venezuela",FALSE
+"Emerald Estate","Emerald Estate",1137,2013,60,"St. Lucia",2.75,"St. Lucia",FALSE
+"Emerald Estate","Emerald Estate",1137,2013,70,"St. Lucia",3.25,"St. Lucia",FALSE
+"Emily's","Patanemo",1450,2015,79,"Japan",3,"Venezuela",TRUE
+"Emily's","Peru",1454,2015,78,"Japan",3.5,"Peru",TRUE
+"ENNA","Wampusirpi, batch 007",1916,2016,75,"U.S.A.",3.25,"Honduras",TRUE
+"Enric Rovira (Claudio Corallo)","Terreiro Velho P.",565,2010,80,"Spain",3.25,"Sao Tome & Principe",TRUE
+"Erithaj (A. Morin)","Ben Tre",1205,2014,70,"France",3.25,"Vietnam",FALSE
+"Erithaj (A. Morin)","Ham Luong",1209,2014,80,"France",3,"Vietnam",TRUE
+"Erithaj (A. Morin)","Ba Lai",1209,2014,74,"France",3.25,"Vietnam",TRUE
+"Escazu","Rio Caribe",903,2012,70,"U.S.A.",2.75,"Venezuela",FALSE
+"Escazu","Guapiles",414,2009,65,"U.S.A.",2,"Costa Rica",FALSE
+"Escazu","Carenero Superior",423,2009,81,"U.S.A.",3.5,"Venezuela",TRUE
+"Escazu","Carenero, Guapiles, Ocumare blend",431,2009,74,"U.S.A.",2.75,"Cost Rica, Ven",TRUE
+"Escazu","Ocumare",252,2008,72,"U.S.A.",3,"Venezuela",TRUE
+"Ethel's Artisan (Mars)","Peru, Madagascar",666,2011,55,"U.S.A.",2.5,"Peru, Madagascar",FALSE
+"Ethel's Artisan (Mars)","Trinidad",666,2011,55,"U.S.A.",2.5,"Trinidad",FALSE
+"Ethel's Artisan (Mars)","Porcelana",666,2011,70,"U.S.A.",2.5,"Venezuela",FALSE
+"Ethel's Artisan (Mars)","Red Vanilla",666,2011,62,"U.S.A.",2.75," ",FALSE
+"Ethel's Artisan (Mars)","Venezuela, Trinidad",672,2011,62,"U.S.A.",2.5,"Venezuela, Trinidad",FALSE
+"Ethereal","Belize",1275,2014,80,"U.S.A.",3,"Belize",TRUE
+"Ethereal","Ecuador",1275,2014,80,"U.S.A.",3.5,"Ecuador",TRUE
+"Ethereal","Dominican Republic",1275,2014,80,"U.S.A.",3.75,"Dominican Republic",TRUE
+"Fearless (AMMA)","Monte Alegre, D. Badaro, Raw, Organic",565,2010,75,"U.S.A.",2.75,"Brazil",TRUE
+"Feitoria Cacao","Blue Mountain",1732,2016,76,"Portugal",3,"Jamaica",TRUE
+"Feitoria Cacao","Cuyagua",1736,2016,76,"Portugal",2.5,"Venezuela",TRUE
+"Feitoria Cacao","Maya Mountain",1736,2016,76,"Portugal",2.75,"Belize",TRUE
+"Felchlin","Grenada",494,2010,58,"Switzerland",3.5,"Grenada",FALSE
+"Felchlin","Supremo- SF",105,2006,62,"Switzerland",2," ",FALSE
+"Felchlin","Elvesia P.",105,2006,74,"Switzerland",3,"Dominican Republic",TRUE
+"Felchlin","Madagascar, Grand Cru",48,2006,64,"Switzerland",3,"Madagascar",FALSE
+"Felchlin","Maracaibo Clasificado",48,2006,65,"Switzerland",3,"Venezuela",FALSE
+"Felchlin","Arriba",48,2006,72,"Switzerland",3.5,"Ecuador",TRUE
+"Felchlin","Alto Beni, Cru Savage",56,2006,68,"Switzerland",4,"Bolivia",FALSE
+"Finca","Puerto Rico",1283,2014,65,"U.S.A.",2.25,"Puerto Rico",FALSE
+"Finca","Dominican Republic",1283,2014,80,"U.S.A.",3,"Dominican Republic",TRUE
+"Finca","Dominican Republic",1283,2014,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Finca","Dominican Republic",1287,2014,85,"U.S.A.",2.5,"Dominican Republic",TRUE
+"Forever Cacao","Rio Eni",1267,2014,72,"U.K.",2.75,"Peru",TRUE
+"Forteza (Cortes)","Dominican Republic",1776,2016,70,"Puerto Rico",2.75,"Domincan Republic",FALSE
+"Forteza (Cortes)","Puerto Rico",1776,2016,80,"Puerto Rico",2.75,"Domincan Republic",TRUE
+"Fossa","Akesson's E., Sambirano V.",1772,2016,70,"Singapore",2.75,"Madagascar",FALSE
+"Fossa","Camino Verde P., Balao, Guayas",1776,2016,75,"Singapore",3.5,"Ecuador",TRUE
+"Fossa","Kokoa Kamili Coop, Kilombero",1776,2016,67,"Singapore",3.75,"Tanzania",FALSE
+"Franceschi","Choroni",1355,2014,70,"Venezuela",3.5,"Venezuela",FALSE
+"Franceschi","Ocumare",1355,2014,70,"Venezuela",3.75,"Venezuela",FALSE
+"Franceschi","Canoabo",911,2012,70,"Venezuela",3.75,"Venezuela",FALSE
+"Franceschi","Sur del Lago",915,2012,60,"Venezuela",3.5,"Venezuela",FALSE
+"Frederic Blondeel","Costa Rica",1538,2015,70,"Belgium",3.5,"Costa Rica",FALSE
+"Frederic Blondeel","Peru Brutus",1538,2015,75,"Belgium",3.5,"Peru",TRUE
+"Frederic Blondeel","Vietnam",1542,2015,80,"Belgium",3,"Vietnam",TRUE
+"Frederic Blondeel","Ghana",1351,2014,60,"Belgium",3.5,"Ghana",FALSE
+"Frederic Blondeel","Madagascar",1351,2014,65,"Belgium",3.5,"Madagascar",FALSE
+"French Broad","Norandino, batch 161208",1940,2017,70,"U.S.A.",3.5,"Peru",FALSE
+"French Broad","Guatemala",1634,2015,73,"U.S.A.",3.5,"Guatemala",TRUE
+"French Broad","San Andres",1209,2014,80,"U.S.A.",3,"Costa Rica",TRUE
+"French Broad","Matagalpa",1295,2014,68,"U.S.A.",3.25,"Nicaragua",FALSE
+"French Broad","Palo Blanco, Chulucanas",1042,2013,66,"U.S.A.",3.5,"Peru",FALSE
+"French Broad","Tumbes Coop",883,2012,70,"U.S.A.",2.5,"Peru",FALSE
+"French Broad","Palo Blanco, Chulucanas",883,2012,61,"U.S.A.",3.5,"Peru",FALSE
+"French Broad","Palo Blanco w/ panela, Chulucanas",887,2012,81,"U.S.A.",2,"Peru",TRUE
+"French Broad","Maranon Canyon, Fortunato No. 4",781,2011,70,"U.S.A.",3.5,"Peru",FALSE
+"French Broad","La Red",785,2011,65,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Fresco","Maranon, #228, MR, SC",1383,2014,70,"U.S.A.",3,"Peru",FALSE
+"Fresco","Maranon, #227, LR, MC",1383,2014,70,"U.S.A.",3.5,"Peru",FALSE
+"Fresco","Maranon, #229, MR, LC",1383,2014,70,"U.S.A.",3.5,"Peru",FALSE
+"Fresco","Maranon, #230, DR, LC",1387,2014,70,"U.S.A.",3.5,"Peru",FALSE
+"Fresco","Conacado, #223, MR, SC",1030,2013,72,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Fresco","Conacado, #224, MR, MC",1081,2013,72,"U.S.A.",3.75,"Dominican Republic",TRUE
+"Fresco","San Martin, Bellavista Coop, #226, DR, MC",1117,2013,70,"U.S.A.",3.75,"Peru",FALSE
+"Fresco","Bellavista Coop, #225, LR, MC, CG Exclusive",1149,2013,70,"U.S.A.",4,"Peru",FALSE
+"Fresco","Markham Valley, #219, LR, MC",899,2012,69,"U.S.A.",3.5,"Papua New Guinea",FALSE
+"Fresco","Markham Valley, #221, DR, MC",899,2012,69,"U.S.A.",3.5,"Papua New Guinea",FALSE
+"Fresco","Sambirano Valley, #216, MR, LC",915,2012,74,"U.S.A.",4,"Madagascar",TRUE
+"Fresco","Markham Valley, #220, MR, MC",927,2012,69,"U.S.A.",4,"Papua New Guinea",FALSE
+"Fresco","Markham Valley, #222, LR, 0C",931,2012,69,"U.S.A.",3,"Papua New Guinea",FALSE
+"Fresco","Ghana, #211, MR, MC",636,2011,74,"U.S.A.",2.75,"Ghana",TRUE
+"Fresco","Jamaica, #209, DR, SC",642,2011,70,"U.S.A.",3.25,"Jamaica",FALSE
+"Fresco","Conacado, #212, LR, SC",642,2011,72,"U.S.A.",3.5,"Dominican Republic",TRUE
+"Fresco","Jamaica, #210, DR, MC",642,2011,70,"U.S.A.",3.5,"Jamaica",FALSE
+"Fresco","Sambirano Valley, #214, LR, MC",682,2011,74,"U.S.A.",2.75,"Madagascar",TRUE
+"Fresco","Conacado, #213, DR, -C",682,2011,72,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Fresco","Sambirano Valley, #215, MR, MC",688,2011,74,"U.S.A.",3,"Madagascar",TRUE
+"Fresco","Chuao, #218, MR, MC",745,2011,76,"U.S.A.",3.25,"Venezuela",TRUE
+"Fresco","Chuao, #217, DR, MC",745,2011,70,"U.S.A.",4,"Venezuela",FALSE
+"Fresco","Jamaica, #204, DR, SC",370,2009,80,"U.S.A.",2.75,"Jamaica",TRUE
+"Fresco","Jamaica, #206, DR, LC",370,2009,70,"U.S.A.",3,"Jamaica",FALSE
+"Fresco","Jamaica, #205, DR, MC",370,2009,70,"U.S.A.",3.25,"Jamaica",FALSE
+"Fresco","Carenero Superior, #203, MR, SC",370,2009,65,"U.S.A.",3.5,"Venezuela",FALSE
+"Friis Holm","Rugoso, Bad Fermentation",1912,2016,70,"Denmark",3.5,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","La Dalia",1680,2015,60,"Denmark",3,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","La Dalia",1680,2015,85,"Denmark",3.25,"Nicaragua",TRUE
+"Friis Holm (Bonnat)","La Dalia",1259,2014,70,"Denmark",3.5,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Barba, Xoco",1034,2013,70,"Denmark",3.25,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Medagla, Xoco",1034,2013,70,"Denmark",3.5,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Chuno, triple turned, Xoco",895,2012,70,"Denmark",3.25,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Red Mayan, Xoco",899,2012,70,"Denmark",3.25,"Honduras",FALSE
+"Friis Holm (Bonnat)","Chuno, double turned, Xoco",899,2012,70,"Denmark",3.25,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Rugoso, Xoco",923,2012,70,"Denmark",3.75,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Johe, Xoco",623,2011,70,"Denmark",3.25,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Chuno, Xoco",623,2011,70,"Denmark",3.5,"Nicaragua",FALSE
+"Friis Holm (Bonnat)","Nicaliso, Xoco",623,2011,70,"Denmark",3.5,"Nicaragua",FALSE
+"Fruition","Wild Bolivian, Batch 2",1780,2016,74,"U.S.A.",3.75,"Bolivia",TRUE
+"Fruition","Coto Brus, Heirloom, Batch 1",1780,2016,74,"U.S.A.",4,"Costa Rica",TRUE
+"Fruition","Gran Couva",1347,2014,70,"U.S.A.",3.75,"Trinidad",FALSE
+"Fruition","Maranon",1359,2014,76,"U.S.A.",3,"Peru",TRUE
+"Fruition","La Red",1046,2013,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Fruition","Camino Verde",1185,2013,75,"U.S.A.",3,"Ecuador",TRUE
+"Fruition","Peru",863,2012,70,"U.S.A.",2.5,"Peru",FALSE
+"Fruition","Signature Blend",753,2011,66,"U.S.A.",3.25,"Costa Rica",FALSE
+"Fruition","Costa Rica",781,2011,70,"U.S.A.",3,"Costa Rica",FALSE
+"Garden Island","Kaua'I, Alea Estate +world",1367,2014,85,"U.S.A.",2.5,"Hawaii",TRUE
+"Georgia Ramon","Akesson P.",1642,2015,65,"Germany",3.25,"Madagascar",FALSE
+"Georgia Ramon","ABOCFA Coop",1642,2015,70,"Germany",4,"Ghana",FALSE
+"Georgia Ramon","Conacado Coop",1646,2015,70,"Germany",3.5,"Domincan Republic",FALSE
+"Georgia Ramon","Conacado Coop",1646,2015,80,"Germany",3.5,"Domincan Republic",TRUE
+"Georgia Ramon","Akesson P.",1646,2015,75,"Germany",3.5,"Madagascar",TRUE
+"Glennmade","Toledo District, 2015 Harvest",1848,2016,70,"U.S.A.",3.5,"Belize",FALSE
+"Glennmade","Bahia",1672,2015,66,"U.S.A.",3,"Brazil",FALSE
+"Goodnow Farms","Almendra Blanca, batch 1004",1924,2016,77,"U.S.A.",2.75,"Mexico",TRUE
+"Goodnow Farms","El Carmen, batch 1003",1924,2016,77,"U.S.A.",3.25,"Nicaragua",TRUE
+"Goodnow Farms","Asochivite, batch 1005",1924,2016,77,"U.S.A.",3.25,"Guatemala",TRUE
+"Grand Place","Ben Tre, Dong Nai",741,2011,72,"Vietnam",3,"Vietnam",TRUE
+"Green & Black's (ICAM)","Dark",15,2006,70,"U.K.",2.5," ",FALSE
+"Green Bean to Bar","Madagascar",1896,2016,70,"Japan",3.5,"Madagascar",FALSE
+"Grenada Chocolate Co.","Grenada",494,2010,82,"Grenada",3.25,"Grenada",TRUE
+"Grenada Chocolate Co.","Grenada",363,2009,60,"Grenada",2.75,"Grenada",FALSE
+"Grenada Chocolate Co.","Grenada",241,2008,71,"Grenada",2.5,"Grenada",TRUE
+"Guido Castagna","Arriba",355,2009,64,"Italy",3,"Ecuador",FALSE
+"Guido Castagna","Ghana",355,2009,64,"Italy",3,"Ghana",FALSE
+"Guido Castagna","Trinidad & Tobago",355,2009,64,"Italy",3,"Trinidad, Tobago",FALSE
+"Guido Castagna","Lacri Blend",355,2009,76,"Italy",3,"Venezuela",TRUE
+"Guido Castagna","Blend",355,2009,64,"Italy",3.25,"Ven, Trinidad, Ecuador",FALSE
+"Guittard","Epique, Blend No. 49",1602,2015,70,"U.S.A.",3.75," ",FALSE
+"Guittard","Haiti",1053,2013,65,"U.S.A.",2.75,"Haiti",FALSE
+"Guittard","Nicaragua",1053,2013,65,"U.S.A.",2.75,"Nicaragua",FALSE
+"Guittard","Jamaica",1053,2013,65,"U.S.A.",3.25,"Jamaica",FALSE
+"Guittard","Ecuador",1053,2013,65,"U.S.A.",3.5,"Ecuador",FALSE
+"Guittard","Coucher du Soleil",654,2011,72,"U.S.A.",2.75," ",TRUE
+"Guittard","Lever du Soleil",654,2011,61,"U.S.A.",3.25," ",FALSE
+"Guittard","Onyx",654,2011,72,"U.S.A.",3.25," ",TRUE
+"Guittard","Trinidad",552,2010,65,"U.S.A.",3,"Trinidad",FALSE
+"Guittard","O'ahu, N. Shore, Waialua E., Kakoleka",316,2009,55,"U.S.A.",3,"Hawaii",FALSE
+"Guittard","Nocturne",387,2009,91,"U.S.A.",3," ",TRUE
+"Guittard","Complexite",387,2009,70,"U.S.A.",3.5," ",FALSE
+"Guittard","Machu Pichu",259,2008,65,"U.S.A.",3,"Peru",FALSE
+"Guittard","Special Maker Reserve",276,2008,64,"U.S.A.",3," ",FALSE
+"Guittard","Ocumare",276,2008,65,"U.S.A.",3.5,"Venezuela",FALSE
+"Guittard","Quetzalcoatl",147,2007,72,"U.S.A.",3.5," ",TRUE
+"Guittard","Chucuri",15,2006,65,"U.S.A.",3,"Colombia",FALSE
+"Guittard","Sur del Lago",87,2006,65,"U.S.A.",2.5,"Venezuela",FALSE
+"Guittard","Sambirano, Ambanja",87,2006,65,"U.S.A.",3.5,"Madagascar",FALSE
+"Guittard","Los Rios, Quevedo",93,2006,65,"U.S.A.",3.5,"Ecuador",FALSE
+"Guittard","Tsaranta",93,2006,61,"U.S.A.",3.5," ",FALSE
+"Guittard","Semisweet",99,2006,61,"U.S.A.",3," ",FALSE
+"Habitual","Papua New Guinea",1197,2014,80,"Canada",2.75,"Papua New Guinea",TRUE
+"Habitual","Campesino w/ nibs",1197,2014,74,"Canada",2.75," ",TRUE
+"Habitual","Dominican Republic",1197,2014,75,"Canada",3.25,"Dominican Republic",TRUE
+"Habitual","Trinitario",1197,2014,70,"Canada",3.5," ",FALSE
+"Habitual","Downtown London",1201,2014,65,"Canada",2.75," ",FALSE
+"Habitual","Africa meets Latina",1201,2014,70,"Canada",3," ",FALSE
+"Habitual","Amazonas",1201,2014,80,"Canada",3," ",TRUE
+"Habitual","Sharkey",1201,2014,66,"Canada",3.25,"Hawaii",FALSE
+"Habitual","one hundred",1205,2014,100,"Canada",2," ",TRUE
+"Hachez","Arriba",166,2007,77,"Germany",2.5,"Ecuador",TRUE
+"Hacienda El Castillo","Don Homero- Cerecita Valley",1327,2014,55,"Ecuador",2.75,"Ecuador",FALSE
+"Hacienda El Castillo","Don Homero- Cerecita Valley",1327,2014,70,"Ecuador",3,"Ecuador",FALSE
+"Haigh","South America and Africa",701,2011,70,"Australia",3,"South America, Africa",FALSE
+"Harper Macaw","Vale do Juliana, w/ nibs",1808,2016,85,"U.S.A.",3.25,"Brazil",TRUE
+"Harper Macaw","Brazil Blend",1696,2015,67,"U.S.A.",3,"Brazil",FALSE
+"Harper Macaw","Tome Acu E., Amazon Rainforest",1700,2015,77,"U.S.A.",3.5,"Brazil",TRUE
+"Harper Macaw","Vale do Juliana E., Atlantic Forest",1700,2015,74,"U.S.A.",3.5,"Brazil",TRUE
+"Heilemann","Peru",1876,2016,64,"Germany",2.75,"Peru",FALSE
+"Heirloom Cacao Preservation (Brasstown)","Maya Mtn, Moho R., Toledo D., 2015",1748,2016,70,"U.S.A.",3.25,"Belize",FALSE
+"Heirloom Cacao Preservation (Fruition)","Cota Brus, Terciopelo, 2015",1748,2016,74,"U.S.A.",3.5,"Costa Rica",TRUE
+"Heirloom Cacao Preservation (Guittard)","Alto Beni, Upper Rio Beni, 2014",1239,2014,67,"U.S.A.",3.5,"Bolivia",FALSE
+"Heirloom Cacao Preservation (Guittard)","Wild Beni, Lower Rio Beni, Tranquilidad, 2014",1243,2014,67,"U.S.A.",3,"Bolivia",FALSE
+"Heirloom Cacao Preservation (Guittard)","Los Rios, Hacienda Limon, Orecao, 2014",1243,2014,67,"U.S.A.",3.75,"Ecuador",FALSE
+"Heirloom Cacao Preservation (Guittard)","Maunawili, O'ahu, Agri Research C., 2014",1243,2014,67,"U.S.A.",3.75,"Hawaii",FALSE
+"Heirloom Cacao Preservation (Manoa)","Maunawili, O'ahu, Agri Research C., 2015",1744,2016,72,"U.S.A.",3.5,"Hawaii",TRUE
+"Heirloom Cacao Preservation (Millcreek)","Los Rios, Hacienda Limon, Orecao, 2015",1744,2016,70,"U.S.A.",3.5,"Ecuador",FALSE
+"Heirloom Cacao Preservation (Mindo)","Pinchincha, Mindo, Coop Nueva Esper., 2015",1748,2016,77,"U.S.A.",3.5,"Ecuador",TRUE
+"Heirloom Cacao Preservation (Zokoko)","Alto Beni, Upper Rio Beni, 2015",1744,2016,68,"U.S.A.",3.75,"Bolivia",FALSE
+"Heirloom Cacao Preservation (Zokoko)","Wild Beni, Lower Rio Beni, Tranquilidad, 2015",1744,2016,72,"U.S.A.",4,"Bolivia",TRUE
+"hello cocoa","Uganda",1458,2015,57,"U.S.A.",2.75,"Uganda",FALSE
+"hello cocoa","Venezuela",1462,2015,74,"U.S.A.",3.5,"Venezuela",TRUE
+"hexx","Tanzania",1546,2015,70,"U.S.A.",2.75,"Tanzania",FALSE
+"hexx","Madagascar",1546,2015,74,"U.S.A.",3,"Madagascar",TRUE
+"hexx","Venezuela",1546,2015,70,"U.S.A.",3,"Venezuela",FALSE
+"hexx","Ecuador",1550,2015,73,"U.S.A.",3.25,"Ecuador",TRUE
+"hexx","Peru",1550,2015,70,"U.S.A.",3.25,"Peru",FALSE
+"Hogarth","Akesson's Estate",1712,2016,70,"New Zealand",2.75,"Madagascar",FALSE
+"Hogarth","Carenero Superior",1712,2016,72,"New Zealand",2.75,"Venezuela",TRUE
+"Hogarth","Conacado",1712,2016,75,"New Zealand",3.25,"Domincan Republic",TRUE
+"Hogarth","Gran Blanco",1712,2016,66,"New Zealand",3.5,"Peru",FALSE
+"Hoja Verde (Tulicorp)","Arriba",414,2009,80,"Ecuador",2,"Ecuador",TRUE
+"Hoja Verde (Tulicorp)","Manabi",414,2009,80,"Ecuador",2.5,"Ecuador",TRUE
+"Hoja Verde (Tulicorp)","Arriba",414,2009,72,"Ecuador",3,"Ecuador",TRUE
+"Hoja Verde (Tulicorp)","Arriba",414,2009,58,"Ecuador",3.25,"Ecuador",FALSE
+"Hoja Verde (Tulicorp)","Manabi",414,2009,58,"Ecuador",3.5,"Ecuador",FALSE
+"Holy Cacao","Maranon",1872,2016,70,"Israel",2.75,"Peru",FALSE
+"Holy Cacao","Camino Verde P., Balao, Guayas",1466,2015,70,"Israel",3.5,"Ecuador",FALSE
+"Holy Cacao","Sambirano",1466,2015,70,"Israel",3.5,"Madagascar",FALSE
+"Holy Cacao","Gran Couva",1466,2015,70,"Israel",3.5,"Trinidad",FALSE
+"Holy Cacao","Mara",1466,2015,70,"Israel",3.5,"Venezuela",FALSE
+"Holy Cacao","Ivory Coast",431,2009,70,"Israel",2.5,"Ivory Coast",FALSE
+"Holy Cacao","Hispaniola",431,2009,70,"Israel",2.75,"Dominican Republic",FALSE
+"Holy Cacao","San Martin",431,2009,70,"Israel",3.5,"Peru",FALSE
+"Holy Cacao","Hispaniola w/ nibs",431,2009,75,"Israel",3.75,"Dominican Republic",TRUE
+"Honest","Ecuador, w/ nibs",1327,2014,72,"South Africa",2.5,"Ecuador",TRUE
+"Hotel Chocolat","Pepiniere, single Cote",1654,2015,70,"U.K.",2.75,"St. Lucia",FALSE
+"Hotel Chocolat","Marcial, single Cote, 2012",1030,2013,70,"U.K.",4,"St. Lucia",FALSE
+"Hotel Chocolat","Island Growers, 2012, 120hr c.",1113,2013,100,"U.K.",1.75,"St. Lucia",TRUE
+"Hotel Chocolat (Coppeneur)","Trinidad",1038,2013,75,"U.K.",3,"Trinidad",TRUE
+"Hotel Chocolat (Coppeneur)","Mekong Delta & Dong Nai",1038,2013,80,"U.K.",3.5,"Vietnam",TRUE
+"Hotel Chocolat (Coppeneur)","Los Rios, H. Iara",1065,2013,90,"U.K.",3,"Ecuador",TRUE
+"Hotel Chocolat (Coppeneur)","Somia Plantation, Akesson, 2012",1065,2013,72,"U.K.",3,"Madagascar",TRUE
+"Hotel Chocolat (Coppeneur)","Los Rios, H. Iara, 2012",1065,2013,82,"U.K.",3.5,"Ecuador",TRUE
+"Hotel Chocolat (Coppeneur)","Chanchamayo, Pichanadi, 2012, 60hr c.",1109,2013,100,"U.K.",2.75,"Peru",TRUE
+"Hotel Chocolat (Coppeneur)","Los Rios, H. Iara, 2012, 120hr c.",1113,2013,100,"U.K.",2.5,"Ecuador",TRUE
+"Hotel Chocolat (Coppeneur)","Conacado, 2012, 120hr c.",1113,2013,100,"U.K.",2.75,"Dominican Republic",TRUE
+"Hotel Chocolat (Coppeneur)","Sambirano",809,2012,66,"U.K.",3.5,"Madagascar",FALSE
+"Hotel Chocolat (Coppeneur)","Los Rios, H. Iara, 96hr c.",623,2011,80,"U.K.",3,"Ecuador",TRUE
+"Hotel Chocolat (Coppeneur)","Island Growers, 120hr c.",623,2011,65,"U.K.",3,"St. Lucia",FALSE
+"Hotel Chocolat (Coppeneur)","Island Growers, 96hr c.",623,2011,65,"U.K.",3.25,"St. Lucia",FALSE
+"Hotel Chocolat (Coppeneur)","Ecuador",552,2010,70,"U.K.",2.75,"Ecuador",FALSE
+"Hotel Chocolat (Coppeneur)","Santo Domingo",552,2010,70,"U.K.",3,"Dominican Republic",FALSE
+"Hotel Chocolat (Coppeneur)","Chuao",600,2010,70,"U.K.",2.75,"Venezuela",FALSE
+"Hotel Chocolat (Coppeneur)","St. Lucia",245,2008,72,"U.K.",3,"St. Lucia",TRUE
+"Hotel Chocolat (Coppeneur)","Uganda",296,2008,80,"U.K.",2.5,"Uganda",TRUE
+"Hotel Chocolat (Coppeneur)","Tanzania",296,2008,75,"U.K.",2.75,"Tanzania",TRUE
+"Hotel Chocolat (Coppeneur)","Uba Budo",300,2008,72,"U.K.",3,"Sao Tome",TRUE
+"Hummingbird","Lam Dong",1542,2015,70,"Canada",3.5,"Vietnam",FALSE
+"Hummingbird","Bolivia",1307,2014,70,"Canada",3,"Bolivia",FALSE
+"Hummingbird","Bolivia, Bo-nib-ia, w/ nibs",1311,2014,70,"Canada",3,"Bolivia",FALSE
+"Hummingbird","Momotombo",1311,2014,70,"Canada",3,"Nicaragua",FALSE
+"Hummingbird","Hispaniola",1311,2014,70,"Canada",3.75,"Dominican Republic",FALSE
+"Hummingbird","Zorzal Reserva w/ Charles Kerchner",1387,2014,70,"Canada",3.5,"Dominican Republic",FALSE
+"Hummingbird","Ocumare, Cumboto",1097,2013,70,"Canada",3.25,"Venezuela",FALSE
+"Hummingbird","Amazonas",1097,2013,70,"Canada",3.75,"Venezuela",FALSE
+"Idilio (Felchlin)","Chuao, Venezuela",1085,2013,72,"Switzerland",3.75,"Venezuela",TRUE
+"Idilio (Felchlin)","Coopertiva Amazona",725,2011,72,"Switzerland",3.75,"Venezuela",TRUE
+"Idilio (Felchlin)","Sur del Lago, Amiari Meridena, Zulia, 48hr c.",725,2011,72,"Switzerland",3.75,"Venezuela",TRUE
+"Idilio (Felchlin)","Choroni, Finca Torres, 48hr c.",729,2011,72,"Switzerland",3.25,"Venezuela",TRUE
+"Idilio (Felchlin)","Ocumare, H. Cata, 48hr c.",733,2011,72,"Switzerland",3.75,"Venezuela",TRUE
+"Idilio (Felchlin)","Porcelana, Zulia",733,2011,74,"Switzerland",4,"Venezuela",TRUE
+"Idilio (Felchlin)","Ocumare, H. Cata, w/ nibs",737,2011,72,"Switzerland",3.5,"Venezuela",TRUE
+"Idilio (Felchlin)","Carenero Superior, Urrutia, Barlovento",737,2011,70,"Switzerland",4,"Venezuela",FALSE
+"Idilio (Felchlin)","Coopertiva Amazona w/ nibs",737,2011,72,"Switzerland",4,"Venezuela",TRUE
+"Idilio (Felchlin)","Sur del Lago, Amiari Meridena, Zulia, w/ nibs",737,2011,72,"Switzerland",4,"Venezuela",TRUE
+"Indah","India (south)",1788,2016,61,"India",2.5,"India",FALSE
+"Indaphoria","La Red",821,2012,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Indaphoria","Conacado, Manifesto",907,2012,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Indi","Honduras",1255,2014,77,"U.S.A.",3,"Honduras",TRUE
+"iQ Chocolate","Satipo region, white label",943,2012,72,"Scotland",2.75,"Peru",TRUE
+"iQ Chocolate","black label",943,2012,72,"Scotland",3,"Peru",TRUE
+"Isidro","Madagascar",1275,2014,72,"U.S.A.",3.5,"Madagascar",TRUE
+"Isidro","Peru",1279,2014,72,"U.S.A.",2.25,"Peru",TRUE
+"Isidro","Belize",1279,2014,72,"U.S.A.",3.25,"Belize",TRUE
+"Isidro","Dominican Republic",1279,2014,72,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Izard","Maya Mountain, Toledo, Batch 29",1542,2015,70,"U.S.A.",3.5,"Belize",FALSE
+"Izard","Elvesia P., Batch 32",1546,2015,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Jacque Torres","Trinatario Treasure",5,2006,71,"U.S.A.",2,"Ghana",TRUE
+"Jordis","Madagascar",1534,2015,63,"Czech Republic",2.75,"Madagascar",FALSE
+"Just Good Chocolate","Belize",1375,2014,70,"U.S.A.",3.5,"Belize",FALSE
+"Just Good Chocolate","Madagascar",1375,2014,70,"U.S.A.",3.5,"Madagascar",FALSE
+"Just Good Chocolate","Peru",1375,2014,70,"U.S.A.",4,"Peru",FALSE
+"Kah Kow","Rizek Cacao, Cibao Valley, Domin. Rep.",1061,2013,70,"Domincan Republic",3.5,"Dominican Republic",FALSE
+"Kah Kow","Rizek Cacao, Domin. Rep.",1069,2013,82,"Domincan Republic",3,"Dominican Republic",TRUE
+"Kah Kow","Rizek Cacao, Domin. Rep.",1069,2013,55,"Domincan Republic",3.25,"Dominican Republic",FALSE
+"Kah Kow","Rizek Cacao, Domin. Rep.",1073,2013,62,"Domincan Republic",3.25,"Dominican Republic",FALSE
+"Kakao","Peru",837,2012,64,"Germany",2.5,"Peru",FALSE
+"Kakao","Vanuatu",387,2009,65,"Germany",3.75,"Vanuatu",FALSE
+"Kallari (Ecuatoriana)","Sisa 36hr/ W. F. blend prototype",241,2008,70,"Ecuador",3,"Ecuador",FALSE
+"Kallari (Ecuatoriana)","Sisa's Secret/ original micro",241,2008,70,"Ecuador",3.5,"Ecuador",FALSE
+"Kallari (Ecuatoriana)","Roberto",245,2008,75,"Ecuador",2.75,"Ecuador",TRUE
+"Kallari (Ecuatoriana)","Diego/ original micro",248,2008,85,"Ecuador",2.5,"Ecuador",TRUE
+"Kallari (Ecuatoriana)","Diego 48hr/ W.F. blend prototype",248,2008,85,"Ecuador",2.75,"Ecuador",TRUE
+"Kallari (Ecuatoriana)","Diego 60hr/ W.F. blend prototype",248,2008,85,"Ecuador",3,"Ecuador",TRUE
+"Kallari (Ecuatoriana)","Cacao Nacional W.F.",263,2008,75,"Ecuador",2.5,"Ecuador",TRUE
+"Kallari (Ecuatoriana)","Cacao Nacional W.F.",269,2008,85,"Ecuador",3,"Ecuador",TRUE
+"Kaoka (Cemoi)","Noir",404,2009,70,"France",2.75," ",FALSE
+"Kaoka (Cemoi)","Ecuador",423,2009,80,"France",2.75,"Ecuador",TRUE
+"Kerchner","La Red, Project Reserva, Guaconejo",1133,2013,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Ki' Xocolatl","Dark",431,2009,72,"Mexico",2,"Mexico",TRUE
+"Kiskadee","La Red, Guanconjeco",1251,2014,60,"U.S.A.",3,"Dominican Republic",FALSE
+"Kto","San Martin",1422,2014,72,"U.S.A.",2.5,"Peru",TRUE
+"Kto","Ocumare",1422,2014,72,"U.S.A.",2.75,"Venezuela",TRUE
+"Kto","Belize",1422,2014,72,"U.S.A.",3,"Belize",TRUE
+"Kto","Sambirano Valley",1422,2014,72,"U.S.A.",3.25,"Madagascar",TRUE
+"Kto","Belize",1426,2014,90,"U.S.A.",3.25,"Belize",TRUE
+"Kto","Elvesia",1426,2014,72,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Kto","ROIG",1426,2014,72,"U.S.A.",3.25,"Dominican Republic",TRUE
+"K'ul","Kafupbo, Petit Bourg, De Borgnes",1840,2016,70,"U.S.A.",3.25,"Haiti",FALSE
+"K'ul","Maranon, Fortunato No. 4",1852,2016,70,"U.S.A.",2.75,"Peru",FALSE
+"K'ul","Los Rios, Hacienda Limon, Heirloom",1852,2016,70,"U.S.A.",3.75,"Ecuador",FALSE
+"K'ul","Bahia, Fazenda Camboa",1852,2016,70,"U.S.A.",3.75,"Brazil",FALSE
+"Kyya","Uganda",1359,2014,72.5,"U.S.A.",2.5,"Uganda",TRUE
+"Kyya","Hispaniola",1359,2014,72.5,"U.S.A.",3,"Dominican Republic",TRUE
+"Kyya","Ecuador",1363,2014,72.5,"U.S.A.",2.5,"Ecuador",TRUE
+"Kyya","Madagascar",1363,2014,72.5,"U.S.A.",3,"Madagascar",TRUE
+"L.A. Burdick (Felchlin)","Peru",891,2012,74,"U.S.A.",3.25,"Peru",TRUE
+"L.A. Burdick (Felchlin)","Brazil",891,2012,70,"U.S.A.",4,"Brazil",FALSE
+"L.A. Burdick (Felchlin)","Chuao",927,2012,68,"U.S.A.",3.75,"Venezuela",FALSE
+"L.A. Burdick (Felchlin)","Quito",682,2011,74,"U.S.A.",3.75,"Ecuador",TRUE
+"L.A. Burdick (Felchlin)","Grenada",576,2010,75,"U.S.A.",3.25,"Grenada",TRUE
+"L.A. Burdick (Felchlin)","Dominican Republic",576,2010,74,"U.S.A.",3.75,"Dominican Republic",TRUE
+"L.A. Burdick (Felchlin)","Venzuela",597,2010,71,"U.S.A.",3,"Venezuela",TRUE
+"L.A. Burdick (Felchlin)","Madagascar",431,2009,64,"U.S.A.",3.5,"Madagascar",FALSE
+"L.A. Burdick (Felchlin)","Bolivian",451,2009,68,"U.S.A.",3,"Bolivia",FALSE
+"La Chocolaterie Nanairo","Lumas, 2015 Harvest, Batch 6, brown sugar",1892,2016,70,"Japan",2.25,"Peru",FALSE
+"La Chocolaterie Nanairo","Lumas, 2015 Harvest, Batch 7",1892,2016,70,"Japan",2.5,"Peru",FALSE
+"La Chocolaterie Nanairo","Tumbes, 2013 Harvest, Batch 8",1892,2016,70,"Japan",3,"Peru",FALSE
+"La Chocolaterie Nanairo","Belize, 2014 Harvest, Batch 9",1892,2016,70,"Japan",3,"Belize",FALSE
+"La Maison du Chocolat (Valrhona)","Cuana, 2013",1121,2013,74,"France",2.75,"Africa, Carribean, C. Am.",TRUE
+"La Maison du Chocolat (Valrhona)","Tobago",1145,2013,60,"France",3.25,"Tobago",FALSE
+"La Maison du Chocolat (Valrhona)","Acarigua, w/ nibs",1189,2013,56,"France",3.25,"Ecuador",FALSE
+"La Maison du Chocolat (Valrhona)","Loma Sotavento",891,2012,66,"France",3.5,"Dominican Republic",FALSE
+"La Maison du Chocolat (Valrhona)","Grenada",741,2011,68,"France",3.5,"Grenada",FALSE
+"La Maison du Chocolat (Valrhona)","Akosombo",346,2009,68,"France",3.25,"Ghana",FALSE
+"La Maison du Chocolat (Valrhona)","Porcelana, Pariguan",346,2009,69,"France",3.5,"Venezuela",FALSE
+"La Maison du Chocolat (Valrhona)","Kuruba",439,2009,60,"France",3," ",FALSE
+"La Maison du Chocolat (Valrhona)","Orinoco",445,2009,60,"France",3.75," ",FALSE
+"La Maison du Chocolat (Valrhona)","Cuana, 2008",230,2008,74,"France",3.5,"Ven., Indonesia, Ecuad.",TRUE
+"La Oroquidea","Peruvian Amazon",721,2011,72,"Peru",2.5,"Peru",TRUE
+"La Pepa de Oro","Vinces",713,2011,60,"Ecuador",3.25,"Ecuador",FALSE
+"Laia aka Chat-Noir","Madagascar, Batch 59/100",1590,2015,75,"France",2.75,"Madagascar",TRUE
+"Laia aka Chat-Noir","Vietnam, Batch 50/100",1590,2015,75,"France",2.75,"Vietnam",TRUE
+"Laia aka Chat-Noir","Cuba, Batch 59/100",1590,2015,75,"France",3,"Cuba",TRUE
+"Laia aka Chat-Noir","Peru, Batch 51/100",1590,2015,75,"France",3.25,"Peru",TRUE
+"Laia aka Chat-Noir","Ivory Coast, Batch 56/100",1594,2015,75,"France",3,"Ivory Coast",TRUE
+"Laia aka Chat-Noir","Sao Tome, Batch 151",1638,2015,75,"France",3.5,"Sao Tome",TRUE
+"Laia aka Chat-Noir","Bahia, Batch 148",1642,2015,75,"France",3.25,"Brazil",TRUE
+"Laia aka Chat-Noir","Lam Dong, Batch 153",1642,2015,75,"France",3.75,"Vietnam",TRUE
+"Laia aka Chat-Noir","Cuba",1434,2014,70,"France",2.75,"Cuba",FALSE
+"Laia aka Chat-Noir","Trinidad-Tobago",1438,2014,68,"France",2.75,"Trinidad-Tobago",FALSE
+"Lajedo do Ouro","Catongo",927,2012,70,"Brazil",3.5,"Brazil",FALSE
+"Lake Champlain (Callebaut)","Tanzania",327,2009,75,"U.S.A.",2.5,"Tanzania",TRUE
+"L'Amourette","Rugoso",1784,2016,80,"U.S.A.",3.5,"Nicaragua",TRUE
+"L'Amourette","Carenero Superior",833,2012,75,"U.S.A.",3,"Venezuela",TRUE
+"L'Amourette","Rio Caribe",833,2012,75,"U.S.A.",3,"Venezuela",TRUE
+"L'Amourette","Blend",853,2012,72,"U.S.A.",3,"Peru, Ecuador, Venezuela",TRUE
+"Letterpress","La Masica, Batch 7, FHIA",1952,2017,70,"U.S.A.",3.5,"Honduras",FALSE
+"Letterpress","Maya Mtn, Batch 18, Heirloom",1952,2017,70,"U.S.A.",3.25,"Belize",FALSE
+"Letterpress","Liberia",1728,2016,70,"U.S.A.",3.25,"Liberia",FALSE
+"Letterpress","Beniamo",1562,2015,70,"U.S.A.",3.25,"Bolivia",FALSE
+"Letterpress","San Juan Estate, Gran Couva",1562,2015,70,"U.S.A.",3.5,"Trinidad",FALSE
+"Letterpress","San Andres",1566,2015,70,"U.S.A.",3,"Costa Rica",FALSE
+"Letterpress","La Red, Guaconejo",1566,2015,70,"U.S.A.",3.25,"Domincan Republic",FALSE
+"Letterpress","Kokoa Kamili",1566,2015,70,"U.S.A.",3.5,"Tanzania",FALSE
+"Letterpress","Maranura",1371,2014,70,"U.S.A.",3.5,"Peru",FALSE
+"Levy","Sambirano",1231,2014,71,"Finland",3.5,"Madagascar",TRUE
+"Lilla","Madagascar",1856,2016,70,"Finland",3,"Madagascar",FALSE
+"Lillie Belle","Perfect Illusion",855,2012,65,"U.S.A.",3.5,"Peru",FALSE
+"Lillie Belle","Bolivia, Wild Thing",903,2012,68,"U.S.A.",3.5,"Bolivia",FALSE
+"Lillie Belle","La Selva",903,2012,68,"U.S.A.",3.75,"Peru",FALSE
+"Lillie Belle","Purple Haze",947,2012,75,"U.S.A.",2.75,"Venezuela, Dom. Rep.",TRUE
+"Lillie Belle","The Other One, Grand Cru",947,2012,74,"U.S.A.",3,"Dominican Republic",TRUE
+"Lillie Belle","Wild Thing",947,2012,68,"U.S.A.",3.5,"Bolivia",FALSE
+"Lindt & Sprungli","Excellence (US Version)",157,2007,85,"Switzerland",3," ",TRUE
+"Loiza","Puerto Rico",1049,2013,65,"Puerto Rico",2.5,"Puerto Rico",FALSE
+"Lonohana","Haleiwa, O'ahu; Lonohana E., Kanahiku",1383,2014,70,"U.S.A.",3.75,"Hawaii",FALSE
+"Lonohana","Haleiwa E, O'ahu, 2014",1395,2014,65,"U.S.A.",3.25,"Hawaii",FALSE
+"Lonohana","Haleiwa E, O'ahu, 2014",1395,2014,75,"U.S.A.",3.75,"Hawaii",TRUE
+"Lonohana","Opaeula Estate, O'ahu, Nene, CG Exclusive",1093,2013,71,"U.S.A.",3,"Hawaii",TRUE
+"Lonohana","Opaeula Estate, O'ahu, Ele'ele",1097,2013,72,"U.S.A.",3,"Hawaii",TRUE
+"Lonohana","Hawaiian Crown, Kona Vanilla",1097,2013,70,"U.S.A.",3.5,"Hawaii",FALSE
+"Love Bar","Nicaragua",1502,2015,75,"U.S.A.",2,"Nicaragua",TRUE
+"Luker","Selva",552,2010,46,"Colombia",2.75,"Colombia, Ecuador",FALSE
+"Luker","Macondo",552,2010,60,"Colombia",3,"Colombia, Ecuador",FALSE
+"Luker","Misterio",552,2010,58,"Colombia",3,"Colombia, Ecuador",FALSE
+"Luker","Santander",552,2010,65,"Colombia",3.5,"Colombia",FALSE
+"Machu Picchu Trading Co.","Peru",721,2011,70,"Peru",1.5,"Peru",FALSE
+"Machu Picchu Trading Co.","Peru",552,2010,55,"Peru",2.25,"Peru",FALSE
+"Madecasse (Cinagra)","Madagascar",284,2008,67,"Madagascar",3.5,"Madagascar",FALSE
+"Madecasse (Cinagra)","Madagascar",284,2008,70,"Madagascar",3.75,"Madagascar",FALSE
+"Madecasse (Cinagra)","Madagascar",284,2008,63,"Madagascar",4,"Madagascar",FALSE
+"Madecasse (Cinagra)","Madagascar",288,2008,75,"Madagascar",3.5,"Madagascar",TRUE
+"Madre","Guadalcanal",1940,2017,73,"U.S.A.",3.5,"Solomon Islands",TRUE
+"Madre","Puerto Rico",1085,2013,70,"U.S.A.",2.75,"Puerto Rico",FALSE
+"Madre","Brazil",1085,2013,70,"U.S.A.",3.5,"Brazil",FALSE
+"Madre","Choobua, Kona",1089,2013,70,"U.S.A.",2.75,"Hawaii",FALSE
+"Madre","Xocunusco, Chiapas, Pichucalco",1089,2013,70,"U.S.A.",2.75,"Mexico",FALSE
+"Madre","Hamakua Coast, Kokoleka",991,2012,70,"U.S.A.",3.25,"Hawaii",FALSE
+"Madre","Criollo, Hawaii",995,2012,70,"U.S.A.",3.25,"Hawaii",FALSE
+"Madre","Kaua'i",995,2012,70,"U.S.A.",3.5,"Hawaii",FALSE
+"Madre","Dominican",672,2011,70,"U.S.A.",2.5,"Dominican Republic",FALSE
+"Madre","Upala",693,2011,70,"U.S.A.",2.75,"Costa Rica",FALSE
+"Madre","Chiapas, Triple Cacao",607,2010,72,"U.S.A.",2.75,"Mexico",TRUE
+"Maglio","Africa",300,2008,75,"Italy",2,"Tanzania",TRUE
+"Maglio","Ecuador",308,2008,70,"Italy",3,"Ecuador",FALSE
+"Maglio","Cuba",308,2008,70,"Italy",3.25,"Cuba",FALSE
+"Maglio","Santo Domingo",308,2008,70,"Italy",3.75,"Dominican Republic",FALSE
+"Majani","Ecuador",531,2010,70,"Italy",2,"Ecuador",FALSE
+"Malagasy (Chocolaterie Robert)","Sambirano 2006",184,2007,75,"Madagascar",2.75,"Madagascar",TRUE
+"Malagasy (Chocolaterie Robert)","Mora Mora 2006",184,2007,73,"Madagascar",3.5,"Madagascar",TRUE
+"Malagos","Davao, Mt. Talamo foothills",1121,2013,65,"Philippines",3.5,"Philippines",FALSE
+"Malie Kai (Guittard)","O'ahu, N. Shore, Waialua Estate w/ nibs",502,2010,55,"U.S.A.",3.5,"Hawaii",FALSE
+"Malie Kai (Guittard)","O'ahu, N. Shore, Waialua Estate",311,2009,55,"U.S.A.",2.75,"Hawaii",FALSE
+"Malmo","Chuao",1856,2016,70,"Sweden",3,"Venezuela",FALSE
+"Mana","Ecuador",1446,2015,74,"U.S.A.",2.5,"Ecuador",TRUE
+"Mana","Peru",1219,2014,74,"U.S.A.",2.5,"Peru",TRUE
+"Mana","Venezuela",1219,2014,74,"U.S.A.",2.75,"Venezuela",TRUE
+"Mana","Conacado",821,2012,74,"U.S.A.",3.75,"Dominican Republic",TRUE
+"Manifesto Cacao","Colombia",1331,2014,70,"Colombia",2.75,"Colombia",FALSE
+"Manoa","Markham Valley",1522,2015,72,"U.S.A.",3.5,"Papua New Guinea",TRUE
+"Manoa","Coto Brus",1522,2015,72,"U.S.A.",3.75,"Costa Rica",TRUE
+"Manoa","Waiahole, O'ahu",1089,2013,72,"U.S.A.",3.75,"Hawaii",TRUE
+"Manoa","Liberia, #174",1003,2012,72,"U.S.A.",3.25,"Liberia",TRUE
+"Manoa","Hamakua, Hawaiian Crown, #176",1007,2012,72,"U.S.A.",2.75,"Hawaii",TRUE
+"Manoa","Piura",1007,2012,72,"U.S.A.",3,"Peru",TRUE
+"Manoa","Oahu, Winward, #151, Maunawili district",1007,2012,72,"U.S.A.",3.25,"Hawaii",TRUE
+"Manufaktura Czekolady","Johe",1844,2016,70,"Poland",3.75,"Nicaragua",FALSE
+"Manufaktura Czekolady","Peru",1848,2016,70,"Poland",3.5,"Peru",FALSE
+"Manufaktura Czekolady","Porcelana",1255,2014,70,"Poland",3.75,"Venezuela",FALSE
+"Manufaktura Czekolady","Kolumbia",1279,2014,85,"Poland",3.5,"Colombia",TRUE
+"Manufaktura Czekolady","Grand Cru Dominican Republic",871,2012,70,"Poland",3.25,"Dominican Republic",FALSE
+"Manufaktura Czekolady","Grand Cru Ghana",871,2012,70,"Poland",3.5,"Ghana",FALSE
+"Manufaktura Czekolady","Grand Cru Ecuador",875,2012,70,"Poland",3.25,"Ecuador",FALSE
+"Map Chocolate","Ben Tre, Surprise Valley",1896,2016,75,"U.S.A.",3.25,"Vietnam",TRUE
+"Map Chocolate","ROIG, 2014",1474,2015,70,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Map Chocolate","Maranon, 2014",1474,2015,62,"U.S.A.",3.5,"Peru",FALSE
+"Map Chocolate","Ecuador",1478,2015,70,"U.S.A.",3.5,"Ecuador",FALSE
+"Map Chocolate","San Juan Estate, Cherry Blossoms at Night",1606,2015,70,"U.S.A.",2.75,"Trinidad",FALSE
+"Map Chocolate","A case of the Xerces Blues, triple roast",1606,2015,70,"U.S.A.",3.5,"Nicaragua",FALSE
+"Map Chocolate","Tumbes, Dear Mr. Finley, 2014",1606,2015,68,"U.S.A.",3.5,"Peru",FALSE
+"Map Chocolate","Colombia",1610,2015,75,"U.S.A.",2.75,"Colombia",TRUE
+"Map Chocolate","Kakoa Kamili, Both Man & Bird & Beast",1610,2015,72,"U.S.A.",3,"Tanzania",TRUE
+"Map Chocolate","Le Chocolat Chaud",1634,2015,78,"U.S.A.",3.5,"Honduras",TRUE
+"Marana","Piura",1872,2016,70,"Peru",3,"Peru",FALSE
+"Marana","Cusco",1884,2016,70,"Peru",2.75,"Peru",FALSE
+"Marana","San Martin",1884,2016,70,"Peru",3,"Peru",FALSE
+"Marigold's Finest","Cacao Nib Crunch",1808,2016,75,"Canada",3.25," ",TRUE
+"Marou","Tan Phu Dong Island, Heart of Darkness",1650,2015,85,"Vietnam",3.25,"Vietnam",TRUE
+"Marou","Ben Tre",1650,2015,68,"Vietnam",3.5,"Vietnam",FALSE
+"Marou","Dak Lak, Batch 2451",1650,2015,70,"Vietnam",3.75,"Vietnam",FALSE
+"Marou","Tan Phu Dong, Treasure Island",1149,2013,75,"Vietnam",3.5,"Vietnam",TRUE
+"Marou","Ba Ria",845,2012,76,"Vietnam",3.5,"Vietnam",TRUE
+"Marou","Dong Nai",845,2012,72,"Vietnam",3.5,"Vietnam",TRUE
+"Marou","Tien Giang, Gao Co-op",845,2012,70,"Vietnam",3.5,"Vietnam",FALSE
+"Marou","Ben Tre",849,2012,78,"Vietnam",3.5,"Vietnam",TRUE
+"Marou","Tien Giang",895,2012,80,"Vietnam",3,"Vietnam",TRUE
+"Marou","Lam Dong",955,2012,74,"Vietnam",3.5,"Vietnam",TRUE
+"Mars","Matina 1-6, prototype",537,2010,65,"U.S.A.",3,"Costa Rica",FALSE
+"Mars","Ivory Coast",544,2010,65,"U.S.A.",3,"Ivory Coast",FALSE
+"Mars","Nigeria",544,2010,65,"U.S.A.",3.25,"Nigeria",FALSE
+"Mars","Ghana, prototype",544,2010,65,"U.S.A.",3.5,"Ghana",FALSE
+"Marsatta","Dominican Republic",1189,2013,74,"U.S.A.",2.25,"Dominican Republic",TRUE
+"Marsatta","Dominican Republic",1189,2013,89,"U.S.A.",2.5,"Dominican Republic",TRUE
+"Martin Mayer","Alto Beni",1836,2016,76,"Austria",2.75,"Bolivia",TRUE
+"Martin Mayer","Pisa",1836,2016,82,"Austria",3,"Haiti",TRUE
+"Martin Mayer","Tumaco",1836,2016,74,"Austria",3.25,"Colombia",TRUE
+"Mast Brothers","Guatemala",1450,2015,76,"U.S.A.",3,"Guatemala",TRUE
+"Mast Brothers","Tanzania",1450,2015,74,"U.S.A.",3.25,"Tanzania",TRUE
+"Mast Brothers","French Laundry 20th Anniversary",1359,2014,75,"U.S.A.",3.75,"Peru, Belize",TRUE
+"Mast Brothers","Shake Shack",959,2012,73,"U.S.A.",3.5,"Peru, Mad., Dom. Rep.",TRUE
+"Mast Brothers","Madagascar",999,2012,72,"U.S.A.",2.5,NA,TRUE
+"Mast Brothers","Chuao",999,2012,73,"U.S.A.",2.75,"Venezuela",TRUE
+"Mast Brothers","Brooklyn Blend",672,2011,72,"U.S.A.",3.5," ",TRUE
+"Mast Brothers","Chuao, Med. Roast",701,2011,76,"U.S.A.",3,"Venezuela",TRUE
+"Mast Brothers","Chuao, Dark Roast",709,2011,70,"U.S.A.",3,"Venezuela",FALSE
+"Mast Brothers","Chuao, Light Roast",713,2011,81,"U.S.A.",2.75,"Venezuela",TRUE
+"Mast Brothers","Moho River",773,2011,70,"U.S.A.",3.5,"Belize",FALSE
+"Mast Brothers","Papua New Guinea",777,2011,71,"U.S.A.",2.75,"Papua New Guinea",TRUE
+"Mast Brothers","San Martin",777,2011,75,"U.S.A.",3,"Peru",TRUE
+"Mast Brothers","Conacado",777,2011,73,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Mast Brothers","La Red de Guanconejo, N. Highlands coop",777,2011,74,"U.S.A.",3.75,"Dominican Republic",TRUE
+"Mast Brothers","Patanemo",572,2010,81,"U.S.A.",2.75,"Venezuela",TRUE
+"Mast Brothers","Ocumare de la Costa",572,2010,75,"U.S.A.",3,"Venezuela",TRUE
+"Mast Brothers","Dominican Republic, Coop",572,2010,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Matale","Malekula P., 2013",1177,2013,72,"Australia",3.5,"Vanuatu",TRUE
+"Matale","Somia, 2013",1177,2013,68,"Australia",4,"Madagascar",FALSE
+"Matale","Kulili P., 2013",1177,2013,74,"Australia",4,"Papua New Guinea",TRUE
+"Matale","Blend",1181,2013,70,"Australia",3.75,"PNG, Vanuatu, Mad",FALSE
+"Maverick","Maya Mountain",1367,2014,70,"U.S.A.",3.25,"Belize",FALSE
+"Maverick","Elvesia",1367,2014,70,"U.S.A.",3.25,"Dominican Republic",FALSE
+"Maverick","Tumbes",1430,2014,82,"U.S.A.",3.25,"Peru",TRUE
+"Maverick","Morropon, Norandiono Coop, Piura",1430,2014,63,"U.S.A.",3.5,"Peru",FALSE
+"Mayacama","Hispaniola",1728,2016,72,"U.S.A.",3,"Domincan Republic",TRUE
+"Meadowlands","Bolivia",1287,2014,70,"U.S.A.",2.5,"Bolivia",FALSE
+"Meadowlands","Venezuela",1287,2014,70,"U.S.A.",2.75,"Venezuela",FALSE
+"Meadowlands","Belize",1287,2014,70,"U.S.A.",3,"Belize",FALSE
+"Meadowlands","Nicaragua, w/ inbs",1291,2014,70,"U.S.A.",3,"Nicaragua",FALSE
+"Meadowlands","Dominican Republic",1291,2014,70,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Menakao (aka Cinagra)","Madagascar",837,2012,80,"Madagascar",2.5,"Madagascar",TRUE
+"Menakao (aka Cinagra)","Madagascar",841,2012,72,"Madagascar",2.5,"Madagascar",TRUE
+"Mesocacao","El Salvador",1494,2015,80,"Honduras",2.75,"El Salvador",TRUE
+"Mesocacao","El Salvador",1494,2015,70,"Honduras",3,"El Salvador",FALSE
+"Mesocacao","Honduras",1347,2014,80,"Honduras",3.25,"Honduras",TRUE
+"Mesocacao","Honduras",1347,2014,70,"Honduras",3.5,"Honduras",FALSE
+"Mesocacao","La Tronca, Matagalpa",1351,2014,70,"Honduras",3.25,"Nicaragua",FALSE
+"Mesocacao","La Tronca, Matagalpa",1351,2014,80,"Honduras",3.5,"Nicaragua",TRUE
+"Metiisto","Fazenda Sempre Firme P., Bahia",1267,2014,70,"Sweden",3,"Brazil",FALSE
+"Metiisto","Akesson Estate",1267,2014,72,"Sweden",3.5,"Madagascar",TRUE
+"Metropolitan","South America",1688,2015,70,"Amsterdam",3.5,"South America",FALSE
+"Michel Cluizel","Chiapas, Mokaya P.",963,2012,66,"France",3.75,"Mexico",FALSE
+"Michel Cluizel","Carenero Superior, Concepcion",117,2007,66,"France",3.5,"Venezuela",FALSE
+"Michel Cluizel","Vila Gracinda",135,2007,67,"France",3.5,"Sao Tome",FALSE
+"Michel Cluizel","Carre Amer",24,2006,60,"France",2," ",FALSE
+"Michel Cluizel","Carre Grand Noir",24,2006,85,"France",2," ",TRUE
+"Michel Cluizel","Tamarina",24,2006,70,"France",3,"Sao Tome",FALSE
+"Michel Cluizel","Los Ancones P.",24,2006,67,"France",4,"Dominican Republic",FALSE
+"Michel Cluizel","Mangaro P.",24,2006,65,"France",4,"Madagascar",FALSE
+"Michel Cluizel","Maralumi P.",24,2006,64,"France",4,"Papua New Guinea",FALSE
+"Michel Cluizel","Noir Infini",81,2006,99,"France",2," ",TRUE
+"Middlebury","Maya Mountain",1490,2015,80,"U.S.A.",3.5,"Belize",TRUE
+"Middlebury","San Juan Estate",1490,2015,70,"U.S.A.",3.5,"Trinidad",FALSE
+"Middlebury","Oko Caribe",1490,2015,75,"U.S.A.",3.75,"Dominican Republic",TRUE
+"Middlebury","Patanemo, Epoch, Donaldo",1490,2015,75,"U.S.A.",3.75,"Venezuela",TRUE
+"Middlebury","Kokoa Kamili",1538,2015,75,"U.S.A.",3.25,"Tanzania",TRUE
+"Middlebury","Matagalpa, Cacao Bisiesto",1538,2015,70,"U.S.A.",3.5,"Nicaragua",FALSE
+"Middlebury","La Red",1117,2013,75,"U.S.A.",2.5,"Dominican Republic",TRUE
+"Middlebury","Belize",1117,2013,80,"U.S.A.",3.25,"Belize",TRUE
+"Middlebury","Houseblend",887,2012,65,"U.S.A.",1.5," ",FALSE
+"Middlebury","Alto Beni",887,2012,75,"U.S.A.",2,"Bolivia",TRUE
+"Middlebury","Balinese, Java",887,2012,70,"U.S.A.",2.5,"Indonesia",FALSE
+"Millcreek Cacao Roasters","Ecuador",1073,2013,70,"U.S.A.",2.5,"Ecuador",FALSE
+"Millcreek Cacao Roasters","Ecuador",825,2012,70,"U.S.A.",3.5,"Ecuador",FALSE
+"Mindo","Ecuador",607,2010,67,"U.S.A.",2.75,"Ecuador",FALSE
+"Mindo","Ecuador",607,2010,77,"U.S.A.",2.75,"Ecuador",TRUE
+"Minimal","Acul-du-Nord, 2015",1920,2016,70,"Japan",3.5,"Haiti",FALSE
+"Mission","Fazenda Camboa, Bahia",1880,2016,75,"Brazil",3.75,"Brazil",TRUE
+"Mission","Bahia, Fazenda Venturosa",1626,2015,70,"Brazil",3.5,"Brazil",FALSE
+"Mita","Tumaco",955,2012,65,"Colombia",2.5,"Colombia",FALSE
+"Moho","Toledo District, w/ nibs",1026,2013,73,"U.S.A.",3.25,"Belize",TRUE
+"Moho","Toledo District",1030,2013,72,"U.S.A.",3,"Belize",TRUE
+"Moho","Umoho R., Toledo District, San Felipe",607,2010,67,"U.S.A.",2.75,"Belize",FALSE
+"Molucca","La Red",1614,2015,70,"U.S.A.",3,"Domincan Republic",FALSE
+"Molucca","Indonesia",1618,2015,70,"U.S.A.",2.75,"Indonesia",FALSE
+"Molucca","Peru",1618,2015,70,"U.S.A.",3.25,"Peru",FALSE
+"Momotombo","Matagalpa",661,2011,70,"Nicaragua",2.75,"Nicaragua",FALSE
+"Momotombo","Mombacho",661,2011,70,"Nicaragua",2.75,"Nicaragua",FALSE
+"Momotombo","Oscuro",772,2011,70,"Nicaragua",3.25,"Nicaragua",FALSE
+"Monarque","Oko Caribe",1812,2016,72,"Canada",3.5,"Dominican Republic",TRUE
+"Monsieur Truffe","Papaua New Guinea",1391,2014,70,"Australia",3.25,"Papua New Guinea",FALSE
+"Montecristi","Manabi",1654,2015,70,"Ecuador",3.25,"Ecuador",FALSE
+"Montecristi","Manabi",1654,2015,63,"Ecuador",3.5,"Ecuador",FALSE
+"Montecristi","Manabi",1658,2015,85,"Ecuador",3.5,"Ecuador",TRUE
+"Muchomas (Mesocacao)","Nicaragua",1462,2015,70,"U.S.A.",3.5,"Nicaragua",FALSE
+"Muchomas (Mesocacao)","Nicaragua",1462,2015,80,"U.S.A.",3.5,"Nicaragua",TRUE
+"Mutari","Kokoa Kamili, batch 1 SRB",1896,2016,68,"U.S.A.",2.75,"Tanzania",FALSE
+"Mutari","Oko Caribe, batch 1 SRB",1896,2016,71,"U.S.A.",2.75,"Domincan Republic",TRUE
+"Mutari","Ambanja, batch 1 SRB",1900,2016,68,"U.S.A.",2.75,"Madagascar",FALSE
+"Mutari","Tien Giang, batch 1 SRB",1900,2016,80,"U.S.A.",3,"Vietnam",TRUE
+"Nahua","Costa Rica, Oscuro",1049,2013,58,"Costa Rica",2.5,"Costa Rica",FALSE
+"Nahua","Costa Rica, Oscuro",1049,2013,70,"Costa Rica",3,"Costa Rica",FALSE
+"Naive","Trinidad & Tobago",1046,2013,70,"Lithuania",3.75,"Trinidad, Tobago",FALSE
+"Naive","Maranon Canyon, Fortunato No. 4",1133,2013,78,"Lithuania",3.75,"Peru",TRUE
+"Naive","Grenada",867,2012,71,"Lithuania",2.5,"Grenada",TRUE
+"Na�ve","Nicaragua",1379,2014,70,"Lithuania",3.25,"Nicaragua",FALSE
+"Na�ve","Chuao",1399,2014,75,"Lithuania",2.75,"Venezuela",TRUE
+"Na�ve","Barinas",1399,2014,70,"Lithuania",3,"Venezuela",FALSE
+"Nanea","Criollo Blend",1007,2013,85,"U.S.A.",3.5,"Hawaii",TRUE
+"Nathan Miller","Peru",1403,2014,72,"U.S.A.",2.25,"Peru",TRUE
+"Nathan Miller","Hispaniola",1403,2014,70,"U.S.A.",2.5,"Dominican Republic",FALSE
+"Nathan Miller","Madagascar",1403,2014,73.5,"U.S.A.",2.5,"Madagascar",TRUE
+"Nathan Miller","Ghana",1403,2014,70,"U.S.A.",3.5,"Ghana",FALSE
+"Neuhaus (Callebaut)","Papua New Guinea",531,2010,70,"Belgium",2.5,"Papua New Guinea",FALSE
+"Neuhaus (Callebaut)","Manickchand Estate",230,2008,67,"Belgium",3.75,"Trinidad",FALSE
+"Neuhaus (Callebaut)","Dark",135,2007,73,"Belgium",1," ",TRUE
+"Neuhaus (Callebaut)","West Africa",15,2006,73,"Belgium",2,"West Africa",TRUE
+"Neuhaus (Callebaut)","Sao Tome",15,2006,75,"Belgium",2.75,"Sao Tome",TRUE
+"Neuhaus (Callebaut)","Ocumare",24,2006,71,"Belgium",3,"Venezuela",TRUE
+"Nibble","Patanemo",1526,2015,72,"U.S.A.",2.25,"Venezuela",TRUE
+"Nibble","Elvesia P.",1526,2015,72,"U.S.A.",2.75,"Dominican Republic",TRUE
+"Nibble","Ambanja, Sambirano Valley",1526,2015,72,"U.S.A.",3,"Madagascar",TRUE
+"Nibble","Tumbes",1526,2015,72,"U.S.A.",3,"Peru",TRUE
+"Night Owl","Peru",1022,2013,75,"U.S.A.",2.75,"Peru",TRUE
+"Night Owl","Ecuador",1022,2013,75,"U.S.A.",3.5,"Ecuador",TRUE
+"Noble Bean aka Jerjobo","Ghana",1295,2014,75,"U.S.A.",3,"Ghana",TRUE
+"Noble Bean aka Jerjobo","Moho Valley",1299,2014,75,"U.S.A.",3,"Belize",TRUE
+"Noble Bean aka Jerjobo","Maranon Canyon",1299,2014,75,"U.S.A.",3.25,"Peru",TRUE
+"Noir d' Ebine","Venezuela",837,2012,70,"U.S.A.",3,"Venezuela",FALSE
+"Noir d' Ebine","Ecuador",841,2012,70,"U.S.A.",3,"Ecuador",FALSE
+"Nova Monda","La Patriota, cacao Indio, purple label",931,2012,70,"Nicaragua",3,"Nicaragua",FALSE
+"Nova Monda","La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,75,"Niacragua",2.75,"Nicaragua",TRUE
+"Nova Monda","Punta Galera, cacao Nacional, gold label",935,2012,80,"Nicaragua",3.25,"Ecuador",TRUE
+"Nuance","Ghana, 2013",1454,2015,70,"U.S.A.",3.75,"Ghana",FALSE
+"Nuance","Ecuador, 2013",1458,2015,70,"U.S.A.",2.75,"Ecuador",FALSE
+"Nuance","Canoabo, 2013",1458,2015,70,"U.S.A.",3,"Venezuela",FALSE
+"Nuance","Sambirano Valley, 2012",1458,2015,70,"U.S.A.",3.5,"Madagascar",FALSE
+"Nuance","La Red",1470,2015,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Nugali","Fazenda Leolinda",1876,2016,70,"Brazil",3.5,"Brazil",FALSE
+"Oakland Chocolate Co.","Jamaica",478,2010,70,"U.S.A.",2.5,"Jamaica",FALSE
+"Obolo","Pangoa",1638,2015,70,"Chile",3.75,"Peru",FALSE
+"Obolo","Pangoa, w/ nibs",1638,2015,70,"Chile",3.75,"Peru",FALSE
+"Ocelot","Virunga",1558,2015,70,"Scotland",3.75,"Congo",FALSE
+"Ocelot","Piura",1558,2015,75,"Scotland",4,"Peru",TRUE
+"Ocho","Sang Yum Coop",1760,2016,100,"New Zealand",2.75,"Samoa",TRUE
+"Ocho","Sang Yum Coop",1760,2016,70,"New Zealand",3.5,"Samoa",FALSE
+"Ocho","PNG, Devotion",1411,2014,66,"New Zealand",2.75,"Papua New Guinea",FALSE
+"Ocho","PNG, Revolution",1411,2014,70,"New Zealand",3,"Papua New Guinea",FALSE
+"Ocho","PNG, Voodoo",1411,2014,88,"New Zealand",3.25,"Papua New Guinea",TRUE
+"Ocho","PNG, Nib Bar",1411,2014,74,"New Zealand",3.5,"Papua New Guinea",TRUE
+"Ohiyo","San Juan Estate, Gran Couva",1594,2015,70,"U.S.A.",2.75,"Trinidad",FALSE
+"Ohiyo","Tanzania",1598,2015,70,"U.S.A.",3,"Tanzania",FALSE
+"Oialla by Bojessen (Malmo)","Sylvestre, Oialla",761,2011,70,"Germany",3.5,"Bolivia",FALSE
+"Olive and Sinclair","Dominican Republic prototype",486,2010,72,"U.S.A.",3,"Dominican Republic",TRUE
+"Olive and Sinclair","Ghana prototype",486,2010,72,"U.S.A.",3,"Ghana",TRUE
+"Olive and Sinclair","Dark 67",457,2009,67,"U.S.A.",2.75,"Ghana, Domin. Rep",FALSE
+"Olive and Sinclair","Dark 75",457,2009,75,"U.S.A.",3,"Ghana, Domin. Rep",TRUE
+"Olivia","Carribean-Raw",688,2011,76,"Canada",2,"Carribean",TRUE
+"Olivia","Carribean",688,2011,76,"Canada",2.75,"Carribean",TRUE
+"Olivia","Carribean",688,2011,85,"Canada",2.75,"Carribean",TRUE
+"Olivia","Carribean-Raw",688,2011,85,"Canada",3,"Carribean",TRUE
+"Omanhene","Ghana",693,2011,80,"Ghana",2.75,"Ghana",TRUE
+"Omnom","Kakao Kamili, Kilombero Valley",1816,2016,70,"Iceland",3.75,"Tanzania",FALSE
+"Omnom","Papua New Guinea",1247,2014,70,"Iceland",3,"Papua New Guinea",FALSE
+"Omnom","Madagascar",1247,2014,66,"Iceland",3.5,"Madagascar",FALSE
+"organicfair","Maya Mountain",1161,2013,74,"Canada",2.75,"Belize",TRUE
+"organicfair","La Red",1165,2013,72,"Canada",2.75,"Dominican Republic",TRUE
+"organicfair","Nicaraqua",1165,2013,72,"Canada",2.75,"Nicaragua",TRUE
+"organicfair","Caribe",1165,2013,72,"Canada",3,"Dominican Republic",TRUE
+"organicfair","Mindo",1165,2013,72,"Canada",3,"Ecuador",TRUE
+"Original Beans (Felchlin)","Papua Kerafat",1438,2014,68,"Switzerland",2.75,"Papua New Guinea",FALSE
+"Original Beans (Felchlin)","Grand Cru Blend No.1, 5 yr. Anniversary Ed",1442,2014,80,"Switzerland",3.25," ",TRUE
+"Original Beans (Felchlin)","Alto Beni, Wild Harvest, Itenez R. 24hr c.",733,2011,66,"Switzerland",3.75,"Bolivia",FALSE
+"Original Beans (Felchlin)","D.R. Congo, Cru Virunga",331,2009,70,"Switzerland",3,"Congo",FALSE
+"Original Beans (Felchlin)","Piura, Apotequil, ""Porcelana"" 72hr c.",341,2009,75,"Switzerland",3,"Peru",TRUE
+"Original Beans (Felchlin)","Alto Beni, Wild Harvest, Itenez R., 60hr c.",341,2009,68,"Switzerland",3.25,"Bolivia",FALSE
+"Original Hawaiin Chocolate Factory","Hawai'i, Kona Grand Cru E.",316,2009,60,"U.S.A.",3,"Hawaii",FALSE
+"Original Hawaiin Chocolate Factory","Hawai'i, Kona Estate Grown",24,2006,60,"U.S.A.",3,"Hawaii",FALSE
+"Orquidea","Peru",859,2012,65,"Peru",3,"Peru",FALSE
+"Orquidea","Peru",859,2012,72,"Peru",3,"Peru",TRUE
+"Pacari","Sierra Nevada, Tutu Iku",1848,2016,70,"Ecuador",4,"Colombia",FALSE
+"Pacari","Garaua",1415,2014,70,"Ecuador",3.25,"Ecuador",FALSE
+"Pacari","Cumbia",1415,2014,70,"Ecuador",3.5,"Ecuador",FALSE
+"Pacari","Montubia",1415,2014,70,"Ecuador",3.75,"Ecuador",FALSE
+"Pacari","Tangara",1415,2014,70,"Ecuador",4,"Ecuador",FALSE
+"Pacari","Ecuador, raw",817,2012,85,"Ecuador",2.75,"Ecuador",TRUE
+"Pacari","Piura",863,2012,70,"Ecuador",4,"Peru",FALSE
+"Pacari","Nube- prototype",721,2011,70,"Ecuador",3.5,"Ecuador",FALSE
+"Pacari","Esmeraldas",224,2008,60,"Ecuador",2.5,"Ecuador",FALSE
+"Pacari","Manabi",224,2008,65,"Ecuador",2.75,"Ecuador",FALSE
+"Pacari","Los Rios",224,2008,72,"Ecuador",3,"Ecuador",TRUE
+"Pacari","Raw",266,2008,100,"Ecuador",2,"Ecuador",TRUE
+"Pacari","Raw",266,2008,70,"Ecuador",3.5,"Ecuador",FALSE
+"Palette de Bine","Lachua",1720,2016,70,"Canada",2.75,"Guatemala",FALSE
+"Palette de Bine","Maya Mtn",1720,2016,72,"Canada",3,"Belize",TRUE
+"Palette de Bine","Silvestre, La Paz, Beni",1570,2015,70,"Canada",3.25,"Bolivia",FALSE
+"Palette de Bine","San Juan Estate, Gran Couva",1570,2015,70,"Canada",3.25,"Trinidad",FALSE
+"Palette de Bine","Kokoa Kamili",1574,2015,72,"Canada",3.5,"Tanzania",TRUE
+"Palette de Bine","Lam Dong",1574,2015,72,"Canada",3.75,"Vietnam",TRUE
+"Palette de Bine","Alto Beni, Palos Blancos",1239,2014,72,"Canada",2.75,"Bolivia",TRUE
+"Palette de Bine","Sambirano",1239,2014,78,"Canada",3.75,"Madagascar",TRUE
+"Palette de Bine","Camino Verde P., Balao, Guayas",1303,2014,75,"Canada",2.75,"Ecuador",TRUE
+"Palette de Bine","Duo- Gran Couva & Camino Verde",1399,2014,75,"Canada",3.5,"Trinidad, Ecuador",TRUE
+"Palette de Bine","Gran Couva",1399,2014,70,"Canada",3.75,"Trinidad",FALSE
+"Pangea","Matasawalevu",1860,2016,76,"Spain",3,"Fiji",TRUE
+"Park 75","South America",1363,2014,65,"U.S.A.",3.5,"South America",FALSE
+"Parliament","Kilombero Valley",1856,2016,70,"U.S.A.",3.25,"Tanzania",FALSE
+"Parliament","Lachua, Q'egchi families",1542,2015,70,"U.S.A.",3.5,"Guatemala",FALSE
+"Parliament","Alto Beni",1251,2014,70,"U.S.A.",3,"Bolivia",FALSE
+"Parliament","Oko Caribe",1255,2014,70,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Pascha","Peru",1137,2013,55,"Peru",2.5,"Peru",FALSE
+"Pascha","Peru",1137,2013,70,"Peru",2.75,"Peru",FALSE
+"Patric","Signature Blend",636,2011,70,"U.S.A.",3.75," ",FALSE
+"Patric","Madagascar",331,2009,75,"U.S.A.",4,"Madagascar",TRUE
+"Patric","Madagascar",439,2009,67,"U.S.A.",3.5,"Madagascar",FALSE
+"Patric","Rio Caribe, Paria Penninsula",439,2009,70,"U.S.A.",3.5,"Venezuela",FALSE
+"Patric","Madagascar",196,2007,70,"U.S.A.",4,"Madagascar",FALSE
+"Patric","Piura, Choc. Garage Exclusive",1034,2013,67,"U.S.A.",4,"Peru",FALSE
+"Paul Young","Madagascar, w/ shell",1271,2014,73,"U.K.",2.25,"Madagascar",TRUE
+"Paul Young","Madagascar, w/ shell",1271,2014,64,"U.K.",2.75,"Madagascar",FALSE
+"Peppalo","Dominican Republic",1454,2015,82,"U.S.A.",3,"Dominican Republic",TRUE
+"Pierre Marcolini","Haut Penja, w/ nibs",1658,2015,70,"Belgium",3.25,"Cameroon",FALSE
+"Pierre Marcolini","Chuao",478,2010,75,"Belgium",3,"Venezuela",TRUE
+"Pierre Marcolini","Trinite",478,2010,75,"Belgium",3.25,"Trinidad",TRUE
+"Pierre Marcolini","Baracoa, Cuba",516,2010,78,"Belgium",3.75,"Cuba",TRUE
+"Pierre Marcolini","Peru, Las Pampas P.",531,2010,85,"Belgium",3,"Peru",TRUE
+"Pierre Marcolini","Bahia Brazil, Fazenda Sao Pedro",414,2009,72,"Belgium",3,"Brazil",TRUE
+"Pierre Marcolini","Porcelana, Tabasco, Finca La Joya",445,2009,72,"Belgium",3,"Mexico",TRUE
+"Pierre Marcolini","Cabosse",111,2007,70,"Belgium",4,"Venezuela, Java",FALSE
+"Pierre Marcolini","Los Rios, Puerto Romero, Equateur",129,2007,72,"Belgium",3.75,"Ecuador",TRUE
+"Pierre Marcolini","Sambirano, Ambanja, Madagascar",141,2007,72,"Belgium",4,"Madagascar",TRUE
+"Pierre Marcolini","Fleur de Cacao",166,2007,85,"Belgium",3.5,"Venezuela/ Ghana",TRUE
+"Pierre Marcolini","Porcelana, Tabasco, Limited Ed.",81,2006,72,"Belgium",4,"Mexico",TRUE
+"Pierre Marcolini","Kendem Lembu, Java",93,2006,72,"Belgium",3,"Indonesia",TRUE
+"Pierre Marcolini","Ocumare, Puerto Cabello, Venezuela",93,2006,72,"Belgium",4,"Venezuela",TRUE
+"Pinellas","Wampusirpi Region",1772,2016,80,"U.S.A.",2.5,"Honduras",TRUE
+"Pitch Dark","Tenor",1506,2015,62,"U.S.A.",2.5,"Nicaragua",FALSE
+"Pitch Dark","Johe",1506,2015,80,"U.S.A.",2.75,"Nicaragua",TRUE
+"Pitch Dark","Chuno",1510,2015,80,"U.S.A.",2.75,"Nicaragua",TRUE
+"Pitch Dark","Nicalizo",1510,2015,80,"U.S.A.",2.75,"Nicaragua",TRUE
+"Pitch Dark","Rugoso",1510,2015,80,"U.S.A.",3.25,"Nicaragua",TRUE
+"Pitch Dark","Akesson Estate",1311,2014,73,"U.S.A.",3.25,"Madagascar",TRUE
+"Pitch Dark","Namau Village",1315,2014,73,"U.S.A.",2.5,"Fiji",TRUE
+"Pitch Dark","Camino Verde P., Balao, Guayas, ""Fruity""",1319,2014,73,"U.S.A.",3.25,"Ecuador",TRUE
+"Pitch Dark","Camino Verde P., Balao, Guayas, ""Floral""",1319,2014,73,"U.S.A.",3.5,"Ecuador",TRUE
+"Pomm (aka Dead Dog)","La Red, 2011",829,2012,76,"U.S.A.",2.5,"Dominican Republic",TRUE
+"Pomm (aka Dead Dog)","Peru",829,2012,82,"U.S.A.",2.75,"Peru",TRUE
+"Potomac","Oko Caribe, Duarte Province, 2016 H.",1820,2016,70,"U.S.A.",3.75,"Domincan Republic",FALSE
+"Potomac","Cuyagua, 2013",1387,2014,70,"U.S.A.",3.75,"Venezuela",FALSE
+"Potomac","Upala w/ nibs",647,2011,70,"U.S.A.",3.5,"Costa Rica",FALSE
+"Potomac","Upala, Batch 18",654,2011,70,"U.S.A.",3,"Costa Rica",FALSE
+"Potomac","San Martin, Amazonian Highlands",789,2011,70,"U.S.A.",2.75,"Peru",FALSE
+"Potomac","Bahia",789,2011,70,"U.S.A.",3.5,"Brazil",FALSE
+"Potomac","Upala, Batch 12",607,2010,82,"U.S.A.",3.75,"Costa Rica",TRUE
+"Pralus","Peru",1446,2015,75,"France",3.25,"Peru",TRUE
+"Pralus","Porcelana, S. of Lake Maracaibo",717,2011,75,"France",3.25,"Venezuela",TRUE
+"Pralus","Chuao",486,2010,75,"France",3.5,"Venezuela",TRUE
+"Pralus","Cuyagua",451,2009,75,"France",2,"Venezuela",TRUE
+"Pralus","Papouasie",199,2008,75,"France",3,"Papua New Guinea",TRUE
+"Pralus","Sambirano Valley, Le 100%",202,2008,100,"France",3,"Madagascar",TRUE
+"Pralus","Dominican Republic-Organic",280,2008,75,"France",2,"Dominican Republic",TRUE
+"Pralus","Monte Alegre, Diego Badero",280,2008,75,"France",3.5,"Brazil",TRUE
+"Pralus","Claudio Corallo w/ nibs",162,2007,75,"France",4,"Sao Tome",TRUE
+"Pralus","Monte Alegre (Itacare), Brazil",105,2006,75,"France",3,"Brazil",TRUE
+"Pralus","Tanzania",105,2006,75,"France",3.5,"Tanzania",TRUE
+"Pralus","Sao Tome & Principe",5,2006,75,"France",3.5,"Sao Tome & Principe",TRUE
+"Pralus","Trinidad",5,2006,75,"France",3.5,"Trinidad",TRUE
+"Pralus","Madagascar, Nosy Be Isle.",5,2006,75,"France",3.75,"Madagascar",TRUE
+"Pralus","Java, Indonesie",32,2006,75,"France",3.5,"Indonesia",TRUE
+"Pralus","Barlovento, Venezuela",32,2006,75,"France",3.5,"Venezuela",TRUE
+"Pralus","Jamaique",32,2006,75,"France",4,"Jamaica",TRUE
+"Pralus","Equateur",40,2006,75,"France",3,"Ecuador",TRUE
+"Pralus","Vanuatu",40,2006,75,"France",3,"Vanuatu",TRUE
+"Pralus","Ghana",40,2006,75,"France",3.25,"Ghana",TRUE
+"Pralus","Colombie",40,2006,75,"France",3.5,"Colombia",TRUE
+"Pralus","Fortissima",93,2006,80,"France",4,"Ecuador",TRUE
+"Pralus","Cuba",99,2006,75,"France",3,"Cuba",TRUE
+"Pralus","Caracas, Venezuela and Ghana",99,2006,75,"France",3,"Venezuela, Ghana",TRUE
+"Pralus","Djakarta, Java and Ghana",99,2006,75,"France",3.5,"Indonesia, Ghana",TRUE
+"Pump Street Bakery","Chocoan Rainforest, Teroro Escondido, ESM",1872,2016,77,"U.K.",3.5,"Ecuador",TRUE
+"Pump Street Bakery","Crayfish Bay Estate, 2014",1502,2015,70,"U.K.",3.5,"Grenada",FALSE
+"Pump Street Bakery","Akesson's, batch 4411",1530,2015,74,"U.K.",3.5,"Madagascar",TRUE
+"Pump Street Bakery","Honduras",1688,2015,80,"U.K.",2.75,"Honduras",TRUE
+"Pump Street Bakery","Patanemo Vil., Carabobo State, Tisano family",1223,2014,75,"U.K.",2.75,"Venezuela",TRUE
+"Pump Street Bakery","Guantupi River",1223,2014,75,"U.K.",3,"Ecuador",TRUE
+"Pump Street Bakery","Akessons Estate, Sambirano, Ambanja",1223,2014,72,"U.K.",3.25,"Madagascar",TRUE
+"Pump Street Bakery","Guantupi River",1227,2014,85,"U.K.",2.75,"Ecuador",TRUE
+"Pura Delizia","Venezuela",931,2012,73,"Italy",2.75,"Venezuela",TRUE
+"Q Chocolate","Brazil",1057,2013,75,"Brazil",3.25,"Brazil",TRUE
+"Q Chocolate","Brazil",1057,2013,85,"Brazil",3.5,"Brazil",TRUE
+"Q Chocolate","Brazil",1069,2013,55,"Brazil",2.75,"Brazil",FALSE
+"Q Chocolate","Brazil",1069,2013,80,"Brazil",3.25,"Brazil",TRUE
+"Q Chocolate","Brazil",935,2012,60,"Brazil",3,"Brazil",FALSE
+"Q Chocolate","Brazil",935,2012,65,"Brazil",3.25,"Brazil",FALSE
+"Quetzalli (Wolter)","Mexico, Lot 28022016",1796,2016,70,"Mexico",2.75,"Mexico",FALSE
+"Quetzalli (Wolter)","Uranga, Lot 22032016",1800,2016,74,"Mexico",3,"Mexico",TRUE
+"Raaka","Amazon Basin Blend",1788,2016,70,"U.S.A.",3,"Peru(SMartin,Pangoa,nacional)",FALSE
+"Raaka","Virunga",1708,2015,75,"U.S.A.",2.75,"Congo",TRUE
+"Raaka","Madagascar",959,2012,75,"U.S.A.",3.25,"Madagascar",TRUE
+"Raaka","La Red",785,2011,85,"U.S.A.",3.5,"Dominican Republic",TRUE
+"Rain Republic","Suchitepequez E.",470,2010,70,"Guatemala",2.75,"Guatemala",FALSE
+"Rancho San Jacinto","Ecuador",565,2010,75,"Eucador",3,"Ecuador",TRUE
+"Ranger","San Martin, Batch 2",1558,2015,70,"U.S.A.",2.5,"Peru",FALSE
+"Ranger","Chulucanas, Batch 1",1562,2015,80,"U.S.A.",3.25,"Peru",TRUE
+"Ranger","Tumbes, Batch 2",1562,2015,73,"U.S.A.",3.5,"Peru",TRUE
+"Raoul Boulanger","Piura",1872,2016,75,"France",3.25,"Peru",TRUE
+"Raw Cocoa","Raw",867,2012,70,"Poland",2.5," ",FALSE
+"Republica del Cacao (aka Confecta)","Esmeraldas",494,2010,75,"Ecuador",3.25,"Ecuador",TRUE
+"Republica del Cacao (aka Confecta)","Los Rios, Vinces",439,2009,75,"Ecuador",2.5,"Ecuador",TRUE
+"Republica del Cacao (aka Confecta)","Manabi",147,2007,75,"Ecuador",3,"Ecuador",TRUE
+"Republica del Cacao (aka Confecta)","El Oro",147,2007,67,"Ecuador",3.5,"Ecuador",FALSE
+"Republica del Cacao (aka Confecta)","Los Rios",170,2007,75,"Ecuador",3.75,"Ecuador",TRUE
+"Ritual","Camino Verde P., Balao, 2015 harvest, batch8",1860,2016,75,"U.S.A.",3.75,"Ecuador",TRUE
+"Ritual","Camino Verde P., Balao, Guayas, 2014",1466,2015,85,"U.S.A.",3.5,"Ecuador",TRUE
+"Ritual","Mid Mountain, 2014",1466,2015,70,"U.S.A.",3.5," ",FALSE
+"Ritual","Toledo District, Maya",1089,2013,75,"U.S.A.",3.75,"Belize",TRUE
+"Ritual","Maranon, Cajamarca",1181,2013,75,"U.S.A.",3,"Peru",TRUE
+"Ritual","Sambirano",891,2012,75,"U.S.A.",4,"Madagascar",TRUE
+"Ritual","Camino Verde P., 2012, Balao, Guayas",967,2012,75,"U.S.A.",3.25,"Ecuador",TRUE
+"Ritual","Gran Couva",979,2012,75,"U.S.A.",3.5,"Trinidad",TRUE
+"Ritual","Costa Rica",745,2011,75,"U.S.A.",3.5,"Costa Rica",TRUE
+"Roasting Masters","La Dorado, light roast",1844,2016,70,"South Korea",3.25,"Costa Rica",FALSE
+"Roasting Masters","Tapanti, light roast",1844,2016,70,"South Korea",3.25,"Costa Rica",FALSE
+"Roasting Masters","Maleku",1844,2016,70,"South Korea",3.25,"Costa Rica",FALSE
+"Robert (aka Chocolaterie Robert)","Madagascar",1061,2013,75,"Madagascar",3.25,"Madagascar",TRUE
+"Robert (aka Chocolaterie Robert)","Madagascar w/ nibs",1061,2013,68,"Madagascar",3.25,"Madagascar",FALSE
+"Rococo (Grenada Chocolate Co.)","Gru Grococo, St. Andrews",923,2012,66,"U.K.",3.5,"Grenada",FALSE
+"Rogue","La Masica, Batch 1, FHIA Research Center",1748,2016,75,"U.S.A.",3.75,"Honduras",TRUE
+"Rogue","Caranero, Choc. Garage Exclusive",1446,2015,70,"U.S.A.",3.75,"Venezuela",FALSE
+"Rogue","Tranquilidad, Batch 1",1566,2015,75,"U.S.A.",3.25,"Bolivia",TRUE
+"Rogue","Porcelana",1209,2014,80,"U.S.A.",3.75,"Venezuela",TRUE
+"Rogue","Akessons Estate, Sambirano, 2013",1038,2013,70,"U.S.A.",3.5,"Madagascar",FALSE
+"Rogue","Hispaniola, 2013",1081,2013,70,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Rogue","Silvestre, Batch 7, 2013",1081,2013,75,"U.S.A.",4,"Bolivia",TRUE
+"Rogue","Bachelor's Hall E., St. Thomas Parish",1193,2013,75,"U.S.A.",3.75,"Jamaica",TRUE
+"Rogue","Camino Verde P., Balao, Guayas",979,2012,75,"U.S.A.",3.75,"Ecuador",TRUE
+"Rogue","Silvestre, Batch 1, 2011",793,2011,75,"U.S.A.",3,"Bolivia",TRUE
+"Rogue","Piura",565,2010,75,"U.S.A.",3.75,"Peru",TRUE
+"Rogue","Rio Caribe",327,2009,70,"U.S.A.",3.5,"Venezuela",FALSE
+"Rogue","Hispaniola, 2008",213,2008,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Rogue","Jamaica",213,2008,70,"U.S.A.",2.75,"Jamaica",FALSE
+"Rogue","Sambirano, 2008",213,2008,70,"U.S.A.",2.75,"Madagascar",FALSE
+"Rogue","Trinidad",213,2008,70,"U.S.A.",3,"Trinidad",FALSE
+"Rozsavolgyi","Sur del Lago",809,2012,84,"Hungary",2.5,"Venezuela",TRUE
+"Rozsavolgyi","Rio Caribe Superior, Paria Penninsula",871,2012,76,"Hungary",2.25,"Venezuela",TRUE
+"Rozsavolgyi","Sambirano, Akesson Estate",871,2012,72,"Hungary",2.5,"Madagascar",TRUE
+"Rozsavolgyi","Carenero Superior",713,2011,73,"Hungary",3.5,"Venezuela",TRUE
+"Rozsavolgyi","Porcelana",717,2011,71,"Hungary",2.5,"Venezuela",TRUE
+"Rozsavolgyi","Aragua, Trincheras",717,2011,70,"Hungary",3.5,"Venezuela",FALSE
+"Rozsavolgyi","Principe",765,2011,77,"Hungary",2.75,"Principe",TRUE
+"S.A.I.D.","Malgascio",607,2010,64,"Italy",3.5,"Madagascar",FALSE
+"S.A.I.D.","100 percent",615,2010,100,"Italy",1.5," ",TRUE
+"S.A.I.D.","Samana",615,2010,70,"Italy",3,"Dominican Republic",FALSE
+"S.A.I.D.","Arawak",615,2010,72,"Italy",3.5,"Carribean",TRUE
+"S.A.I.D.","Latino",615,2010,72,"Italy",3.5," ",TRUE
+"Sacred","Midnight",813,2012,83,"U.S.A.",2.75,"Central and S. America",TRUE
+"Sacred","Twilight",813,2012,69,"U.S.A.",3.25,"Central and S. America",FALSE
+"Salgado","Bahia Superior",288,2008,70,"Argentina",3.5,"Brazil",FALSE
+"Salgado","Esmeraldas",288,2008,70,"Argentina",3.5,"Ecuador",FALSE
+"Salgado","Carenero Superior",288,2008,70,"Argentina",3.5,"Venezuela",FALSE
+"Salgado","Rio Arriba",292,2008,70,"Argentina",3.5,"Ecuador",FALSE
+"Santander (Compania Nacional)","Colombian 2008",404,2009,75,"Colombia",2.75,"Colombia",TRUE
+"Santander (Compania Nacional)","Colombian w/ nibs",414,2009,70,"Colombia",3,"Colombia",FALSE
+"Santander (Compania Nacional)","Colombian Semi Dark",32,2006,53,"Colombia",2,"Colombia",FALSE
+"Santander (Compania Nacional)","Colombian",32,2006,65,"Colombia",3,"Colombia",FALSE
+"Santander (Compania Nacional)","Colombian Dark",32,2006,70,"Colombia",4,"Colombia",FALSE
+"Santome","Sao Tome",761,2011,70,"France",2.75,"Sao Tome",FALSE
+"Scharffen Berger","San Juan de Cheni",959,2012,78,"U.S.A.",4,"Peru",TRUE
+"Scharffen Berger","Markham Valley",781,2011,68,"U.S.A.",3.75,"Papua New Guinea",FALSE
+"Scharffen Berger","Camahogne",464,2010,68,"U.S.A.",3.5,"Grenada",FALSE
+"Scharffen Berger","Amina",464,2010,65,"U.S.A.",3.75,"Madagascar",FALSE
+"Scharffen Berger","Tome Acu",336,2009,68,"U.S.A.",3.75,"Brazil",FALSE
+"Scharffen Berger","Asante",336,2009,65,"U.S.A.",4,"Ghana",FALSE
+"Scharffen Berger","Ben Tre",445,2009,72,"U.S.A.",3.75,"Vietnam",TRUE
+"Scharffen Berger","Finisterra",227,2008,72,"U.S.A.",3,"Ven., Trinidad, Mad.",TRUE
+"Scharffen Berger","Las Islas",117,2007,72,"U.S.A.",3,"Carribean(DR/Jam/Tri)",TRUE
+"Scharffen Berger","Nibby",135,2007,62,"U.S.A.",3," ",FALSE
+"Scharffen Berger","Cuyagua",135,2007,75,"U.S.A.",3.75,"Venezuela",TRUE
+"Scharffen Berger","Antilles (Trin/Gren/DR/Ven)",188,2007,75,"U.S.A.",3,"Carribean",TRUE
+"Scharffen Berger","Extra Dark",15,2006,82,"U.S.A.",2," ",TRUE
+"Scharffen Berger","Bittersweet",15,2006,70,"U.S.A.",3.5," ",FALSE
+"Scharffen Berger","Kumasi Sambirano",40,2006,68,"U.S.A.",2,"Ghana & Madagascar",FALSE
+"Scharffen Berger","Jamaica a l'ancienne",56,2006,70,"U.S.A.",2,"Jamaica",FALSE
+"Scharffen Berger","Semisweet",56,2006,62,"U.S.A.",3," ",FALSE
+"Seaforth","Dominican Republic",1658,2015,70,"U.K.",2.75,"Domincan Republic",FALSE
+"Seaforth","Grenada",1658,2015,70,"U.K.",2.75,"Grenada",FALSE
+"Shark Mountain","Jamaica",1450,2015,72,"U.S.A.",3.25,"Jamaica",TRUE
+"Shark Mountain","Papua New Guinea",1450,2015,73,"U.S.A.",3.5,"Papua New Guinea",TRUE
+"Shark Mountain","Cuyagua",1466,2015,77,"U.S.A.",2.75,"Venezuela",TRUE
+"Shark Mountain","ROIG",1466,2015,74,"U.S.A.",3.5,"Dominican Republic",TRUE
+"Shark Mountain","Ecuador",1335,2014,75,"U.S.A.",3,"Ecuador",TRUE
+"Shark Mountain","Belize, 2013",1335,2014,72,"U.S.A.",3.25,"Belize",TRUE
+"Shark's","Hilo",713,2011,73,"U.S.A.",2,"Hawaii",TRUE
+"Shark's","Hilo, w/ added cocoa butter",721,2011,73,"U.S.A.",2.5,"Hawaii",TRUE
+"Shattel","Tingo Maria",1884,2016,70,"Peru",3.25,"Peru",FALSE
+"Shattell","Porcelana",757,2011,75,"Peru",3.5,"Peru",TRUE
+"Sibu","Oro",1586,2015,82,"Costa Rica",3.25,"Costa Rica",TRUE
+"Sibu","Oscuro",1586,2015,70,"Costa Rica",3.5,"Costa Rica",FALSE
+"Sibu Sura","Peru",911,2012,70,"U.S.A.",2.5,"Peru",FALSE
+"Silvio Bessone","Maya Belize",717,2011,67,"Italy",3,"Belize",FALSE
+"Silvio Bessone","Trintade, Sao Tome",725,2011,65,"Italy",3.25,"Sao Tome",FALSE
+"Silvio Bessone","Bahia, Scavina",729,2011,60,"Italy",3.25,"Brazil",FALSE
+"Silvio Bessone","Porcelana, Colombia, Amazonas",741,2011,68,"Italy",3,"Colombia",FALSE
+"Sirene","Wild Bolivia",1788,2016,73,"Canada",3.5,"Bolivia",TRUE
+"Sirene","Kokoa Kamili Coop",1856,2016,73,"Canada",3.5,"Tanzania",TRUE
+"Sirene","Esmeraldas, Salazar Farm",1860,2016,73,"Canada",3.75,"Ecuador",TRUE
+"Sirene","Somia Plantation, 2012",1502,2015,100,"Canada",3,"Madagascar",TRUE
+"Sirene","Camino Verde P., Balao, Guayas, 2012",1506,2015,100,"Canada",3,"Ecuador",TRUE
+"Sirene","Lachua w/ cane sugar",1614,2015,73,"Canada",3,"Guatemala",TRUE
+"Sirene","Lachua w/ maple sugar, batch 5",1614,2015,73,"Canada",3.25,"Guatemala",TRUE
+"Sirene","Pisa",1650,2015,73,"Canada",3.25,"Haiti",TRUE
+"Sirene","Somia Plantation, 2012",1339,2014,67,"Canada",3.75,"Madagascar",FALSE
+"Sirene","Somia Plantation, 2012",1339,2014,73,"Canada",3.75,"Madagascar",TRUE
+"Sirene","Camino Verde P., Balao, Guayas",1343,2014,73,"Canada",3.75,"Ecuador",TRUE
+"Sjolinds","Ghana",1454,2015,70,"U.S.A.",2.75,"Ghana",FALSE
+"Sjolinds","Nicaragua",1462,2015,72,"U.S.A.",3,"Nicaragua",TRUE
+"Smooth Chocolator, The","Oko Caribe, DOR005",1940,2017,70,"Australia",3.5,"Dominican Republic",FALSE
+"Smooth Chocolator, The","Guasare, La Sierra de Perija, batch gua001",1740,2016,70,"Australia",3.75,"Venezuela",FALSE
+"Smooth Chocolator, The","Porcelana, Sorotaima,Machiques,batch pcl001",1740,2016,70,"Australia",4,"Ecuador",FALSE
+"Smooth Chocolator, The","Maya Mtn, Moho R., Toledo D.",1756,2016,70,"Australia",3.75,"Belize",FALSE
+"Smooth Chocolator, The","Tien Giang",1864,2016,70,"Australia",3,"Vietnam",FALSE
+"Smooth Chocolator, The","Australia",1864,2016,67,"Australia",3.75,"Australia",FALSE
+"Smooth Chocolator, The","Chimelb, Lanquin, Alta Verapaz, b-GUA001",1908,2016,70,"Australia",3.25,"Guatemala",FALSE
+"Smooth Chocolator, The","Akesson's Estate",1618,2015,65,"Australia",3.25,"Madagascar",FALSE
+"Smooth Chocolator, The","Akesson's Estate",1622,2015,70,"Australia",3.5,"Madagascar",FALSE
+"Smooth Chocolator, The","Kokoa Kamili",1622,2015,67,"Australia",3.75,"Tanzania",FALSE
+"Smooth Chocolator, The","San Juan Estate",1622,2015,70,"Australia",3.75,"Trinidad",FALSE
+"Smooth Chocolator, The","Camino Verde",1622,2015,72,"Australia",4,"Ecuador",TRUE
+"Smooth Chocolator, The","Bolivia",1626,2015,72,"Australia",2.75,"Bolivia",TRUE
+"Smooth Chocolator, The","Papua New Guinea, triple roast, batch 1",1662,2015,65,"Australia",3.5,"Papua New Guinea",FALSE
+"Smooth Chocolator, The","Maranon, batch 2",1666,2015,67,"Australia",3,"Peru",FALSE
+"Smooth Chocolator, The","Chuao, batch 3",1666,2015,70,"Australia",3.75,"Venezuela",FALSE
+"Snake & Butterfly","Ghana",693,2011,67,"U.S.A.",1.5,"Ghana",FALSE
+"Snake & Butterfly","Madagascar",502,2010,68,"U.S.A.",3,"Madagascar",FALSE
+"Snake & Butterfly","Ecuador",502,2010,68,"U.S.A.",3.25,"Ecuador",FALSE
+"Sol Cacao","Ecuador, Batch 1",1812,2016,70,"U.S.A.",3.5,"Ecuador",FALSE
+"Sol Cacao","Madagascar",1518,2015,72,"U.S.A.",3,"Madagascar",TRUE
+"Solkiki","Maranon, Fortunato No. 4",1840,2016,68,"U.K.",2.75,"Peru",FALSE
+"Solkiki","Castillo, Hispaniola, unroasted",1840,2016,85,"U.K.",2.75,"Domincan Republic",TRUE
+"Solomons Gold","Solomon Island",1792,2016,70,"New Zealand",3.25,"Solomon Islands",FALSE
+"Solomons Gold","Solomon Island w/ nibs",1796,2016,75,"New Zealand",3.25,"Solomon Islands",TRUE
+"Solstice","Bundibugyo",1335,2014,70,"U.S.A.",3,"Uganda",FALSE
+"Solstice","Sambirano",1157,2013,70,"U.S.A.",3,"Madagascar",FALSE
+"Solstice","Amazonas",1157,2013,70,"U.S.A.",3,"Venezuela",FALSE
+"Solstice","Bolivia",1161,2013,70,"U.S.A.",3.25,"Bolivia",FALSE
+"Solstice","San Martin",1161,2013,70,"U.S.A.",3.25,"Peru",FALSE
+"Solstice","Wasatch",1161,2013,70,"U.S.A.",3.5," ",FALSE
+"Soma","Oko Caribe, Duarte P., Collab w Chocosol",1820,2016,62,"Canada",3.5,"Domincan Republic",FALSE
+"Soma","Sambirano Valley, Black Science, B-60307.0",1820,2016,70,"Canada",3.5,"Madagascar",FALSE
+"Soma","Bahia Black, batch bra50722.1",1828,2016,70,"Canada",3.5,"Brazil",FALSE
+"Soma","Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,75,"Canada",3.75,"Ven.,Ecu.,Peru,Nic.",TRUE
+"Soma","Chuno, San Jose de Bocay, Pantasma R.,B.S.",1828,2016,70,"Canada",3.75,"Nicaragua",FALSE
+"Soma","Tien Giang, Black S., batch VIT60420.0",1828,2016,70,"Canada",4,"Vietnam",FALSE
+"Soma","Camino Verde, Black S., batch cvu6030.0",1832,2016,70,"Canada",3.25,"Ecuador",FALSE
+"Soma","CSB Chama",1594,2015,70,"Canada",3.5,"Venezuela",FALSE
+"Soma","Porcelana",1594,2015,75,"Canada",4,"Venezuela",TRUE
+"Soma","La Tronca, Matagalpa",1227,2014,70,"Canada",3.5,"Nicaragua",FALSE
+"Soma","Maranon Canyon",1259,2014,70,"Canada",3.75,"Peru",FALSE
+"Soma","La Dalia",1307,2014,70,"Canada",3.25,"Nicaragua",FALSE
+"Soma","Camino Verde P., Balao, Guayas",1307,2014,80,"Canada",3.5,"Ecuador",TRUE
+"Soma","Espiritu Santo, 'Smoke Monster'",1307,2014,70,"Canada",3.75,"Vanuatu",FALSE
+"Soma","Little Big Man",1339,2014,70,"Canada",3.25,"Madagascar & Ecuador",FALSE
+"Soma","Rizek Cacao, Domin. Rep.",1019,2013,77,"Canada",3.75,"Dominican Republic",TRUE
+"Soma","Java",1030,2013,70,"Canada",3.25,"Indonesia",FALSE
+"Soma","Apurimac, El Quinacho Co-op",1073,2013,70,"Canada",2.75,"Peru",FALSE
+"Soma","Sangre Grande P., Trinidad",1073,2013,70,"Canada",3.75,"Trinidad",FALSE
+"Soma","Chef's Blend",1077,2013,70,"Canada",3.25," ",FALSE
+"Soma","Patanemo",1077,2013,70,"Canada",3.75,"Venezuela",FALSE
+"Soma","Crazy 88",1077,2013,88,"Canada",4,"Guat., D.R., Peru, Mad., PNG",TRUE
+"Soma","Maracaibo, El Vigia",1077,2013,70,"Canada",4,"Venezuela",FALSE
+"Soma","Equator",1081,2013,67,"Canada",4,"Peru, Dom. Rep",FALSE
+"Soma","Orinoco",1173,2013,70,"Canada",3.25,"Venezuela",FALSE
+"Soma","Bachelor's Hall E., St. Thomas Parish",1177,2013,70,"Canada",4,"Jamaica",FALSE
+"Soma","Noula Coop",817,2012,70,"Canada",3.25,"Haiti",FALSE
+"Soma","O'ahu",833,2012,70,"Canada",3.75,"Hawaii",FALSE
+"Soma","Dual Origins, Sambirano, Elvesia",867,2012,70,"Canada",4,"Dom. Rep., Madagascar",FALSE
+"Soma","Dancing in Your Head, 5 bean blend",867,2012,70,"Canada",4,"Gre., PNG, Haw., Haiti, Mad",FALSE
+"Soma","Cahabon Region",951,2012,70,"Canada",3.5,"Guatemala",FALSE
+"Soma","Carenero Superior",951,2012,70,"Canada",3.75,"Venezuela",FALSE
+"Soma","Eastern Promises",967,2012,70,"Canada",3.5,"Mad., Java, PNG",FALSE
+"Soma","Papua New Guinea",983,2012,85,"Canada",3.5,"Papua New Guinea",TRUE
+"Soma","Grenada, Black Science",676,2011,70,"Canada",2.75,"Grenada",FALSE
+"Soma","Alto Beni, Wild Bolivian",676,2011,70,"Canada",3.5,"Bolivia",FALSE
+"Soma","Peruvian",676,2011,64,"Canada",4,"Peru",FALSE
+"Soma","Three Amigos(Chuao, Wild Bolivia, D.R.)",676,2011,70,"Canada",4,"Ven, Bolivia, D.R.",FALSE
+"Soma","Elvesia P., Black Science",682,2011,70,"Canada",3.75,"Dominican Republic",FALSE
+"Soma","Chuao",688,2011,70,"Canada",3.5,"Venezuela",FALSE
+"Soma","Black Science Blend 1",607,2010,70,"Canada",3.75,"DR, Ecuador, Peru",FALSE
+"Soma","Hispaniola",377,2009,70,"Canada",3,"Dominican Republic",FALSE
+"Soma","Africa",377,2009,70,"Canada",3.5,"Ghana",FALSE
+"Soma","Conacado",387,2009,70,"Canada",3,"Dominican Republic",FALSE
+"Soma","Papua New Guinea",387,2009,70,"Canada",3.5,"Papua New Guinea",FALSE
+"Soma","Madagascar",387,2009,70,"Canada",3.75,"Madagascar",FALSE
+"Soma","Ocumare",387,2009,70,"Canada",3.75,"Venezuela",FALSE
+"Somerville","Nicaragua",1367,2014,70,"U.S.A.",3.25,"Nicaragua",FALSE
+"Somerville","Hawaiian, Big Island",1395,2014,70,"U.S.A.",3.5,"Hawaii",FALSE
+"Soul","Dominican Republic",1932,2017,70,"Canada",3.25,"Dominican Republic",FALSE
+"Soul","Madagascar",1936,2017,70,"Canada",3.5,"Madagascar",FALSE
+"Soul","Venezuela",1936,2017,75,"Canada",3.5,"Venezuela",TRUE
+"Soul","Ecuador",1936,2017,75,"Canada",3.25,"Ecuador",TRUE
+"Soul","Papua New Guinea",1936,2017,77,"Canada",3.25,"Papua New Guinea",TRUE
+"Soul","Tanzania",1940,2017,80,"Canada",3.5,"Tanzania",TRUE
+"Spagnvola","AgroCriso Plantation",793,2012,70,"U.S.A.",3,"Dominican Republic",FALSE
+"Spagnvola","AgroCriso Plantation",793,2012,80,"U.S.A.",3,"Dominican Republic",TRUE
+"Spagnvola","AgroCriso Plantation",793,2012,75,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Spencer","Dominican Republic",1932,2017,70,"U.S.A.",3.75,"Dominican Republic",FALSE
+"Spencer","Ecuador",1932,2017,70,"U.S.A.",3.5,"Ecuador",FALSE
+"Spencer","Peru",1932,2017,70,"U.S.A.",2.75,"Peru",FALSE
+"Spencer","Dominican Republic, lot D82R",1792,2016,70,"Australia",3.5,"Domincan Republic",FALSE
+"Spencer","Ecuador, lot E432314L",1792,2016,70,"Australia",3.75,"Ecuador",FALSE
+"Spencer","Madagascar, lot M0403R",1792,2016,70,"Australia",3.75,"Madagascar",FALSE
+"Spencer","Malekula Island",1434,2014,72,"Australia",2.75,"Vanuatu",TRUE
+"Sprungli (Felchlin)","Alto Beni",1057,2013,70,"Switzerland",3,"Bolivia",FALSE
+"SRSLY","Dominican Republic",1113,2013,70,"U.S.A.",3,"Dominican Republic",FALSE
+"SRSLY","Dominican Republic",1121,2013,84,"U.S.A.",2.25,"Dominican Republic",TRUE
+"Starchild","Bolivar, Arriba",1634,2015,70,"U.S.A.",3,"Ecuador",FALSE
+"Starchild","Hispaniola",1692,2015,70,"U.S.A.",3,"Domincan Republic",FALSE
+"Starchild","Cacao Verapaz",1692,2015,70,"U.S.A.",3,"Guatemala",FALSE
+"Starchild","Rio Tuma",1692,2015,70,"U.S.A.",3,"Nicaragua",FALSE
+"Starchild","Sambirano Valley",1696,2015,70,"U.S.A.",3,"Madagascar",FALSE
+"Stella (aka Bernrain)","Bahia, Agri-Forestal Plantation, 2010",859,2012,68,"Switzerland",2.75,"Brazil",FALSE
+"Stella (aka Bernrain)","India",729,2011,72,"Switzerland",3.25,"India",TRUE
+"Stone Grindz","Ecuador, Midnight Dark",1291,2014,84,"U.S.A.",3.5,"Ecuador",TRUE
+"Stone Grindz","Ecuador, Twilght Dark",1291,2014,70,"U.S.A.",3.5,"Ecuador",FALSE
+"StRita Supreme","Samar, East Visayas region",939,2012,65,"U.S.A.",2.5,"Philippines",FALSE
+"StRita Supreme","Samar, East Visayas region",943,2012,70,"U.S.A.",2.5,"Philippines",FALSE
+"StRita Supreme","Samar, East Visayas region",943,2012,75,"U.S.A.",2.75,"Philippines",TRUE
+"Sublime Origins","Sambirano",1157,2013,67,"U.S.A.",2.75,"Madagascar",FALSE
+"Sublime Origins","Moho Valley",1157,2013,78,"U.S.A.",3.25,"Belize",TRUE
+"Summerbird","Peru",1800,2016,61,"Denmark",2.5,"Peru",FALSE
+"Summerbird","Peru",1800,2016,71,"Denmark",3,"Peru",TRUE
+"Suruca Chocolate","Venezuela",1796,2016,70,"Venezuela",2.75,"Venezuela",FALSE
+"Suruca Chocolate","Venezuela",1796,2016,60,"Venezuela",3,"Venezuela",FALSE
+"Svenska Kakaobolaget","Sri Lanka",1618,2015,70,"Sweden",2.75,"Sri Lanka",FALSE
+"Szanto Tibor","Nacional",1668,2015,70,"Hungary",3.25,"Ecuador",FALSE
+"Szanto Tibor","Baracoa",1704,2015,88,"Hungary",3.25,"Cuba",TRUE
+"Szanto Tibor","Ambolikapiky",1704,2015,70,"Hungary",3.25,"Madagascar",FALSE
+"Szanto Tibor","Winak, Sumaco",1704,2015,70,"Hungary",3.75,"Ecuador",FALSE
+"Szanto Tibor","Ben Tre, Mekong Delta",1708,2015,70,"Hungary",3.25,"Vietnam",FALSE
+"Szanto Tibor","Fazenda Sempre Firme, Bahia",1708,2015,70,"Hungary",3.5,"Brazil",FALSE
+"Szanto Tibor","Porcelana",1263,2014,70,"Hungary",3.5,"Venezuela",FALSE
+"Szanto Tibor","Baracoa",1263,2014,70,"Hungary",3.75,"Cuba",FALSE
+"Szanto Tibor","Autumn, Primary Harvest, 2012",1185,2013,70,"Hungary",3.5,"Madagascar",FALSE
+"Szanto Tibor","Spring, Secondary Harvest, 2012",1185,2013,70,"Hungary",3.5,"Madagascar",FALSE
+"Szanto Tibor","Cacao Blanco",1193,2013,70,"Hungary",3.25,"Nicaragua",FALSE
+"Szanto Tibor","Santo Domingo",939,2012,70,"Hungary",3.25,"Dominican Republic",FALSE
+"Szanto Tibor","Millot Plantation",939,2012,70,"Hungary",3.25,"Madagascar",FALSE
+"Szanto Tibor","Ayacucho, ""El Guinacho""",939,2012,70,"Hungary",3.75,"Peru",FALSE
+"Szanto Tibor","Crudo",761,2011,70,"Hungary",3,"Venezuela",FALSE
+"Tabal","Costa Rica",1101,2013,70,"U.S.A.",2.75,"Costa Rica",FALSE
+"Tabal","Dominican Republic",1101,2013,70,"U.S.A.",2.75,"Dominican Republic",FALSE
+"Tabal","Chiapas, Lacandon Jungle",1105,2013,70,"U.S.A.",2.5,"Mexico",FALSE
+"Tabal","Peru",1105,2013,70,"U.S.A.",3,"Peru",FALSE
+"Tablette (aka Vanillabeans)","Colombia",1450,2015,70,"Japan",3,"Colombia",FALSE
+"Tablette (aka Vanillabeans)","Papua",1450,2015,62,"Japan",3.25,"Papua New Guinea",FALSE
+"Tablette (aka Vanillabeans)","Vietnam",1450,2015,60,"Japan",3.25,"Vietnam",FALSE
+"Tablette (aka Vanillabeans)","Trinidad",1680,2015,77,"Japan",2.75,"Trinidad",TRUE
+"Tan Ban Skrati","Paramaribo, batch 20160043-01",1868,2016,70,"Suriname",3.25,"Suriname",FALSE
+"Taza","Belize",1271,2014,68,"U.S.A.",3,"Belize",FALSE
+"Taza","Alto Beni",785,2011,87,"U.S.A.",3.25,"Bolivia",TRUE
+"Taza","Chiapan",451,2009,75,"U.S.A.",2.75,"Mexico",TRUE
+"Taza","Dark, Stone Ground",180,2007,70,"U.S.A.",3,"Dominican Republic",FALSE
+"TCHO","West Africa",1716,2016,62,"U.S.A.",2,"West Africa",FALSE
+"TCHO","Peru- Ecuador",915,2012,99,"U.S.A.",3.25,"Peru, Ecuador",TRUE
+"TCHO","TCHOPro 60.5",387,2009,60,"U.S.A.",2.75," ",FALSE
+"TCHO","TCHOPro 68",387,2009,68,"U.S.A.",3," ",FALSE
+"TCHO","Chocolatey-beta",199,2008,70,"U.S.A.",2.5,"Ghana",FALSE
+"TCHO","Fruity-beta",280,2008,70,"U.S.A.",2.5,"Peru",FALSE
+"TCHO","Citrus-beta",280,2008,70,"U.S.A.",2.75,"Madagascar",FALSE
+"TCHO","Nutty-beta",284,2008,70,"U.S.A.",2.5,"Peru",FALSE
+"Tejas","Concepcion",801,2012,70,"U.S.A.",2.75,"Madagascar",FALSE
+"Tejas","Bayou Blend",801,2012,70,"U.S.A.",3,"Ecuador, Mad., PNG",FALSE
+"Tejas","Aranama",805,2012,70,"U.S.A.",3,"Papua New Guinea",FALSE
+"Tejas","Presidio",805,2012,70,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Tejas","La Bahia, w/ cane juice",817,2012,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Tejas","Capistrano",821,2012,70,"U.S.A.",2,"Peru",FALSE
+"Tejas","La Bahia, w/ cane sugar",825,2012,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Tejas","San Jose",829,2012,70,"U.S.A.",2.75,"Bolivia",FALSE
+"Tejas","Capistrano*",829,2012,70,"U.S.A.",3,"Madagascar",FALSE
+"Tejas","Espada",833,2012,70,"U.S.A.",3.25,"Mexico",FALSE
+"Tejas","Espada",967,2012,70,"U.S.A.",2.75,"Brazil",FALSE
+"Tejas","Concepcion*",971,2012,80,"U.S.A.",3,"Venezuela",TRUE
+"Tejas","San Jose",971,2012,67,"U.S.A.",3.25,"Bolivia",FALSE
+"Tejas","Bahia, Floresta Azul,Good Friends Reserve#3",971,2012,70,"U.S.A.",3.5,"Brazil",FALSE
+"Terroir","Peru",1478,2015,70,"U.S.A.",2.75,"Peru",FALSE
+"Terroir","Belize",1478,2015,70,"U.S.A.",3.75,"Belize",FALSE
+"Terroir","Madagascar",1478,2015,70,"U.S.A.",3.75,"Madagascar",FALSE
+"Terroir","Ecuador",1482,2015,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Terroir","Oko Caribe",1554,2015,70,"U.S.A.",3.5,"Domincan Republic",FALSE
+"Terroir","Guatemala",1558,2015,70,"U.S.A.",3.75,"Guatemala",FALSE
+"Terroir","Ecuador",1323,2014,77,"U.S.A.",3.25,"Ecuador",TRUE
+"Terroir","Madagascar",1323,2014,67,"U.S.A.",3.75,"Madagascar",FALSE
+"Terroir","Uganda",1323,2014,73,"U.S.A.",3.75,"Uganda",TRUE
+"The Barn","Peru",1614,2015,70,"Sweden",3,"Peru",FALSE
+"Theo","Congo w/ nibs",903,2012,65,"U.S.A.",3.25,"Congo",FALSE
+"Theo","Madagascar",162,2007,65,"U.S.A.",3.5,"Madagascar",FALSE
+"Theo","Ivory Coast",184,2007,75,"U.S.A.",2.5,"Ivory Coast",TRUE
+"Theo","Ghana, Kumasi",184,2007,84,"U.S.A.",3,"Ghana",TRUE
+"Theo","Venezuela; Barinos, Merida, Tachron",188,2007,91,"U.S.A.",2,"Venezuela",TRUE
+"Theo","Ghana, Panama, Ecuador",188,2007,75,"U.S.A.",3,"Ghana, Panama, Ecuador",TRUE
+"Theobroma","Piura Select, Cacao Blanc",1684,2015,70,"Japan",3.25,"Peru",FALSE
+"Timo A. Meyer","Belize, med roast",1836,2016,72,"Germany",3.75,"Belize",TRUE
+"To'ak (Ecuatoriana)","Manabi",1418,2014,81,"Ecuador",3.25,"Ecuador",TRUE
+"Tobago Estate (Pralus)","Roxborough, Tobago",895,2012,70,"France",4,"Tobago",FALSE
+"Tocoti","Wild Bolivian, Jungle Love",927,2012,77,"U.S.A.",3,"Bolivia",TRUE
+"Tocoti","Venezuela",789,2011,72,"U.S.A.",2.75,"Venezuela",TRUE
+"Tocoti","Dominican Republic",789,2011,74,"U.S.A.",3,"Dominican Republic",TRUE
+"Treehouse","Conacado",1239,2014,72,"U.S.A.",3,"Dominican Republic",TRUE
+"Tsara (Cinagra)","Ambanja, Tsara Valley",753,2011,72,"Madagascar",3.5,"Madagascar",TRUE
+"twenty-four blackbirds","Oko Caribe",1700,2015,75,"U.S.A.",2.75,"Domincan Republic",TRUE
+"twenty-four blackbirds","Cedeno, lot 271",1700,2015,75,"U.S.A.",3.5,"Ecuador",TRUE
+"twenty-four blackbirds","Madagascar",1235,2014,75,"U.S.A.",3.5,"Madagascar",TRUE
+"twenty-four blackbirds","Dominican Republic",1022,2013,68,"U.S.A.",3.25,"Dominican Republic",FALSE
+"twenty-four blackbirds","Palos Blancos",1026,2013,75,"U.S.A.",2.5,"Bolivia",TRUE
+"twenty-four blackbirds","Dominican Republic",753,2011,73,"U.S.A.",2.75,"Dominican Republic",TRUE
+"Two Ravens","Peru",1740,2016,60,"U.S.A.",3,"Peru",FALSE
+"Un Dimanche A Paris","Dominican Republic",709,2011,63,"France",3.75,"Dominican Republic",FALSE
+"Undone","Matagalpa",1438,2014,74,"U.S.A.",2.75,"Nicaragua",TRUE
+"Undone","Nourish",1438,2014,70,"U.S.A.",3,"Dominican Republic",FALSE
+"Upchurch","Madagascar, Sassy Bar",1752,2016,72,"U.S.A.",3,"Madagascar",TRUE
+"Upchurch","Tanzania, Party Bar",1752,2016,72,"U.S.A.",3.25,"Tanzania",TRUE
+"Urzi","Sur del Lago, Merida",1327,2014,65,"Italy",3.25,"Venezuela",FALSE
+"Valrhona","Piura, Illanka, Quemazon",1510,2015,63,"France",4,"Peru",FALSE
+"Valrhona","Andoa, Grand Cru blend",1145,2013,70,"France",3.5," ",FALSE
+"Valrhona","Loma Sotavento, 2013",1153,2013,64,"France",3.5,"Dominican Republic",FALSE
+"Valrhona","Otucan, Grand Cru",931,2012,69,"France",4,"Venezuela",FALSE
+"Valrhona","Caraque",709,2011,56,"France",3.25," ",FALSE
+"Valrhona","Porcelana, Pedegral",757,2011,64,"France",4,"Venezuela",FALSE
+"Valrhona","Tainori",327,2009,64,"France",3.75,"Dominican Republic",FALSE
+"Valrhona","Alpaco",370,2009,66,"France",3.75,"Ecuador",FALSE
+"Valrhona","Nyangbo",395,2009,68,"France",3.5,"Ghana",FALSE
+"Valrhona","Araguani",117,2007,72,"France",3,"Venezuela, Carribean",TRUE
+"Valrhona","Chuao 2002 P.",129,2007,65,"France",3.75,"Venezuela",FALSE
+"Valrhona","Manjari",129,2007,64,"France",4,"Madagascar",FALSE
+"Valrhona","Le Noir Extra Amer",147,2007,85,"France",1.5," ",TRUE
+"Valrhona","Abinao",153,2007,85,"France",2.5,"West Africa",TRUE
+"Valrhona","Le Noir Amer",157,2007,71,"France",2.75,"West Africa",TRUE
+"Valrhona","Porcelana, Maracaibo, Palmira P. 2006",162,2007,64,"France",3.25,"Venezuela",FALSE
+"Valrhona","Caraibe",63,2006,66,"France",3,"Carribean",FALSE
+"Valrhona","Guanaja",63,2006,70,"France",4,"South America",FALSE
+"Valrhona","Gran Couva 2005 P.",75,2006,64,"France",2.5,"Trinidad",FALSE
+"Valrhona","Porcelana, Maracaibo, Palmira P. 2005",75,2006,64,"France",3,"Venezuela",FALSE
+"Valrhona","Sambirano, Ampamakia 2005, Millot P.",75,2006,64,"France",3.5,"Madagascar",FALSE
+"Vanleer (Barry Callebaut)","Manhattan",963,2012,72,"U.S.A.",2.5,"Ghana",TRUE
+"Vanleer (Barry Callebaut)","Napa",963,2012,65,"U.S.A.",2.75,"Ghana",FALSE
+"Vao Vao (Chocolaterie Robert)","Madagascar",404,2009,72,"Madagascar",2.75,"Madagascar",TRUE
+"Vao Vao (Chocolaterie Robert)","Madagascar",404,2009,76,"Madagascar",2.75,"Madagascar",TRUE
+"Vao Vao (Chocolaterie Robert)","Madagascar",404,2009,80,"Madagascar",2.75,"Madagascar",TRUE
+"Vao Vao (Chocolaterie Robert)","Madagascar",404,2009,70,"Madagascar",3,"Madagascar",FALSE
+"Vao Vao (Chocolaterie Robert)","Madagascar w/ nibs",404,2009,68,"Madagascar",3,"Madagascar",FALSE
+"Vao Vao (Chocolaterie Robert)","Madagascar",404,2009,64,"Madagascar",3.25,"Madagascar",FALSE
+"Vicuna","Palos Blancos",1470,2015,70,"U.S.A.",3.25,"Bolivia",FALSE
+"Vicuna","Palos Blancos + nibs",1470,2015,70,"U.S.A.",3.25,"Bolivia",FALSE
+"Videri","Dominican Republic",1211,2014,90,"U.S.A.",3.25,"Dominican Republic",TRUE
+"Videri","Trinidad",1211,2014,75,"U.S.A.",3.5,"Trinidad",TRUE
+"Videri","Mindo",1227,2014,75,"U.S.A.",3.5,"Ecuador",TRUE
+"Videri","Dark",1117,2013,90,"U.S.A.",3.75,"Central and S. America",TRUE
+"Videri","Classic",991,2012,70,"U.S.A.",3.25,"Central and S. America",FALSE
+"Vietcacao (A. Morin)","Ben Tre, Mekong Delta, MoCay",951,2012,70,"France",3.5,"Vietnam",FALSE
+"Vintage Plantations","San Martin",1205,2014,75,"U.S.A.",3,"Peru",TRUE
+"Vintage Plantations (Tulicorp)","Los Rios, Rancho Grande 2004/2007",153,2007,100,"U.S.A.",2,"Ecuador",TRUE
+"Vintage Plantations (Tulicorp)","Los Rios, Rancho Grande 2004/2007",153,2007,90,"U.S.A.",2,"Ecuador",TRUE
+"Vintage Plantations (Tulicorp)","Los Rios, Rancho Grande 2004/2007",153,2007,75,"U.S.A.",3,"Ecuador",TRUE
+"Vintage Plantations (Tulicorp)","Los Rios, Rancho Grande 2007",153,2007,65,"U.S.A.",3,"Ecuador",FALSE
+"Violet Sky","Sambirano Valley",1458,2015,77,"U.S.A.",2.75,"Madagascar",TRUE
+"Violet Sky","Moho River Valley",1458,2015,77,"U.S.A.",3,"Belize",TRUE
+"Violet Sky","Cuyagua",1458,2015,77,"U.S.A.",3,"Venezuela",TRUE
+"Violet Sky","Peru",1458,2015,77,"U.S.A.",3.25,"Peru",TRUE
+"Violet Sky","Cahabon",1502,2015,77,"U.S.A.",2.75,"Guatemala",TRUE
+"Vivra","Peru",1720,2016,70,"U.S.A.",2.5,"Peru",FALSE
+"Vivra","Ocumare",1720,2016,70,"U.S.A.",2.5,"Venezuela",FALSE
+"Vivra","Dominican Republic",1724,2016,70,"U.S.A.",3,"Domincan Republic",FALSE
+"Wellington Chocolate Factory","Conacado",1756,2016,70,"New Zealand",3.5,"Dominican Republic",FALSE
+"Wellington Chocolate Factory","Piura Blanco, Norandino",1756,2016,70,"New Zealand",3.5,"Peru",FALSE
+"Whittakers","Ghana",733,2011,72,"New Zealand",2.5,"Ghana",TRUE
+"Wilkie's Organic","Amazonas",1169,2013,75,"Ireland",2.5,"Peru",TRUE
+"Wilkie's Organic","Amazonas",1169,2013,89,"Ireland",2.75,"Peru",TRUE
+"Wilkie's Organic","Tumbes",1169,2013,75,"Ireland",3.25,"Peru",TRUE
+"Wilkie's Organic","Amazonas w/ nibs",1173,2013,75,"Ireland",2.75,"Peru",TRUE
+"Willie's Cacao","Los Llanos",1848,2016,70,"U.K.",4,"Colombia",FALSE
+"Willie's Cacao","Los Llanos",1227,2014,88,"U.K.",3,"Colombia",TRUE
+"Willie's Cacao","Java, Indonesian Black",1109,2013,100,"U.K.",2.25,"Indonesia",TRUE
+"Willie's Cacao","Sambirano",593,2010,71,"U.K.",3,"Madagascar",TRUE
+"Willie's Cacao","Hacienda Las Trincheras",593,2010,72,"U.K.",3.5,"Venezuela",TRUE
+"Willie's Cacao","Java",593,2010,69,"U.K.",3.75,"Indonesia",FALSE
+"Willie's Cacao","San Martin",457,2009,70,"U.K.",3,"Peru",FALSE
+"Willie's Cacao","Rio Caribe",457,2009,72,"U.K.",3.25,"Venezuela",TRUE
+"Wm","Guasare, Zulia Prov., 2015, batch 124",1912,2016,74,"U.S.A.",3,"Venezuela",TRUE
+"Wm","Wild Beniano, 2016, batch 128, Heirloom",1912,2016,76,"U.S.A.",3.5,"Bolivia",TRUE
+"Wm","Ghana, 2013, batch 129",1916,2016,75,"U.S.A.",3.75,"Ghana",TRUE
+"Woodblock","Maranon, Cajamarca",1243,2014,70,"U.S.A.",3,"Peru",FALSE
+"Woodblock","Camino Verde P., Balao, Guayas",1042,2013,70,"U.S.A.",3.25,"Ecuador",FALSE
+"Woodblock","Gran Couva",1042,2013,70,"U.S.A.",3.5,"Trinidad",FALSE
+"Woodblock","Ecuador",825,2012,70,"U.S.A.",2.5,"Ecuador",FALSE
+"Woodblock","Costa Rica",825,2012,70,"U.S.A.",3,"Costa Rica",FALSE
+"Woodblock","Sambirano",951,2012,70,"U.S.A.",3.25,"Madagascar",FALSE
+"Woodblock","Ocumare",741,2011,70,"U.S.A.",4,"Venezuela",FALSE
+"Woodblock","La Red",769,2011,70,"U.S.A.",3.5,"Dominican Republic",FALSE
+"Xocolat","Hispaniola",1057,2013,66,"Domincan Republic",3,"Dominican Republic",FALSE
+"Xocolla","Sambirano, batch 170102",1948,2017,70,"U.S.A.",2.75,"Madagascar",FALSE
+"Xocolla","Hispaniola, batch 170104",1948,2017,70,"U.S.A.",2.5,"Dominican Republic",FALSE
+"Zak's","Papua New Guinea, Batch 2",1574,2015,70,"U.S.A.",3,"Papua New Guinea",FALSE
+"Zak's","Dominican Republic, Batch D2",1578,2015,70,"U.S.A.",3.25,"Domincan Republic",FALSE
+"Zak's","Madagascar, Batch 2",1578,2015,70,"U.S.A.",3.25,"Madagascar",FALSE
+"Zak's","Peru, Batch 1",1578,2015,70,"U.S.A.",3.25,"Peru",FALSE
+"Zak's","Belize, Batch 2",1578,2015,70,"U.S.A.",3.5,"Belize",FALSE
+"Zak's","House Blend, Batch 2",1582,2015,60,"U.S.A.",3," ",FALSE
+"Zart Pralinen","Millot P., Ambanja",1820,2016,70,"Austria",3.5,"Madagascar",FALSE
+"Zart Pralinen","UNOCACE",1824,2016,70,"Austria",2.75,"Ecuador",FALSE
+"Zart Pralinen","San Juan Estate",1824,2016,85,"Austria",2.75,"Trinidad",TRUE
+"Zart Pralinen","Kakao Kamili, Kilombero Valley",1824,2016,85,"Austria",3,"Tanzania",TRUE
+"Zart Pralinen","Kakao Kamili, Kilombero Valley",1824,2016,70,"Austria",3.5,"Tanzania",FALSE
+"Zart Pralinen","San Juan Estate, Gran Couva",1880,2016,78,"Austria",3.5,"Trinidad",TRUE
+"Zokoko","Guadalcanal",1716,2016,78,"Australia",3.75,"Solomon Islands",TRUE
+"Zokoko","Goddess Blend",1780,2016,65,"Australia",3.25," ",FALSE
+"Zokoko","Alto Beni",697,2011,68,"Australia",3.5,"Bolivia",FALSE
+"Zokoko","Tokiala",701,2011,66,"Australia",3.5,"Papua New Guinea",FALSE
+"Zokoko","Tranquilidad, Baures",701,2011,72,"Australia",3.75,"Bolivia",TRUE
+"Zotter","Raw",1205,2014,80,"Austria",2.75," ",TRUE
+"Zotter","Bocas del Toro, Cocabo Co-op",801,2012,72,"Austria",3.5,"Panama",TRUE
+"Zotter","Amazonas Frucht",801,2012,65,"Austria",3.5," ",FALSE
+"Zotter","Satipo Pangoa region, 16hr conche",875,2012,70,"Austria",3,"Peru",FALSE
+"Zotter","Satipo Pangoa region, 20hr conche",875,2012,70,"Austria",3.5,"Peru",FALSE
+"Zotter","Loma Los Pinos, Yacao region, D.R.",875,2012,62,"Austria",3.75,"Dominican Republic",FALSE
+"Zotter","El Oro",879,2012,75,"Austria",3,"Ecuador",TRUE
+"Zotter","Huiwani Coop",879,2012,75,"Austria",3,"Papua New Guinea",TRUE
+"Zotter","El Ceibo Coop",879,2012,90,"Austria",3.25,"Bolivia",TRUE
+"Zotter","Santo Domingo",879,2012,70,"Austria",3.75,"Dominican Republic",FALSE
+"Zotter","Kongo, Highlands",883,2012,68,"Austria",3.25,"Congo",FALSE
+"Zotter","Indianer, Raw",883,2012,58,"Austria",3.5," ",FALSE
+"Zotter","Peru",647,2011,70,"Austria",3.75,"Peru",FALSE
+"Zotter","Congo",749,2011,65,"Austria",3,"Congo",FALSE
+"Zotter","Kerala State",749,2011,65,"Austria",3.5,"India",FALSE
+"Zotter","Kerala State",781,2011,62,"Austria",3.25,"India",FALSE
+"Zotter","Brazil, Mitzi Blue",486,2010,65,"Austria",3,"Brazil",FALSE
